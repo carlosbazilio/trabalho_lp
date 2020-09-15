@@ -3,6 +3,7 @@ Este repositório serve para demonstrar aos alunos e alunas de LP (UFF, Rio das 
 
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto.
 
+* Carlos Linhares, Q#
 * Humberto Chaves, Go
 * Layla Sampaio, Lua
 * Leandro Bucci, Rust
