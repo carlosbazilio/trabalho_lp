@@ -7,3 +7,4 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Humberto Chaves, Go
 * Layla Sampaio, Lua
 * Leandro Bucci, Rust
+* Guilherme da Costa, Ruby
