@@ -8,3 +8,4 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Layla Sampaio, Lua
 * Leandro Bucci, Rust
 * Thiago dos Santos Silva, Ruby
+* Cassiano de Souza, Fortran
