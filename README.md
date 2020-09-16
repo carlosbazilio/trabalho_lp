@@ -9,3 +9,6 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Leandro Bucci, Rust
 * Thiago dos Santos Silva, Ruby
 * Cassiano de Souza, Fortran
+* Gabriel de Souza Nascimento, Kotlin
+* Diego Maia, Julia
+* Guilherme da Costa, Swift
