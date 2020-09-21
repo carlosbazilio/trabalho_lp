@@ -3,5 +3,14 @@ Este repositório serve para demonstrar aos alunos e alunas de LP (UFF, Rio das 
 
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto.
 
-* Aluno 1, Linguagem 1
-* Aluno 2, Linguagem 2
+* Carlos Linhares, Q#
+* Humberto Chaves, Go
+* Layla Sampaio, Lua
+* Leandro Bucci, Rust
+* Thiago dos Santos Silva, Ruby
+* Cassiano de Souza, Fortran
+* Gabriel de Souza Nascimento, Kotlin
+* Diego Maia, Julia
+* Guilherme da Costa, Swift
+* Victor Hugo Morais, Dart
+* 
