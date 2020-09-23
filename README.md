@@ -8,5 +8,10 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Layla Sampaio, Lua
 * Leandro Bucci, Rust
 * Thiago dos Santos Silva, Ruby
-* Diego Maia, Julia
+* Cassiano de Souza, Fortran - https://www.youtube.com/watch?v=Of4WuyUtoZU
+* Gabriel de Souza Nascimento, Kotlin
+* Diego Maia, Julia - https://drive.google.com/file/d/1lTBSO2AxrGDD7WNsRRUeEZ4d_On6VAUj/view?usp=sharing
 * Guilherme da Costa, Swift
+* Victor Hugo Morais, Dart
+* Thiago da Cruz Bento Bulhosa, COBOL
+* Bruno dos Santos Alves, Scheme
