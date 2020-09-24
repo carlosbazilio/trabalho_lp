@@ -13,6 +13,6 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Diego Maia, Julia - https://drive.google.com/file/d/1lTBSO2AxrGDD7WNsRRUeEZ4d_On6VAUj/view?usp=sharing
 * Guilherme da Costa, Swift
 * Victor Hugo Morais, Dart
-* Thiago da Cruz Bento Bulhosa, COBOL
+* Thiago da Cruz Bento Bulhosa, COBOL - https://youtu.be/0gJ6jAOJSVM
 * Bruno dos Santos Alves, Scheme
 * Pablo Montel de Oliveira, Clojure
