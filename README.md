@@ -13,5 +13,5 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Diego Maia, Julia
 * Guilherme da Costa, Swift
 * Victor Hugo Morais, Dart
-* Thiago da Cruz Bento Bulhosa, COBOL
+* Thiago da Cruz Bento Bulhosa, COBOL - https://youtu.be/0gJ6jAOJSVM
 * Bruno dos Santos Alves, Scheme
