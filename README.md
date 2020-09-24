@@ -15,3 +15,4 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Victor Hugo Morais, Dart
 * Thiago da Cruz Bento Bulhosa, COBOL
 * Bruno dos Santos Alves, Scheme
+* Pablo Montel de Oliveira, Clojure
