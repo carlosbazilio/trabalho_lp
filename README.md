@@ -14,5 +14,5 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Guilherme da Costa, Swift
 * Victor Hugo Morais, Dart
 * Thiago da Cruz Bento Bulhosa, COBOL - https://youtu.be/0gJ6jAOJSVM
-* Bruno dos Santos Alves, Scheme
+* Bruno dos Santos Alves, Scheme - https://youtu.be/9hCx7vr-rpw
 * Pablo Montel de Oliveira, Clojure
