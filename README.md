@@ -4,7 +4,7 @@ Este repositório serve para demonstrar aos alunos e alunas de LP (UFF, Rio das 
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto.
 
 * Carlos Linhares, Q#- https://youtu.be/Y2umRfQG-g4
-* Humberto Chaves, Go
+* Humberto Chaves, Go - [Go.-.Humberto.Chaves.Jr.-.218060062 (1).pdf](https://github.com/carlosbazilio/primeiro_trabalho_lp/files/5284521/Go.-.Humberto.Chaves.Jr.-.218060062.1.pdf)
 * Layla Sampaio, Lua
 * Leandro Bucci, Rust
 * Thiago dos Santos Silva, Ruby - https://docs.google.com/presentation/d/1QgYDiXsbDxsADyP_vtz97iB3Kth59S8CQx0yP2tfwZU/edit?usp=sharing
