@@ -5,7 +5,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 
 * Carlos Linhares, Q#- https://youtu.be/Y2umRfQG-g4
 * Humberto Chaves, Go - [Go.-.Humberto.Chaves.Jr.-.218060062 (1).pdf](https://github.com/carlosbazilio/primeiro_trabalho_lp/files/5284521/Go.-.Humberto.Chaves.Jr.-.218060062.1.pdf)
-* Layla Sampaio, Lua
+* Layla Sampaio, Lua - https://youtu.be/bLd-9C8ptd0
 * Leandro Bucci, Rust
 * Thiago dos Santos Silva, Ruby - https://docs.google.com/presentation/d/1QgYDiXsbDxsADyP_vtz97iB3Kth59S8CQx0yP2tfwZU/edit?usp=sharing
 * Cassiano de Souza, Fortran - https://www.youtube.com/watch?v=Of4WuyUtoZU
