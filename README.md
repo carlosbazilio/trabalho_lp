@@ -8,7 +8,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
    https://drive.google.com/file/d/1UKw19zDYvxqTid5kVJ64jn2QNuV3649Y/view?usp=sharing
 * Layla Sampaio, Lua - https://youtu.be/bLd-9C8ptd0
 * Leandro Bucci, Rust - https://www.youtube.com/watch?v=dWDyZb1yj4I
-* Thiago dos Santos Silva, Ruby - https://docs.google.com/presentation/d/1QgYDiXsbDxsADyP_vtz97iB3Kth59S8CQx0yP2tfwZU/edit?usp=sharing
+* Thiago dos Santos Silva, Ruby - https://drive.google.com/file/d/1lbJ5i07cvUrW1os9qoWgacKqfoeUvJH2/view?usp=sharing
 * Cassiano de Souza, Fortran - https://www.youtube.com/watch?v=Of4WuyUtoZU
 * Gabriel de Souza Nascimento, Kotlin
 * Diego Maia, Julia - https://drive.google.com/file/d/1lTBSO2AxrGDD7WNsRRUeEZ4d_On6VAUj/view?usp=sharing
