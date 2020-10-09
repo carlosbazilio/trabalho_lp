@@ -31,4 +31,4 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 No segunndo trabalho, vocês devem implementar alguns dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
 * Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
-* 
+* Cassiano, Exercício 3 (garbage collector) - https://drive.google.com/drive/folders/1y-nc4eBFqiTRk_Qxj0f9xme-JWbK1KqC?usp=sharing
