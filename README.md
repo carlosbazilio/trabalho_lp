@@ -33,4 +33,4 @@ No segunndo trabalho, vocês devem implementar alguns dos trabalhos listados [ne
 
 * Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 * [Guilherme, Diego] - 3 - https://github.com/maiadiego/GarbageCollector/tree/master
-* 
+* [Leandro Bucci, Thiago Bulhosa, Victor Hugo - 3 - https://github.com/thiagobulhosa/Trabalho2LP]
