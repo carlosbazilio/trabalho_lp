@@ -35,3 +35,4 @@ No segunndo trabalho, vocês devem implementar alguns dos trabalhos listados [ne
 * [Leandro Bucci, Thiago Bulhosa, Victor Hugo - 3 - https://github.com/thiagobulhosa/Trabalho2LP
 * [Guilherme, Diego] - 3 - https://github.com/maiadiego/GarbageCollector
 * Cassiano de Souza - 3 - https://github.com/cassianodess/Segundo-trabalho-de-LP
+* Carlos Linhares, Humberto Chaves e Layla Sampaio - trabalho 2 com coleta automática de lixo por contagem de referência -https://github.com/layla-oli/polux
