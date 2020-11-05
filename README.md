@@ -34,4 +34,4 @@ No segunndo trabalho, vocês devem implementar alguns dos trabalhos listados [ne
 * Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 * [Leandro Bucci, Thiago Bulhosa, Victor Hugo - 3 - https://github.com/thiagobulhosa/Trabalho2LP
 * [Guilherme, Diego] - 3 - https://github.com/maiadiego/GarbageCollector
-* 
+* Cassiano de Souza - 3 - https://github.com/cassianodess/Segundo-trabalho-de-LP
