@@ -43,4 +43,4 @@ No segunndo trabalho, vocês devem implementar alguns dos trabalhos listados [ne
 ## Terceiro Trabalho
 
 * Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
-* 
+* Guilherme, Diego - 3 - https://github.com/GuilhermeSilva8/carrinho_de_compras
