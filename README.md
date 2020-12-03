@@ -46,3 +46,4 @@ No segunndo trabalho, vocês devem implementar alguns dos trabalhos listados [ne
 * Bruno dos Santos, Carlos Linhares - 2- https://github.com/Carl11br/intervalos-TrabalhoLP
 * Guilherme, Diego - 3 - https://github.com/GuilhermeSilva8/carrinho_de_compras
 * Cassiano - 4 - https://github.com/cassianodess/Manipular_Datas
+* Victor Hugo, Thiago Bulhosa - 5 - https://github.com/thiagobulhosa/BibliotecaParticular
