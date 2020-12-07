@@ -47,4 +47,5 @@ No segunndo trabalho, vocês devem implementar alguns dos trabalhos listados [ne
 * Guilherme, Diego - 3 - https://github.com/GuilhermeSilva8/carrinho_de_compras
 * Cassiano - 4 - https://github.com/cassianodess/Manipular_Datas
 * Victor Hugo, Thiago Bulhosa - 5 - https://github.com/thiagobulhosa/BibliotecaParticular
+* Leandro Bucci - 8 - https://github.com/LeandroBucci/TrabalhoLPOO
 * Humberto Chaves, Layla Sampaio - 7 - https://github.com/ChavesHumberto/trabalho-Pilha-LP
