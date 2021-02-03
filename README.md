@@ -18,6 +18,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - Guilhermo Hounie - Typescript
 - Allan Martins - Elixir
 - Júlia Miranda - Lua
+* Felipe Peixoto - Delphi
 
 ## Segundo Trabalho
 
