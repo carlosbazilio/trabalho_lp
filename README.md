@@ -20,6 +20,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Júlia Miranda - Lua
 * Rafael Von Helde - SQL
 * Felipe Peixoto - Delphi
+* Neri Allemand - COBOL
 
 ## Segundo Trabalho
 
