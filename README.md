@@ -21,6 +21,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Rafael Von Helde - SQL
 * Felipe Peixoto - Delphi
 * Neri Allemand - COBOL
+* Luis Antonio - Go
 
 ## Segundo Trabalho
 
