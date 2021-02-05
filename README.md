@@ -22,6 +22,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Felipe Peixoto - Delphi
 * Neri Allemand - COBOL
 * Lucas Mendonça - Assembly Language
+* Luis Antonio - Go
 
 ## Segundo Trabalho
 
