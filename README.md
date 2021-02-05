@@ -15,8 +15,15 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 
 * Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
 * Julio Carvalho - Ruby
-- Guilhermo Hounie - Typescript
-- Allan Martins - Elixir
+* Guilhermo Hounie - Typescript
+* Allan Martins - Elixir
+* Júlia Miranda - Lua
+* Rafael Von Helde - SQL
+* Felipe Peixoto - Delphi
+* Neri Allemand - COBOL
+* Lucas Mendonça - Assembly Language
+* Luis Antonio - Go
+* Luan Freire - Swift
 
 ## Segundo Trabalho
 
