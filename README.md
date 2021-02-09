@@ -20,7 +20,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - Rafael Von Helde - SQL
 - Felipe Peixoto - Delphi
 - Neri Allemand - COBOL
-- Lucas Mendonça - Assembly Language
+- Lucas Mendonça - Assembly Language - https://youtu.be/qprS5aGlizo
 - Luis Antonio - Go
 - Luan Freire - Swift
 - Carlos Vinicios - Pascal
@@ -30,8 +30,8 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
-- Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
--
+* Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+*
 
 ## Terceiro Trabalho
 
