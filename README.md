@@ -21,9 +21,11 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Rafael Von Helde - SQL
 * Felipe Peixoto - Delphi
 * Neri Allemand - COBOL
-* Lucas Mendonça - Assembly Language
+* Lucas Mendonça - Assembly Language - https://youtu.be/qprS5aGlizo
 * Luis Antonio - Go
 * Luan Freire - Swift
+* Carlos Vinicios - Pascal
+* Rodrigo Porto - Groovy
 * Reinaldo Coutinho - Rust
 
 ## Segundo Trabalho
