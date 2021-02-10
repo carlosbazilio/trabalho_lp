@@ -24,7 +24,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Lucas Mendonça - Assembly Language - https://youtu.be/qprS5aGlizo
 * Luis Antonio - Go
 * Luan Freire - Swift
-* Carlos Vinicios - Pascal
+* Carlos Vinicios - Pascal - https://youtu.be/zWPDMMgRGfk
 * Rodrigo Porto - Groovy
 * Reinaldo Coutinho - Rust
 
