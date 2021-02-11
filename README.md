@@ -19,7 +19,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Allan Martins - Elixir
 * Júlia Miranda - Lua
 * Rafael Von Helde - SQL
-* Felipe Peixoto - Delphi
+* Felipe Peixoto - Delphi - Youtube: https://youtu.be/Pt2KrQfXHUw - Google Drive: https://drive.google.com/drive/folders/1N7ApeFQ8obvnRR7GP0pXUNbA_BZ9czjD?usp=sharing
 * Neri Allemand - COBOL
 * Lucas Mendonça - Assembly Language - https://youtu.be/qprS5aGlizo
 * Luis Antonio - Go
