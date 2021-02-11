@@ -20,7 +20,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Júlia Miranda - Lua
 * Rafael Von Helde - SQL
 * Felipe Peixoto - Delphi
-* Neri Allemand - COBOL
+* Neri Allemand - COBOL - https://drive.google.com/drive/folders/1dmT9VKp4FEwesfWQDJsX0taLlccEz83C?usp=sharing
 * Lucas Mendonça - Assembly Language - https://youtu.be/qprS5aGlizo
 * Luis Antonio - Go
 * Luan Freire - Swift
