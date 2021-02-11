@@ -18,7 +18,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - Guilhermo Hounie - Typescript
 - Allan Martins - Elixir
 - Júlia Miranda - Lua
-* Felipe Peixoto - Delphi
+* Felipe Peixoto - Delphi - Youtube: https://youtu.be/Pt2KrQfXHUw - Google Drive: https://drive.google.com/drive/folders/1N7ApeFQ8obvnRR7GP0pXUNbA_BZ9czjD?usp=sharing
 
 ## Segundo Trabalho
 
