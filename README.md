@@ -18,7 +18,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Guilhermo Hounie - Typescript
 * Allan Martins - Elixir
 * Júlia Miranda - Lua
-* Rafael Von Helde - SQL
+* Rafael Von Helde - SQL - https://drive.google.com/file/d/1kBX_BbYqZDlbY7I0eEmVFw-3q2qgtpLL/view?usp=sharing
 * Felipe Peixoto - Delphi
 
 ## Segundo Trabalho
