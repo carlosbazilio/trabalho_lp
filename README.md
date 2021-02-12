@@ -14,12 +14,21 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
 * Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
-* Julio Carvalho - Ruby
-* Guilhermo Hounie - Typescript
+* Julio Carvalho - Ruby - https://youtu.be/tFb3vn5CKiw
+* Guilhermo Hounie - Typescript - Drive: https://drive.google.com/file/d/10e41PktCIqWIEQHcDnl3ME96CnvR5IDW/view?usp=sharing - Website: https://trabalholpslidestypescript.guilhermonicola.repl.co
 * Allan Martins - Elixir
 * Júlia Miranda - Lua
 * Rafael Von Helde - SQL - https://drive.google.com/file/d/1kBX_BbYqZDlbY7I0eEmVFw-3q2qgtpLL/view?usp=sharing
-* Felipe Peixoto - Delphi
+* Felipe Peixoto - Delphi - Youtube: https://youtu.be/Pt2KrQfXHUw - Google Drive: https://drive.google.com/drive/folders/1N7ApeFQ8obvnRR7GP0pXUNbA_BZ9czjD?usp=sharing
+* Neri Allemand - COBOL - https://drive.google.com/file/d/1xYjuLJ_de0-4e8z2k1KMvXrJWmyA1jjS/view?usp=sharing
+* Lucas Mendonça - Assembly Language - https://youtu.be/qprS5aGlizo
+* Luis Antonio - Go
+* Luan Freire - Swift - https://drive.google.com/file/d/12-CeSSpT9ie57YisVIKpyhhTABBys2m-/view?usp=sharing
+* Carlos Vinicios - Pascal - https://youtu.be/zWPDMMgRGfk
+* Rodrigo Porto - Groovy - https://youtu.be/MNHf1p4UegQ
+* Reinaldo Coutinho - Rust
+* João Victor - Perl
+* Leonardo Fernandes - ML - https://youtu.be/zoH5Qfx3RWQ
 
 ## Segundo Trabalho
 
