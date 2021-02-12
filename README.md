@@ -17,7 +17,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Julio Carvalho - Ruby
 - Guilhermo Hounie - Typescript
 - Allan Martins - Elixir
-- Júlia Miranda - Lua
+- Júlia Miranda - Lua - https://drive.google.com/file/d/1-_hd8NdqWh72iRjKXq9H7BZ-ElJTiaLp/view?usp=sharing
 
 ## Segundo Trabalho
 
