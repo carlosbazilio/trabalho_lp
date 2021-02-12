@@ -18,7 +18,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Guilhermo Hounie - Typescript - Drive: https://drive.google.com/file/d/10e41PktCIqWIEQHcDnl3ME96CnvR5IDW/view?usp=sharing - Website: https://trabalholpslidestypescript.guilhermonicola.repl.co
 * Allan Martins - Elixir
 * Júlia Miranda - Lua
-* Rafael Von Helde - SQL
+* Rafael Von Helde - SQL - https://drive.google.com/file/d/1kBX_BbYqZDlbY7I0eEmVFw-3q2qgtpLL/view?usp=sharing
 * Felipe Peixoto - Delphi - Youtube: https://youtu.be/Pt2KrQfXHUw - Google Drive: https://drive.google.com/drive/folders/1N7ApeFQ8obvnRR7GP0pXUNbA_BZ9czjD?usp=sharing
 * Neri Allemand - COBOL - https://drive.google.com/file/d/1xYjuLJ_de0-4e8z2k1KMvXrJWmyA1jjS/view?usp=sharing
 * Lucas Mendonça - Assembly Language - https://youtu.be/qprS5aGlizo
