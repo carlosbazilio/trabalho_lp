@@ -15,7 +15,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 
 * Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
 * Julio Carvalho - Ruby
-* Guilhermo Hounie - Typescript
+* Guilhermo Hounie - Typescript - Drive: https://drive.google.com/file/d/10e41PktCIqWIEQHcDnl3ME96CnvR5IDW/view?usp=sharing - Website: https://trabalholpslidestypescript.guilhermonicola.repl.co
 * Allan Martins - Elixir
 * Júlia Miranda - Lua
 * Rafael Von Helde - SQL
