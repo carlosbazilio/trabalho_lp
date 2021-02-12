@@ -28,6 +28,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Rodrigo Porto - Groovy
 * Reinaldo Coutinho - Rust
 * João Victor - Perl
+* Leonardo Fernandes - ML - https://youtu.be/zoH5Qfx3RWQ
 
 ## Segundo Trabalho
 
