@@ -22,7 +22,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Felipe Peixoto - Delphi - Youtube: https://youtu.be/Pt2KrQfXHUw - Google Drive: https://drive.google.com/drive/folders/1N7ApeFQ8obvnRR7GP0pXUNbA_BZ9czjD?usp=sharing
 * Neri Allemand - COBOL - https://drive.google.com/file/d/1xYjuLJ_de0-4e8z2k1KMvXrJWmyA1jjS/view?usp=sharing
 * Lucas Mendonça - Assembly Language - https://youtu.be/qprS5aGlizo
-* Luis Antonio - Go
+* Luis Antonio - Go - https://www.youtube.com/watch?v=xTOZXndqPXo&feature=youtu.be
 * Luan Freire - Swift - https://drive.google.com/file/d/12-CeSSpT9ie57YisVIKpyhhTABBys2m-/view?usp=sharing
 * Carlos Vinicios - Pascal - https://youtu.be/zWPDMMgRGfk
 * Rodrigo Porto - Groovy - https://youtu.be/MNHf1p4UegQ
