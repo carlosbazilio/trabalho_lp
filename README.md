@@ -27,7 +27,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Carlos Vinicios - Pascal - https://youtu.be/zWPDMMgRGfk
 * Rodrigo Porto - Groovy
 * Reinaldo Coutinho - Rust
-* João Victor - Perl
+* João Victor - Perl - https://youtu.be/fseveX_iCiA
 
 ## Segundo Trabalho
 
