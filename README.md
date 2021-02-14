@@ -29,6 +29,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Reinaldo Coutinho - Rust - Google Drive:https://drive.google.com/file/d/1lMHA_3d26prZuMNHlkSWLpDEZEerF4D6/view?usp=sharing  Youtube:https://youtu.be/Nyblvc4x0QQ
 * João Victor - Perl
 * Leonardo Fernandes - ML - https://youtu.be/zoH5Qfx3RWQ
+* Victor Felix - APEX - https://www.youtube.com/watch?v=a2ZpI-J8pmM&ab_channel=VictorFelix
 
 
 ## Segundo Trabalho
