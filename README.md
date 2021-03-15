@@ -14,19 +14,23 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
 * Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
-* Julio Carvalho - Ruby
-* Guilhermo Hounie - Typescript
-* Allan Martins - Elixir
-* Júlia Miranda - Lua
-* Rafael Von Helde - SQL
-* Felipe Peixoto - Delphi
-* Neri Allemand - COBOL
+* Julio Carvalho - Ruby - https://youtu.be/tFb3vn5CKiw
+* Guilhermo Hounie - Typescript - Drive: https://drive.google.com/file/d/10e41PktCIqWIEQHcDnl3ME96CnvR5IDW/view?usp=sharing - Website: https://trabalholpslidestypescript.guilhermonicola.repl.co
+* Allan Martins - Elixir - https://www.youtube.com/watch?v=NiQ3Yrcjjes&feature=youtu.be
+* Júlia Miranda - Lua - https://drive.google.com/file/d/1-_hd8NdqWh72iRjKXq9H7BZ-ElJTiaLp/view?usp=sharing
+* Rafael Von Helde - SQL - https://drive.google.com/file/d/1kBX_BbYqZDlbY7I0eEmVFw-3q2qgtpLL/view?usp=sharing
+* Felipe Peixoto - Delphi - Youtube: https://youtu.be/Pt2KrQfXHUw - Google Drive: https://drive.google.com/drive/folders/1N7ApeFQ8obvnRR7GP0pXUNbA_BZ9czjD?usp=sharing
+* Neri Allemand - COBOL - https://drive.google.com/file/d/1xYjuLJ_de0-4e8z2k1KMvXrJWmyA1jjS/view?usp=sharing
 * Lucas Mendonça - Assembly Language - https://youtu.be/qprS5aGlizo
-* Luis Antonio - Go
-* Luan Freire - Swift
+* Luis Antonio - Go - https://www.youtube.com/watch?v=xTOZXndqPXo&feature=youtu.be
+* Luan Freire - Swift - https://drive.google.com/file/d/12-CeSSpT9ie57YisVIKpyhhTABBys2m-/view?usp=sharing
 * Carlos Vinicios - Pascal - https://youtu.be/zWPDMMgRGfk
-* Rodrigo Porto - Groovy
-* Reinaldo Coutinho - Rust
+* Rodrigo Porto - Groovy - https://youtu.be/MNHf1p4UegQ
+* Reinaldo Coutinho - Rust - Google Drive:https://drive.google.com/file/d/1lMHA_3d26prZuMNHlkSWLpDEZEerF4D6/view?usp=sharing  Youtube:https://youtu.be/Nyblvc4x0QQ
+* João Victor - Perl - https://youtu.be/fseveX_iCiA
+* Leonardo Fernandes - ML - https://youtu.be/zoH5Qfx3RWQ
+* Victor Felix - APEX - https://www.youtube.com/watch?v=a2ZpI-J8pmM&ab_channel=VictorFelix
+* Marina da Cruz Bento Bulhosa - Scratch - https://drive.google.com/file/d/1XOjLTP2ywaEfvxv__7eeoSf3K8QdN9aD/view?usp=sharing
 
 ## Segundo Trabalho
 
