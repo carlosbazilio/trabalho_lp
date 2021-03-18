@@ -38,6 +38,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 
 * Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 *
+* Guilhermo Hounie - 2 - https://github.com/UFF-Guilhermo-Hounie/heap
 
 ## Terceiro Trabalho
 
