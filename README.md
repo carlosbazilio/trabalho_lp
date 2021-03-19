@@ -38,6 +38,8 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 
 * Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 * Lucas Mendonça de Morais Cavalcante - 2 - https://github.com/ColdmaterL/Trabalho_2_Lp
+* Carlos Vinicios De Souza Azeredo - 3 - https://github.com/CarlosVinicios99/Simulando_Contador_de_Referencias
+* Guilhermo Hounie - 2 - https://github.com/UFF-Guilhermo-Hounie/heap
 
 ## Terceiro Trabalho
 
