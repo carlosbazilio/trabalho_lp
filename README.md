@@ -37,6 +37,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
 * Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+* Neri Allemand - 3 - https://github.com/neriallemand/ContadorDeReferencias
 * Lucas Mendonça de Morais Cavalcante - 2 - https://github.com/ColdmaterL/Trabalho_2_Lp
 * Carlos Vinicios De Souza Azeredo - 3 - https://github.com/CarlosVinicios99/Simulando_Contador_de_Referencias
 * Guilhermo Hounie - 2 - https://github.com/UFF-Guilhermo-Hounie/heap
