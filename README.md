@@ -29,12 +29,20 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Reinaldo Coutinho - Rust - Google Drive:https://drive.google.com/file/d/1lMHA_3d26prZuMNHlkSWLpDEZEerF4D6/view?usp=sharing  Youtube:https://youtu.be/Nyblvc4x0QQ
 * João Victor - Perl - https://youtu.be/fseveX_iCiA
 * Leonardo Fernandes - ML - https://youtu.be/zoH5Qfx3RWQ
+* Victor Felix - APEX - https://www.youtube.com/watch?v=a2ZpI-J8pmM&ab_channel=VictorFelix
+* Marina da Cruz Bento Bulhosa - Scratch - https://drive.google.com/file/d/1XOjLTP2ywaEfvxv__7eeoSf3K8QdN9aD/view?usp=sharing
 
 ## Segundo Trabalho
 
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
 * Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+* Allan Martins, Julio Carvalho - 3 - https://github.com/juliocarvalhos/garbage_collector
+* Rafael Von Helde, Felipe Peixoto, Luan Freire - Exercício Número 6 (Pré-Processadores)- https://github.com/Felipeixotont/LP_Trab2_pre_processador
+* Neri Allemand - 3 - https://github.com/neriallemand/ContadorDeReferencias
+* Lucas Mendonça de Morais Cavalcante - 2 - https://github.com/ColdmaterL/Trabalho_2_Lp
+* Carlos Vinicios De Souza Azeredo - 3 - https://github.com/CarlosVinicios99/Simulando_Contador_de_Referencias
+* Guilhermo Hounie - 2 - https://github.com/UFF-Guilhermo-Hounie/heap
 * João Victor de Souza, Victor Felix - 3 - https://github.com/JVictorCC/Coletor-de-Lixo
 
 ## Terceiro Trabalho
