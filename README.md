@@ -42,7 +42,8 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 * Neri Allemand - 3 - https://github.com/neriallemand/ContadorDeReferencias
 * Lucas Mendonça de Morais Cavalcante - 2 - https://github.com/ColdmaterL/Trabalho_2_Lp
 * Carlos Vinicios De Souza Azeredo - 3 - https://github.com/CarlosVinicios99/Simulando_Contador_de_Referencias
-* Guilhermo Hounie - 2 - https://github.com/UFF-Guilhermo-Hounie/heap
+* Guilhermo Hounie - 2 - https://github.com/UFF-Guilhermo-Hounie/heap 
+* Leonardo Fernandes - 3 -https://github.com/LeoMFernandes/ContDeRef
 
 ## Terceiro Trabalho
 
