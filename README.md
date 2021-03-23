@@ -44,6 +44,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 * Carlos Vinicios De Souza Azeredo - 3 - https://github.com/CarlosVinicios99/Simulando_Contador_de_Referencias
 * Guilhermo Hounie - 2 - https://github.com/UFF-Guilhermo-Hounie/heap
 * João Victor de Souza, Victor Felix - 3 - https://github.com/JVictorCC/Coletor-de-Lixo
+* Luis Antonio - 2 - https://github.com/luisantoniou/lp-github/tree/main/2%20trabalho
 
 ## Terceiro Trabalho
 
