@@ -48,6 +48,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 * Rodrigo Porto - 3 - https://github.com/RodrigoPorto14/contador_referencias
 * João Victor de Souza, Victor Felix - 3 - https://github.com/JVictorCC/Coletor-de-Lixo
 * Luis Antonio - 2 - https://github.com/luisantoniou/lp-github/tree/main/2%20trabalho
+* Marina da Cruz Bento Bulhosa - 3 - https://github.com/marinabulhosa/ColetorAutomaticoDeLixo
 
 ## Terceiro Trabalho
 
