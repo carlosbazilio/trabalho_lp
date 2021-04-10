@@ -56,6 +56,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Guilhermo Hounie - 3 - https://github.com/UFF-Guilhermo-Hounie/estoques
+- Carlos Vinícios De Souza Azeredo - 1 - https://github.com/CarlosVinicios99/Atividade1-OO
 
 ## Quarto Trabalho
 
