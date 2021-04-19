@@ -56,7 +56,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Guilhermo Hounie - 3 - https://github.com/UFF-Guilhermo-Hounie/estoques
-
+- Lucas Mendonça - 1 - https://github.com/ColdmaterL/Trabalho-lp-3
 ## Quarto Trabalho
 
 Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguagem Haskell, ou seja, usando o paradigma funcional. Este trabalho também pode ser feito em dupla, sendo que a dupla não pode ser igual a nenhuma dos trabalhos anteriores.
