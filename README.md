@@ -61,4 +61,4 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguagem Haskell, ou seja, usando o paradigma funcional. Este trabalho também pode ser feito em dupla, sendo que a dupla não pode ser igual a nenhuma dos trabalhos anteriores.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
--
+- Reinaldo Coutinho - 8 - https://github.com/ReinaldoJr10/Trabalho-de-Haskell
