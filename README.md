@@ -49,17 +49,28 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 * João Victor de Souza, Victor Felix - 3 - https://github.com/JVictorCC/Coletor-de-Lixo
 * Luis Antonio - 2 - https://github.com/luisantoniou/lp-github/tree/main/2%20trabalho
 * Marina da Cruz Bento Bulhosa - 3 - https://github.com/marinabulhosa/ColetorAutomaticoDeLixo
+* Leonardo Peçanha - Memória Heap: https://github.com/LeoHazer/MemoHeap_Teste
 
 ## Terceiro Trabalho
 
 Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+- Rafael Von Helde - 4 - https://github.com/Vonhld/POO-em-Python
+- Luan Freire - 7 - https://github.com/luan-freire/trabalho3LP/tree/master
 - Guilhermo Hounie - 3 - https://github.com/UFF-Guilhermo-Hounie/estoques
 - Lucas Mendonça - 1 - https://github.com/ColdmaterL/Trabalho-lp-3
+- Luis antonio - 1 - https://github.com/luididelta/trabalho3
+- Neri Allemand - 1 - https://github.com/neriallemand/AgendaTelefonica
+- Reinaldo Coutinho - 8 - https://github.com/ReinaldoJr10/TrabalhoOrientacaoObjetos
+- Felipe Henrique Peixoto Neto - 7 - https://github.com/Felipeixotont/Trabalho_3_LP
+- Guilhermo Hounie - 3 - https://github.com/UFF-Guilhermo-Hounie/estoques, 8 - https://github.com/UFF-Guilhermo-Hounie/pedidos
+- Carlos Vinícios De Souza Azeredo - 1 - https://github.com/CarlosVinicios99/Atividade1-OO
+- Julio Carvalho ,João Victor - 1 - https://github.com/juliocarvalhos/agenda_telefonica
+
 ## Quarto Trabalho
 
 Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguagem Haskell, ou seja, usando o paradigma funcional. Este trabalho também pode ser feito em dupla, sendo que a dupla não pode ser igual a nenhuma dos trabalhos anteriores.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
--
+- Reinaldo Coutinho - 8 - https://github.com/ReinaldoJr10/Trabalho-de-Haskell
