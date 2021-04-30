@@ -57,6 +57,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Guilhermo Hounie - 3 - https://github.com/UFF-Guilhermo-Hounie/estoques
+- Luis antonio - 1 - https://github.com/luididelta/trabalho3
 - Neri Allemand - 1 - https://github.com/neriallemand/AgendaTelefonica
 - Reinaldo Coutinho - 8 - https://github.com/ReinaldoJr10/TrabalhoOrientacaoObjetos
 - Felipe Henrique Peixoto Neto - 7 - https://github.com/Felipeixotont/Trabalho_3_LP
