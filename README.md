@@ -37,11 +37,19 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
 * Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+* Reinaldo Coutinho  - 6 - https://github.com/ReinaldoJr10/Trabalho-pre-processador
+* Allan Martins, Julio Carvalho - 3 - https://github.com/juliocarvalhos/garbage_collector
 * Rafael Von Helde, Felipe Peixoto, Luan Freire - Exercício Número 6 (Pré-Processadores)- https://github.com/Felipeixotont/LP_Trab2_pre_processador
 * Neri Allemand - 3 - https://github.com/neriallemand/ContadorDeReferencias
 * Lucas Mendonça de Morais Cavalcante - 2 - https://github.com/ColdmaterL/Trabalho_2_Lp
 * Carlos Vinicios De Souza Azeredo - 3 - https://github.com/CarlosVinicios99/Simulando_Contador_de_Referencias
+* Leonardo Fernandes - 3 -https://github.com/LeoMFernandes/ContDeRef
 * Guilhermo Hounie - 2 - https://github.com/UFF-Guilhermo-Hounie/heap
+* Rodrigo Porto - 3 - https://github.com/RodrigoPorto14/contador_referencias
+* João Victor de Souza, Victor Felix - 3 - https://github.com/JVictorCC/Coletor-de-Lixo
+* Luis Antonio - 2 - https://github.com/luisantoniou/lp-github/tree/main/2%20trabalho
+* Marina da Cruz Bento Bulhosa - 3 - https://github.com/marinabulhosa/ColetorAutomaticoDeLixo
+* Leonardo Peçanha - Memória Heap: https://github.com/LeoHazer/MemoHeap_Teste
 
 ## Terceiro Trabalho
 
@@ -49,6 +57,8 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Felipe Henrique Peixoto Neto - 7 - https://github.com/Felipeixotont/Trabalho_3_LP
+- Guilhermo Hounie - 3 - https://github.com/UFF-Guilhermo-Hounie/estoques, 8 - https://github.com/UFF-Guilhermo-Hounie/pedidos
+- Carlos Vinícios De Souza Azeredo - 1 - https://github.com/CarlosVinicios99/Atividade1-OO
 
 ## Quarto Trabalho
 
