@@ -56,6 +56,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+- Luan Freire - 7 - https://github.com/luan-freire/trabalho3LP/tree/master
 - Guilhermo Hounie - 3 - https://github.com/UFF-Guilhermo-Hounie/estoques
 - Luis antonio - 1 - https://github.com/luididelta/trabalho3
 - Neri Allemand - 1 - https://github.com/neriallemand/AgendaTelefonica
