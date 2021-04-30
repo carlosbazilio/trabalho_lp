@@ -48,6 +48,8 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 * Rodrigo Porto - 3 - https://github.com/RodrigoPorto14/contador_referencias
 * João Victor de Souza, Victor Felix - 3 - https://github.com/JVictorCC/Coletor-de-Lixo
 * Luis Antonio - 2 - https://github.com/luisantoniou/lp-github/tree/main/2%20trabalho
+* Marina da Cruz Bento Bulhosa - 3 - https://github.com/marinabulhosa/ColetorAutomaticoDeLixo
+* Leonardo Peçanha - Memória Heap: https://github.com/LeoHazer/MemoHeap_Teste
 
 ## Terceiro Trabalho
 
@@ -55,6 +57,9 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Reinaldo Coutinho - 8 - https://github.com/ReinaldoJr10/TrabalhoOrientacaoObjetos
+- Felipe Henrique Peixoto Neto - 7 - https://github.com/Felipeixotont/Trabalho_3_LP
+- Guilhermo Hounie - 3 - https://github.com/UFF-Guilhermo-Hounie/estoques, 8 - https://github.com/UFF-Guilhermo-Hounie/pedidos
+- Carlos Vinícios De Souza Azeredo - 1 - https://github.com/CarlosVinicios99/Atividade1-OO
 
 ## Quarto Trabalho
 
