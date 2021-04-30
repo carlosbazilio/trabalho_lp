@@ -49,6 +49,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 * João Victor de Souza, Victor Felix - 3 - https://github.com/JVictorCC/Coletor-de-Lixo
 * Luis Antonio - 2 - https://github.com/luisantoniou/lp-github/tree/main/2%20trabalho
 * Marina da Cruz Bento Bulhosa - 3 - https://github.com/marinabulhosa/ColetorAutomaticoDeLixo
+* Leonardo Peçanha - Memória Heap: https://github.com/LeoHazer/MemoHeap_Teste
 
 ## Terceiro Trabalho
 
