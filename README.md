@@ -75,3 +75,4 @@ Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguage
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Reinaldo Coutinho - 8 - https://github.com/ReinaldoJr10/Trabalho-de-Haskell
 - Guilhermo Hounie - 8 https://github.com/UFF-Guilhermo-Hounie/haskell-pedidos
+- Allan Martins - 4 - https://github.com/martsallan/DateManipulation
