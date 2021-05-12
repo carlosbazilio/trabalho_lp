@@ -76,6 +76,7 @@ Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguage
 - Felipe Henrique Peixoto Neto - 7 - https://github.com/Felipeixotont/LP_Trab4/tree/master
 - Reinaldo Coutinho - 8 - https://github.com/ReinaldoJr10/Trabalho-de-Haskell
 - Guilhermo Hounie - 8 https://github.com/UFF-Guilhermo-Hounie/haskell-pedidos
+- Allan Martins - 4 - https://github.com/martsallan/DateManipulation
 - João Victor de Souza - 1 - https://github.com/JVictorCC/Trabalho-de-Haskell
 - Julio Carvalho - 1 - https://github.com/juliocarvalhos/agenda_telefonica
 - Lucas Mendonça - 1 - https://github.com/ColdmaterL/Trabalho_lp_4
