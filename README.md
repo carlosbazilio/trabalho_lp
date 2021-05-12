@@ -75,6 +75,7 @@ Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguage
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Reinaldo Coutinho - 8 - https://github.com/ReinaldoJr10/Trabalho-de-Haskell
 - Guilhermo Hounie - 8 https://github.com/UFF-Guilhermo-Hounie/haskell-pedidos
+- João Victor de Souza - 1 - https://github.com/JVictorCC/Trabalho-de-Haskell
 - Julio Carvalho - 1 - https://github.com/juliocarvalhos/agenda_telefonica
 - Lucas Mendonça - 1 - https://github.com/ColdmaterL/Trabalho_lp_4
 - Neri Allemand - 1 - https://github.com/neriallemand/AgendaHaskell
