@@ -13,7 +13,7 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
-* Lucas Parente Gonçalves - TypeScript - Link do Trabalho
+* Lucas Parente Gonçalves - Dart - Link do Trabalho
 * 
 
 ## Segundo Trabalho
