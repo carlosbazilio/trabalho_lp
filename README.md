@@ -9,7 +9,7 @@ Este repositório serve para os alunos e alunas de LP (UFF, Rio das Ostras) inic
 
 ## Primeiro Trabalho
 
-No primeiro trabalho, os alunos indicarão que linguagem de programação eles escolheram para apresentar no primeiro trabalho. Uma lista bastante abrangente de linguagens pode ser encontrada no [Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages). Entretanto, está excluída das opções as primeiras 10 linguagens listadas no índice [TIOBE](https://www.tiobe.com/tiobe-index/). Este trabalho é individual.
+No primeiro trabalho, os alunos indicarão que linguagem de programação eles escolheram para apresentar no primeiro trabalho. Uma lista bastante abrangente de linguagens pode ser encontrada no [Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages). Entretanto, está excluída das opções as primeiras 20 linguagens listadas no índice [TIOBE](https://www.tiobe.com/tiobe-index/). Este trabalho é individual.
 
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
