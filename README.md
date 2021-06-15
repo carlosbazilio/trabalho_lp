@@ -30,6 +30,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Cleber Feijó - TypeScript - 
 * Gabriel Ribeiro - Lua
 * Pedro Henrique Mendes Pereira - Kotlin
+* Marcus Vinicius Bispo Barbosa - Lisp Link do Trabalho
 
 ## Segundo Trabalho
 
