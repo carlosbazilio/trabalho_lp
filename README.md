@@ -15,6 +15,10 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 
 - Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
 - Luiz Gabriel Vieira Leal - Dart - Link do Trabalho
+* Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Cleber Feijó - TypeScript - 
+* Gabriel Ribeiro - Lua
+* Pedro Henrique Mendes Pereira - Kotlin
 
 ## Segundo Trabalho
 
