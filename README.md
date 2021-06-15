@@ -15,6 +15,13 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 
 * Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
 * Luiz Gustavo da Silva Oliveira - Julia -
+* Lucas Parente Gonçalves - Pascal - Link do Trabalho
+* Sofia Kitaeva - Brainf*ck
+* Douglas Mareli Lopes - Eiffel
+* Luiz Eduardo Dos Santos Cunha - Elixir
+* Yunguer Dvorak - Apex
+* Arthur de Oliveira Silva Marques - Ada - 
+* Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
 * Raphael Kazuhiro Yoshiki - Scratch
 * Orlando Nascimento - COBOL
 * Ayla Rodrigues - Scala
