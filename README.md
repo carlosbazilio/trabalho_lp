@@ -35,7 +35,8 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Marcus Vinicius Bispo Barbosa - Awk - Link do Trabalho
 * Bruno Costa dos Passos - Lisp
 * João Victor Dos Santos Huguenin - Clojure
-* Arthur Cantuaria - Haskell - 
+* Arthur Cantuaria - Haskell -
+* Carlos Eduardo De Melo Rocha - objective C 
 
 ## Segundo Trabalho
 
