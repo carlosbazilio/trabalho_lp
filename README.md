@@ -14,6 +14,7 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
 * Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Felipe Viana Falcão - VBScript -
 * Luiz Gustavo da Silva Oliveira - Julia -
 * Lucas Parente Gonçalves - Pascal - Link do Trabalho
 * Sofia Kitaeva - Brainf*ck
@@ -35,8 +36,12 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Marcus Vinicius Bispo Barbosa - Awk - Link do Trabalho
 * Bruno Costa dos Passos - Lisp
 * João Victor Dos Santos Huguenin - Clojure
+* Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
+* Carlos Eduardo De Melo Rocha - objective C 
 * Arthur Cantuaria - Haskell - 
 * Kelly Ohana da Silva Ramos - D
+* Kamile Novaes - Logo
+* Eduarda Michaelle - ABAP
 
 ## Segundo Trabalho
 
