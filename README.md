@@ -14,13 +14,37 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
 - Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
-
-- Luiz Gabriel Vieira Leal - Dart - https://youtu.be/OGbuK_eJMB4
-
-* Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Luiz Gabriel Vieira Leal - Dart - https://youtu.be/OGbuK_eJMB4
 * Cleber Feijó - TypeScript -
+* Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Felipe Viana Falcão - VBScript -
+* Luiz Gustavo da Silva Oliveira - Julia -
+* Lucas Parente Gonçalves - Pascal - Link do Trabalho
+* Sofia Kitaeva - Brainf*ck
+* Douglas Mareli Lopes - Eiffel
+* Luiz Eduardo Dos Santos Cunha - Elixir
+* Yunguer Dvorak - Apex
+* Arthur de Oliveira Silva Marques - Ada - 
+* Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
+* Raphael Kazuhiro Yoshiki - Scratch
+* Orlando Nascimento - COBOL
+* Ayla Rodrigues - Scala
+* Luiz Gabriel Vieira Leal - Dart - 
+* Andre Max de Oliveira Barata - Rust
+* Cleber Feijó - TypeScript - 
 * Gabriel Ribeiro - Lua
 * Pedro Henrique Mendes Pereira - Kotlin
+* Marina da Cruz Bento Bulhosa - Prolog -
+* Elias Faria Silva - Swift - 
+* Marcus Vinicius Bispo Barbosa - Awk - Link do Trabalho
+* Bruno Costa dos Passos - Lisp
+* João Victor Dos Santos Huguenin - Clojure
+* Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
+* Carlos Eduardo De Melo Rocha - objective C 
+* Arthur Cantuaria - Haskell - 
+* Kelly Ohana da Silva Ramos - D
+* Kamile Novaes - Logo
+* Eduarda Michaelle - ABAP
 
 ## Segundo Trabalho
 
