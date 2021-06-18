@@ -14,7 +14,13 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
 - Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+
 - Luiz Gabriel Vieira Leal - Dart - https://youtu.be/OGbuK_eJMB4
+
+* Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Cleber Feijó - TypeScript -
+* Gabriel Ribeiro - Lua
+* Pedro Henrique Mendes Pereira - Kotlin
 
 ## Segundo Trabalho
 
