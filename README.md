@@ -17,6 +17,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Luiz Gabriel Vieira Leal - Dart - https://youtu.be/OGbuK_eJMB4
 * Cleber Feijó - TypeScript -
 * Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Arthur de Oliveira Silva Marques - Ada - https://youtu.be/Vl8veiGjaBw
 * Felipe Viana Falcão - VBScript -
 * Luiz Gustavo da Silva Oliveira - Julia -
 * Lucas Parente Gonçalves - Pascal - Link do Trabalho
@@ -24,7 +25,6 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Douglas Mareli Lopes - Eiffel
 * Luiz Eduardo Dos Santos Cunha - Elixir
 * Yunguer Dvorak - Apex
-* Arthur de Oliveira Silva Marques - Ada - 
 * Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
 * Raphael Kazuhiro Yoshiki - Scratch
 * Orlando Nascimento - COBOL
@@ -41,7 +41,6 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * João Victor Dos Santos Huguenin - Clojure
 * Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
 * Carlos Eduardo De Melo Rocha - objective C 
-* Arthur Cantuaria - Haskell - 
 * Kelly Ohana da Silva Ramos - D
 * Kamile Novaes - Logo
 * Eduarda Michaelle - ABAP
