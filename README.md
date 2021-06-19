@@ -14,7 +14,7 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
 * Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
-* Arthur de Oliveira Silva Marques - Ada - 
+* Arthur de Oliveira Silva Marques - Ada - https://youtu.be/Vl8veiGjaBw
 * Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
 * Raphael Kazuhiro Yoshiki - Scratch
 * Orlando Nascimento - COBOL
