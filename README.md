@@ -13,15 +13,7 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
-* Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
-* Raphael Kazuhiro Yoshiki - Scratch
-* Orlando Nascimento - COBOL
-* Ayla Rodrigues - Scala
-* Luiz Gabriel Vieira Leal - Dart - 
-* Andre Max de Oliveira Barata - Rust
-* Cleber Feijó - TypeScript - 
-* Gabriel Ribeiro - Lua
-* Pedro Henrique Mendes Pereira - Kotlin
+* Raphael Kazuhiro Yoshiki - Scratch - https://youtu.be/IPq_09I6s3o
 
 ## Segundo Trabalho
 
