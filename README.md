@@ -22,7 +22,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Luiz Gustavo da Silva Oliveira - Julia -
 * Lucas Parente Gonçalves - Pascal - Link do Trabalho
 * Sofia Kitaeva - Brainf*ck
-* Douglas Mareli Lopes - Eiffel
+* Douglas Mareli Lopes - Eiffel - https://youtu.be/xoKqIp58Ck4
 * Luiz Eduardo Dos Santos Cunha - Elixir
 * Yunguer Dvorak - Apex
 * Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
