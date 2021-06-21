@@ -43,7 +43,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Carlos Eduardo De Melo Rocha - objective C 
 * Kelly Ohana da Silva Ramos - D
 * Kamile Novaes - Logo
-* Eduarda Michaelle - ABAP
+* Eduarda Michaelle - ABAP - https://youtu.be/kH7hiZcVnQ0
 
 ## Segundo Trabalho
 
