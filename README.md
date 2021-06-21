@@ -44,7 +44,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Kelly Ohana da Silva Ramos - D
 * Kamile Novaes - Logo
 * Eduarda Michaelle - ABAP
-* Otavio souza - VHDL
+* Otavio de Souza - VHDL - https://youtu.be/zlZh2-I6Wwg
 
 ## Segundo Trabalho
 
