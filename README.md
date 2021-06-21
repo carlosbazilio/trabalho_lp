@@ -39,7 +39,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
 * Carlos Eduardo De Melo Rocha - objective C 
 * Arthur Cantuaria - Haskell - 
-* Kelly Ohana da Silva Ramos - D
+* Kelly Ohana da Silva Ramos - D - https://youtu.be/nw7yoqahuYo
 * Kamile Novaes - Logo
 * Eduarda Michaelle - ABAP
 
