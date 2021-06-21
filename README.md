@@ -30,7 +30,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Orlando Nascimento - COBOL
 * Ayla Rodrigues - Scala
 * Luiz Gabriel Vieira Leal - Dart - 
-* Andre Max de Oliveira Barata - Rust
+* Andre Max de Oliveira Barata - Rust - https://youtu.be/cKcwWHcF6ng
 * Cleber Feijó - TypeScript - 
 * Gabriel Ribeiro - Lua
 * Pedro Henrique Mendes Pereira - Kotlin
