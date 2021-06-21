@@ -35,7 +35,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Gabriel Ribeiro - Lua
 * Pedro Henrique Mendes Pereira - Kotlin
 * Marina da Cruz Bento Bulhosa - Prolog -
-* Elias Faria Silva - Swift - 
+* Elias Faria Silva - Swift - [link do Trabalho](https://youtu.be/wrAeoi4-8eM)
 * Marcus Vinicius Bispo Barbosa - Awk - Link do Trabalho
 * Bruno Costa dos Passos - Lisp
 * João Victor Dos Santos Huguenin - Clojure
