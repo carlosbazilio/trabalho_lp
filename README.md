@@ -49,7 +49,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * João Victor Dos Santos Huguenin - Clojure
 * Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
 * Carlos Eduardo De Melo Rocha - objective C 
-* Arthur Cantuaria - Haskell - 
+* Eduarda Michaelle - ABAP - https://youtu.be/kH7hiZcVnQ0
 * Kelly Ohana da Silva Ramos - D - https://youtu.be/nw7yoqahuYo
 * Kamile Novaes - Logo - https://youtu.be/ilrmct2YtFg
 * Eduarda Michaelle - ABAP
