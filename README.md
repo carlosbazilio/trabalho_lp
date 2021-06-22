@@ -44,6 +44,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Kelly Ohana da Silva Ramos - D
 * Kamile Novaes - Logo
 * Eduarda Michaelle - ABAP
+* Felipe Ferreira -OPA- https://www.youtube.com/watch?v=P3yEZtL9uPQ
 
 ## Segundo Trabalho
 
