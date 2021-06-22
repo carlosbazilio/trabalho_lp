@@ -38,7 +38,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Elias Faria Silva - Swift - 
 * Marcus Vinicius Bispo Barbosa - Awk - Link do Trabalho
 * Bruno Costa dos Passos - Lisp
-* João Victor Dos Santos Huguenin - Clojure
+* João Victor Dos Santos Huguenin - Clojure - https://drive.google.com/file/d/1mQi8e5zFnLTzhyfNHqhHajt-bPq5V1Iv/view
 * Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
 * Carlos Eduardo De Melo Rocha - objective C 
 * Kelly Ohana da Silva Ramos - D
