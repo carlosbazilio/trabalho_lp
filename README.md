@@ -16,17 +16,11 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
 * Pedro Henrique Mendes Pereira - Kotlin - https://youtu.be/UVeK719hZAM
 * Luiz Gustavo da Silva Oliveira - Julia - https://youtu.be/guiu930j80o
-* Lucas Parente Gonçalves - Pascal - Link do Trabalho
-* Sofia Kitaeva - Brainf*ck
-* Douglas Mareli Lopes - Eiffel
-* Luiz Eduardo Dos Santos Cunha - Elixir
 * Luiz Eduardo Dos Santos Cunha - Elixir - https://www.youtube.com/watch?v=KgcC6A14gQY
 * Yunguer Dvorak - Apex - https://www.youtube.com/watch?v=ET_R32wZSVs
 * Arthur de Oliveira Silva Marques - Ada - 
 * Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
 * Lucas Parente Gonçalves - Pascal - https://drive.google.com/file/d/1wKSpSqXemddnroU0NQPDpS-4QiVyeI20/view?usp=sharing
-* Sofia Kitaeva - Brainf*ck
-* Douglas Mareli Lopes - Eiffel
 * Luiz Gabriel Vieira Leal - Dart - https://youtu.be/OGbuK_eJMB4
 * Cleber Feijó - TypeScript -
 * Sofia Kitaeva - Brainf*ck - https://youtu.be/lXD8e3gFRGg
@@ -52,7 +46,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Eduarda Michaelle - ABAP - https://youtu.be/kH7hiZcVnQ0
 * Kelly Ohana da Silva Ramos - D - https://youtu.be/nw7yoqahuYo
 * Kamile Novaes - Logo - https://youtu.be/ilrmct2YtFg
-* Eduarda Michaelle - ABAP
+* Otavio de Souza - VHDL - https://youtu.be/zlZh2-I6Wwg
 * Leonardo Peçanha - Ladder Logic
 
 ## Segundo Trabalho
