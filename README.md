@@ -14,6 +14,9 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
 * Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Yunguer Dvorak - Apex - https://www.youtube.com/watch?v=ET_R32wZSVs
+* Arthur de Oliveira Silva Marques - Ada - 
+* Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
 * Lucas Parente Gonçalves - Pascal - https://drive.google.com/file/d/1wKSpSqXemddnroU0NQPDpS-4QiVyeI20/view?usp=sharing
 * Sofia Kitaeva - Brainf*ck
 * Douglas Mareli Lopes - Eiffel
@@ -27,7 +30,6 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Luiz Gustavo da Silva Oliveira - Julia -
 * Douglas Mareli Lopes - Eiffel - https://youtu.be/xoKqIp58Ck4
 * Luiz Eduardo Dos Santos Cunha - Elixir
-* Yunguer Dvorak - Apex
 * Raphael Kazuhiro Yoshiki - Scratch
 * Orlando Nascimento - COBOL - https://youtu.be/SIgA2o0usuM
 * Ayla Rodrigues - Scala
