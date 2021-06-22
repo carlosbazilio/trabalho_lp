@@ -40,7 +40,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Bruno Costa dos Passos - Lisp
 * João Victor Dos Santos Huguenin - Clojure
 * Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
-* Carlos Eduardo De Melo Rocha - objective C 
+* Carlos Eduardo De Melo Rocha - objective C - https://www.youtube.com/watch?v=VGgsY571scA&ab_channel=AppleTime
 * Kelly Ohana da Silva Ramos - D
 * Kamile Novaes - Logo
 * Eduarda Michaelle - ABAP
