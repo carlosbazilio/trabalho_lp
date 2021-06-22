@@ -26,7 +26,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Luiz Eduardo Dos Santos Cunha - Elixir
 * Yunguer Dvorak - Apex
 * Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
-* Raphael Kazuhiro Yoshiki - Scratch
+* Raphael Kazuhiro Yoshiki - Scratch - https://www.youtube.com/watch?v=IPq_09I6s3o
 * Orlando Nascimento - COBOL
 * Ayla Rodrigues - Scala
 * Luiz Gabriel Vieira Leal - Dart - 
