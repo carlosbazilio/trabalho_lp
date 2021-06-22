@@ -17,14 +17,38 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Yunguer Dvorak - Apex - https://www.youtube.com/watch?v=ET_R32wZSVs
 * Arthur de Oliveira Silva Marques - Ada - 
 * Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
+* Lucas Parente Gonçalves - Pascal - https://drive.google.com/file/d/1wKSpSqXemddnroU0NQPDpS-4QiVyeI20/view?usp=sharing
+* Sofia Kitaeva - Brainf*ck
+* Douglas Mareli Lopes - Eiffel
+* Luiz Gabriel Vieira Leal - Dart - https://youtu.be/OGbuK_eJMB4
+* Cleber Feijó - TypeScript -
+* Sofia Kitaeva - Brainf*ck - https://youtu.be/lXD8e3gFRGg
+* Ayla Rodrigues - Scala - https://youtu.be/vH-xTpuFPeQ
+* Icaro Andrade Daflon - Linguagem Erlang - https://drive.google.com/file/d/1cOgNwneh5gPy5KEDM9J9xUgsw3-x-maN/view?usp=sharing
+* Arthur de Oliveira Silva Marques - Ada - https://youtu.be/Vl8veiGjaBw
+* Felipe Viana Falcão - VBScript - https://youtu.be/OYsaZHCub2Y
+* Luiz Gustavo da Silva Oliveira - Julia -
+* Douglas Mareli Lopes - Eiffel - https://youtu.be/xoKqIp58Ck4
+* Luiz Eduardo Dos Santos Cunha - Elixir
 * Raphael Kazuhiro Yoshiki - Scratch
-* Orlando Nascimento - COBOL
+* Orlando Nascimento - COBOL - https://youtu.be/SIgA2o0usuM
 * Ayla Rodrigues - Scala
 * Luiz Gabriel Vieira Leal - Dart - 
-* Andre Max de Oliveira Barata - Rust
+* Andre Max de Oliveira Barata - Rust - https://youtu.be/cKcwWHcF6ng
 * Cleber Feijó - TypeScript - 
-* Gabriel Ribeiro - Lua
+* Gabriel Dos Santos Ribeiro - Lua - https://youtu.be/1T2RL3lEgik
 * Pedro Henrique Mendes Pereira - Kotlin
+* Marina da Cruz Bento Bulhosa - Prolog -
+* Elias Faria Silva - Swift - 
+* Bruno Costa dos Passos - Lisp - https://youtu.be/EZgPff-mw6c
+* Marcus Vinicius Bispo Barbosa - Awk - https://drive.google.com/file/d/1MC2-FROUM3DtZMUfbVdLJ7deD2bgi0ME/view?usp=sharing
+* João Victor Dos Santos Huguenin - Clojure
+* Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
+* Carlos Eduardo De Melo Rocha - objective C 
+* Kelly Ohana da Silva Ramos - D
+* Kamile Novaes - Logo - https://youtu.be/ilrmct2YtFg
+* Eduarda Michaelle - ABAP
+* Leonardo Peçanha - Ladder Logic
 
 ## Segundo Trabalho
 
