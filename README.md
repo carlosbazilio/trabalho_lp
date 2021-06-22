@@ -13,7 +13,10 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
-- Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Lucas Parente Gonçalves - Pascal - https://drive.google.com/file/d/1wKSpSqXemddnroU0NQPDpS-4QiVyeI20/view?usp=sharing
+* Sofia Kitaeva - Brainf*ck
+* Douglas Mareli Lopes - Eiffel
 * Luiz Gabriel Vieira Leal - Dart - https://youtu.be/OGbuK_eJMB4
 * Cleber Feijó - TypeScript -
 * Sofia Kitaeva - Brainf*ck - https://youtu.be/lXD8e3gFRGg
@@ -22,7 +25,6 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Arthur de Oliveira Silva Marques - Ada - https://youtu.be/Vl8veiGjaBw
 * Felipe Viana Falcão - VBScript - https://youtu.be/OYsaZHCub2Y
 * Luiz Gustavo da Silva Oliveira - Julia -
-* Lucas Parente Gonçalves - Pascal - Link do Trabalho
 * Douglas Mareli Lopes - Eiffel - https://youtu.be/xoKqIp58Ck4
 * Luiz Eduardo Dos Santos Cunha - Elixir
 * Yunguer Dvorak - Apex
