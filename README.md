@@ -35,8 +35,8 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Luiz Gabriel Vieira Leal - Dart - 
 * Andre Max de Oliveira Barata - Rust - https://youtu.be/cKcwWHcF6ng
 * Cleber Feijó - TypeScript - 
+* Marina da Cruz Bento Bulhosa - Prolog -https://drive.google.com/file/d/1HJOHheCzy5g9qWlTM2fpXW_R-vsPl6pC/view?usp=sharing
 * Gabriel Dos Santos Ribeiro - Lua - https://youtu.be/1T2RL3lEgik
-* Marina da Cruz Bento Bulhosa - Prolog -
 * Elias Faria Silva - Swift - [Link do Trabalho](https://youtu.be/wrAeoi4-8eM)
 * Bruno Costa dos Passos - Lisp - https://youtu.be/EZgPff-mw6c
 * Marcus Vinicius Bispo Barbosa - Awk - https://drive.google.com/file/d/1MC2-FROUM3DtZMUfbVdLJ7deD2bgi0ME/view?usp=sharing
