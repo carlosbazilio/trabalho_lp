@@ -22,7 +22,6 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
 * Lucas Parente Gonçalves - Pascal - https://drive.google.com/file/d/1wKSpSqXemddnroU0NQPDpS-4QiVyeI20/view?usp=sharing
 * Luiz Gabriel Vieira Leal - Dart - https://youtu.be/OGbuK_eJMB4
-* Cleber Feijó - TypeScript -
 * Sofia Kitaeva - Brainf*ck - https://youtu.be/lXD8e3gFRGg
 * Ayla Rodrigues - Scala - https://youtu.be/vH-xTpuFPeQ
 * Icaro Andrade Daflon - Linguagem Erlang - https://drive.google.com/file/d/1cOgNwneh5gPy5KEDM9J9xUgsw3-x-maN/view?usp=sharing
@@ -31,16 +30,13 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Douglas Mareli Lopes - Eiffel - https://youtu.be/xoKqIp58Ck4
 * Raphael Kazuhiro Yoshiki - Scratch
 * Orlando Nascimento - COBOL - https://youtu.be/SIgA2o0usuM
-* Ayla Rodrigues - Scala
-* Luiz Gabriel Vieira Leal - Dart - 
 * Andre Max de Oliveira Barata - Rust - https://youtu.be/cKcwWHcF6ng
-* Cleber Feijó - TypeScript - 
 * Marina da Cruz Bento Bulhosa - Prolog -https://drive.google.com/file/d/1HJOHheCzy5g9qWlTM2fpXW_R-vsPl6pC/view?usp=sharing
 * Gabriel Dos Santos Ribeiro - Lua - https://youtu.be/1T2RL3lEgik
 * Elias Faria Silva - Swift - [Link do Trabalho](https://youtu.be/wrAeoi4-8eM)
 * Bruno Costa dos Passos - Lisp - https://youtu.be/EZgPff-mw6c
 * Marcus Vinicius Bispo Barbosa - Awk - https://drive.google.com/file/d/1MC2-FROUM3DtZMUfbVdLJ7deD2bgi0ME/view?usp=sharing
-* João Victor Dos Santos Huguenin - Clojure
+* João Victor Dos Santos Huguenin - Clojure - https://drive.google.com/file/d/1mQi8e5zFnLTzhyfNHqhHajt-bPq5V1Iv/view
 * Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
 * Leonardo Peçanha - Ladder Logic - https://drive.google.com/file/d/1PlnFBBywdWjzzSKzISPgAC6LH9mPTsrA/view?usp=sharing
 * Felipe Ferreira -OPA- https://www.youtube.com/watch?v=P3yEZtL9uPQ
