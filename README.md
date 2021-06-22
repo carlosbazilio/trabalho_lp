@@ -14,6 +14,7 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
 * Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Pedro Henrique Mendes Pereira - Kotlin - https://youtu.be/UVeK719hZAM
 * Luiz Gustavo da Silva Oliveira - Julia - https://youtu.be/guiu930j80o
 * Lucas Parente Gonçalves - Pascal - Link do Trabalho
 * Sofia Kitaeva - Brainf*ck
@@ -41,7 +42,6 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Andre Max de Oliveira Barata - Rust - https://youtu.be/cKcwWHcF6ng
 * Cleber Feijó - TypeScript - 
 * Gabriel Dos Santos Ribeiro - Lua - https://youtu.be/1T2RL3lEgik
-* Pedro Henrique Mendes Pereira - Kotlin
 * Marina da Cruz Bento Bulhosa - Prolog -
 * Elias Faria Silva - Swift - 
 * Bruno Costa dos Passos - Lisp - https://youtu.be/EZgPff-mw6c
