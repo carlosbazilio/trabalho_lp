@@ -28,7 +28,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Arthur de Oliveira Silva Marques - Ada - https://youtu.be/Vl8veiGjaBw
 * Felipe Viana Falcão - VBScript - https://youtu.be/OYsaZHCub2Y
 * Douglas Mareli Lopes - Eiffel - https://youtu.be/xoKqIp58Ck4
-* Raphael Kazuhiro Yoshiki - Scratch
+* Raphael Kazuhiro Yoshiki - Scratch - https://www.youtube.com/watch?v=IPq_09I6s3o
 * Orlando Nascimento - COBOL - https://youtu.be/SIgA2o0usuM
 * Andre Max de Oliveira Barata - Rust - https://youtu.be/cKcwWHcF6ng
 * Marina da Cruz Bento Bulhosa - Prolog -https://drive.google.com/file/d/1HJOHheCzy5g9qWlTM2fpXW_R-vsPl6pC/view?usp=sharing
