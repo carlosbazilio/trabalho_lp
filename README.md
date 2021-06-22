@@ -13,37 +13,41 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
-- Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Pedro Henrique Mendes Pereira - Kotlin - https://youtu.be/UVeK719hZAM
+* Luiz Gustavo da Silva Oliveira - Julia - https://youtu.be/guiu930j80o
+* Luiz Eduardo Dos Santos Cunha - Elixir - https://www.youtube.com/watch?v=KgcC6A14gQY
+* Yunguer Dvorak - Apex - https://www.youtube.com/watch?v=ET_R32wZSVs
+* Arthur de Oliveira Silva Marques - Ada - 
+* Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
+* Lucas Parente Gonçalves - Pascal - https://drive.google.com/file/d/1wKSpSqXemddnroU0NQPDpS-4QiVyeI20/view?usp=sharing
 * Luiz Gabriel Vieira Leal - Dart - https://youtu.be/OGbuK_eJMB4
 * Cleber Feijó - TypeScript -
-* Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Sofia Kitaeva - Brainf*ck - https://youtu.be/lXD8e3gFRGg
+* Ayla Rodrigues - Scala - https://youtu.be/vH-xTpuFPeQ
+* Icaro Andrade Daflon - Linguagem Erlang - https://drive.google.com/file/d/1cOgNwneh5gPy5KEDM9J9xUgsw3-x-maN/view?usp=sharing
 * Arthur de Oliveira Silva Marques - Ada - https://youtu.be/Vl8veiGjaBw
-* Felipe Viana Falcão - VBScript -
-* Luiz Gustavo da Silva Oliveira - Julia -
-* Lucas Parente Gonçalves - Pascal - Link do Trabalho
-* Sofia Kitaeva - Brainf*ck
-* Douglas Mareli Lopes - Eiffel
-* Luiz Eduardo Dos Santos Cunha - Elixir
-* Yunguer Dvorak - Apex
-* Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
+* Felipe Viana Falcão - VBScript - https://youtu.be/OYsaZHCub2Y
+* Douglas Mareli Lopes - Eiffel - https://youtu.be/xoKqIp58Ck4
 * Raphael Kazuhiro Yoshiki - Scratch
-* Orlando Nascimento - COBOL
+* Orlando Nascimento - COBOL - https://youtu.be/SIgA2o0usuM
 * Ayla Rodrigues - Scala
 * Luiz Gabriel Vieira Leal - Dart - 
-* Andre Max de Oliveira Barata - Rust
+* Andre Max de Oliveira Barata - Rust - https://youtu.be/cKcwWHcF6ng
 * Cleber Feijó - TypeScript - 
-* Gabriel Ribeiro - Lua
-* Pedro Henrique Mendes Pereira - Kotlin
 * Marina da Cruz Bento Bulhosa - Prolog -https://drive.google.com/file/d/1HJOHheCzy5g9qWlTM2fpXW_R-vsPl6pC/view?usp=sharing
-* Elias Faria Silva - Swift - 
-* Marcus Vinicius Bispo Barbosa - Awk - Link do Trabalho
-* Bruno Costa dos Passos - Lisp
+* Gabriel Dos Santos Ribeiro - Lua - https://youtu.be/1T2RL3lEgik
+* Elias Faria Silva - Swift - [Link do Trabalho](https://youtu.be/wrAeoi4-8eM)
+* Bruno Costa dos Passos - Lisp - https://youtu.be/EZgPff-mw6c
+* Marcus Vinicius Bispo Barbosa - Awk - https://drive.google.com/file/d/1MC2-FROUM3DtZMUfbVdLJ7deD2bgi0ME/view?usp=sharing
 * João Victor Dos Santos Huguenin - Clojure
 * Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
-* Carlos Eduardo De Melo Rocha - objective C 
-* Kelly Ohana da Silva Ramos - D
-* Kamile Novaes - Logo
-* Eduarda Michaelle - ABAP
+* Carlos Eduardo De Melo Rocha - objective C - https://www.youtube.com/watch?v=VGgsY571scA&ab_channel=AppleTime
+* Eduarda Michaelle - ABAP - https://youtu.be/kH7hiZcVnQ0
+* Kelly Ohana da Silva Ramos - D - https://youtu.be/nw7yoqahuYo
+* Kamile Novaes - Logo - https://youtu.be/ilrmct2YtFg
+* Otavio de Souza - VHDL - https://youtu.be/zlZh2-I6Wwg
+* Leonardo Peçanha - Ladder Logic
 
 ## Segundo Trabalho
 
