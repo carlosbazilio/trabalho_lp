@@ -43,7 +43,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Cleber Feijó - TypeScript - 
 * Gabriel Dos Santos Ribeiro - Lua - https://youtu.be/1T2RL3lEgik
 * Marina da Cruz Bento Bulhosa - Prolog -
-* Elias Faria Silva - Swift - 
+* Elias Faria Silva - Swift - [Link do Trabalho](https://youtu.be/wrAeoi4-8eM)
 * Bruno Costa dos Passos - Lisp - https://youtu.be/EZgPff-mw6c
 * Marcus Vinicius Bispo Barbosa - Awk - https://drive.google.com/file/d/1MC2-FROUM3DtZMUfbVdLJ7deD2bgi0ME/view?usp=sharing
 * João Victor Dos Santos Huguenin - Clojure
