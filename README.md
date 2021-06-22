@@ -17,6 +17,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Luiz Gabriel Vieira Leal - Dart - https://youtu.be/OGbuK_eJMB4
 * Cleber Feijó - TypeScript -
 * Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Icaro Andrade Daflon - Linguagem Erlang - https://drive.google.com/file/d/1cOgNwneh5gPy5KEDM9J9xUgsw3-x-maN/view?usp=sharing
 * Arthur de Oliveira Silva Marques - Ada - https://youtu.be/Vl8veiGjaBw
 * Felipe Viana Falcão - VBScript -
 * Luiz Gustavo da Silva Oliveira - Julia -
@@ -25,7 +26,6 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Douglas Mareli Lopes - Eiffel - https://youtu.be/xoKqIp58Ck4
 * Luiz Eduardo Dos Santos Cunha - Elixir
 * Yunguer Dvorak - Apex
-* Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
 * Raphael Kazuhiro Yoshiki - Scratch
 * Orlando Nascimento - COBOL
 * Ayla Rodrigues - Scala
