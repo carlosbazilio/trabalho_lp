@@ -20,7 +20,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Ayla Rodrigues - Scala - https://youtu.be/vH-xTpuFPeQ
 * Icaro Andrade Daflon - Linguagem Erlang - https://drive.google.com/file/d/1cOgNwneh5gPy5KEDM9J9xUgsw3-x-maN/view?usp=sharing
 * Arthur de Oliveira Silva Marques - Ada - https://youtu.be/Vl8veiGjaBw
-* Felipe Viana Falcão - VBScript -
+* Felipe Viana Falcão - VBScript - https://youtu.be/OYsaZHCub2Y
 * Luiz Gustavo da Silva Oliveira - Julia -
 * Lucas Parente Gonçalves - Pascal - Link do Trabalho
 * Sofia Kitaeva - Brainf*ck
