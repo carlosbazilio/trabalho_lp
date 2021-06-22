@@ -42,6 +42,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Marcus Vinicius Bispo Barbosa - Awk - https://drive.google.com/file/d/1MC2-FROUM3DtZMUfbVdLJ7deD2bgi0ME/view?usp=sharing
 * João Victor Dos Santos Huguenin - Clojure
 * Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
+* Felipe Ferreira -OPA- https://www.youtube.com/watch?v=P3yEZtL9uPQ
 * Carlos Eduardo De Melo Rocha - objective C - https://www.youtube.com/watch?v=VGgsY571scA&ab_channel=AppleTime
 * Eduarda Michaelle - ABAP - https://youtu.be/kH7hiZcVnQ0
 * Kelly Ohana da Silva Ramos - D - https://youtu.be/nw7yoqahuYo
