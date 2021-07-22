@@ -53,6 +53,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Gabriel Ribeiro, Pedro Mendes - Exercicio 6 - [Repositorio](https://github.com/Tetr4k/pre-processador)
+- Cleber Feijó, Arthur Marques - 6 - 
 
 ## Terceiro Trabalho
 
