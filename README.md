@@ -13,7 +13,7 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
-* Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+- Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
 * Cleber Feijó - TypeScript -  https://www.youtube.com/watch?v=RDnRdIN9YDs
 * Pedro Henrique Mendes Pereira - Kotlin - https://youtu.be/UVeK719hZAM
 * Luiz Gustavo da Silva Oliveira - Julia - https://youtu.be/guiu930j80o
@@ -45,15 +45,25 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Kelly Ohana da Silva Ramos - D - https://youtu.be/nw7yoqahuYo
 * Kamile Novaes - Logo - https://youtu.be/ilrmct2YtFg
 * Otavio de Souza - VHDL - https://youtu.be/zlZh2-I6Wwg
-* Leonardo Peçanha - Ladder Logic
 
 ## Segundo Trabalho
 
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+- João Victor Huguenin e Lucas Parente Gonçalves - Exercício 6 - https://github.com/lucasparente1998/segundo_trabalho_lp
+- Kelly Ohana Ramos, Luiz Eduando Cunha - 3 - https://github.com/KellyOhana/coletor-de-lixo-com-contref-em-c
+- Luiz Gabriel Vieira Leal - 4 - https://github.com/LuizGabrielVieiraLeal/mark_and_sweep
+- Marcus Vinicius Bispo Barbosa - Trabalho 3 - https://github.com/marcusbispo/garbage_collector
+- Felipe Viana Falcão, Orlando Nascimento - 3 - https://github.com/felipex200/Trabalho_LP_ContRef.git
 - Gabriel Ribeiro, Pedro Mendes - Exercicio 6 - [Repositorio](https://github.com/Tetr4k/pre-processador)
 - Cleber Feijó, Arthur Marques - 6 - [Repositorio](https://github.com/CleberFeijo/Trabalho2_LP)
+- Andre Max de Oliveira Barata - 2 - https://github.com/AndreMax7303/Heap-Simulator
+- Douglas Mareli - 6 - https://github.com/DouglasMreli/pre_compilador_linguagem_C
+- Yunguer Dvorak Mendes, Luiz Gustavo da Silva Oliveira - 3 - https://github.com/Yunguer/Trabalho_LP_CtRef
+- Ayla Rodrigues, Sofia Kitaeva - 3 - https://github.com/AylaRodrigues/Trabalho-02-LP
+- Júlia Miranda Rodrigues - Exercício 2 - https://github.com/juliaDmiranda/SimulacaoHeap
+- Bruno Costa dos Passos - Exercicio 3 - https://github.com/brunocosta1/garbage_collector
 
 ## Terceiro Trabalho
 
