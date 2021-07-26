@@ -57,7 +57,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 - Marcus Vinicius Bispo Barbosa - Trabalho 3 - https://github.com/marcusbispo/garbage_collector
 - Felipe Viana Falcão, Orlando Nascimento - 3 - https://github.com/felipex200/Trabalho_LP_ContRef.git
 - Gabriel Ribeiro, Pedro Mendes - Exercicio 6 - [Repositorio](https://github.com/Tetr4k/pre-processador)
-- Cleber Feijó, Arthur Marques - 6 - 
+- Cleber Feijó, Arthur Marques - 6 - [Repositorio](https://github.com/CleberFeijo/Trabalho2_LP)
 - Andre Max de Oliveira Barata - 2 - https://github.com/AndreMax7303/Heap-Simulator
 - Douglas Mareli - 6 - https://github.com/DouglasMreli/pre_compilador_linguagem_C
 - Yunguer Dvorak Mendes, Luiz Gustavo da Silva Oliveira - 3 - https://github.com/Yunguer/Trabalho_LP_CtRef
