@@ -9,34 +9,63 @@ Este repositório serve para os alunos e alunas de LP (UFF, Rio das Ostras) inic
 
 ## Primeiro Trabalho
 
-No primeiro trabalho, os alunos indicarão que linguagem de programação eles escolheram para apresentar no primeiro trabalho. Uma lista bastante abrangente de linguagens pode ser encontrada no [Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages). Entretanto, está excluída das opções as primeiras 10 linguagens listadas no índice [TIOBE](https://www.tiobe.com/tiobe-index/). Este trabalho é individual.
+No primeiro trabalho, os alunos indicarão que linguagem de programação eles escolheram para apresentar no primeiro trabalho. Uma lista bastante abrangente de linguagens pode ser encontrada no [Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages). Entretanto, está excluída das opções as primeiras 20 linguagens listadas no índice [TIOBE](https://www.tiobe.com/tiobe-index/). Este trabalho é individual.
 
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
-* Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
-* Julio Carvalho - Ruby - https://youtu.be/tFb3vn5CKiw
-* Guilhermo Hounie - Typescript - Drive: https://drive.google.com/file/d/10e41PktCIqWIEQHcDnl3ME96CnvR5IDW/view?usp=sharing - Website: https://trabalholpslidestypescript.guilhermonicola.repl.co
-* Allan Martins - Elixir - https://www.youtube.com/watch?v=NiQ3Yrcjjes&feature=youtu.be
-* Júlia Miranda - Lua
-* Rafael Von Helde - SQL - https://drive.google.com/file/d/1kBX_BbYqZDlbY7I0eEmVFw-3q2qgtpLL/view?usp=sharing
-* Felipe Peixoto - Delphi - Youtube: https://youtu.be/Pt2KrQfXHUw - Google Drive: https://drive.google.com/drive/folders/1N7ApeFQ8obvnRR7GP0pXUNbA_BZ9czjD?usp=sharing
-* Neri Allemand - COBOL - https://drive.google.com/file/d/1xYjuLJ_de0-4e8z2k1KMvXrJWmyA1jjS/view?usp=sharing
-* Lucas Mendonça - Assembly Language - https://youtu.be/qprS5aGlizo
-* Luis Antonio - Go
-* Luan Freire - Swift - https://drive.google.com/file/d/12-CeSSpT9ie57YisVIKpyhhTABBys2m-/view?usp=sharing
-* Carlos Vinicios - Pascal - https://youtu.be/zWPDMMgRGfk
-* Rodrigo Porto - Groovy - https://youtu.be/MNHf1p4UegQ
-* Reinaldo Coutinho - Rust - Google Drive:https://drive.google.com/file/d/1lMHA_3d26prZuMNHlkSWLpDEZEerF4D6/view?usp=sharing  Youtube:https://youtu.be/Nyblvc4x0QQ
-* João Victor - Perl
+- Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Cleber Feijó - TypeScript -  https://www.youtube.com/watch?v=RDnRdIN9YDs
+* Pedro Henrique Mendes Pereira - Kotlin - https://youtu.be/UVeK719hZAM
+* Luiz Gustavo da Silva Oliveira - Julia - https://youtu.be/guiu930j80o
+* Luiz Eduardo Dos Santos Cunha - Elixir - https://www.youtube.com/watch?v=KgcC6A14gQY
+* Yunguer Dvorak - Apex - https://www.youtube.com/watch?v=ET_R32wZSVs
+* Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
+* Lucas Parente Gonçalves - Pascal - https://drive.google.com/file/d/1wKSpSqXemddnroU0NQPDpS-4QiVyeI20/view?usp=sharing
+* Luiz Gabriel Vieira Leal - Dart - https://youtu.be/OGbuK_eJMB4
+* Sofia Kitaeva - Brainf*ck - https://youtu.be/lXD8e3gFRGg
+* Ayla Rodrigues - Scala - https://youtu.be/vH-xTpuFPeQ
+* Icaro Andrade Daflon - Linguagem Erlang - https://drive.google.com/file/d/1cOgNwneh5gPy5KEDM9J9xUgsw3-x-maN/view?usp=sharing
+* Arthur de Oliveira Silva Marques - Ada - https://youtu.be/Vl8veiGjaBw
+* Felipe Viana Falcão - VBScript - https://youtu.be/OYsaZHCub2Y
+* Douglas Mareli Lopes - Eiffel - https://youtu.be/xoKqIp58Ck4
+* Raphael Kazuhiro Yoshiki - Scratch - https://www.youtube.com/watch?v=IPq_09I6s3o
+* Orlando Nascimento - COBOL - https://youtu.be/SIgA2o0usuM
+* Andre Max de Oliveira Barata - Rust - https://youtu.be/cKcwWHcF6ng
+* Marina da Cruz Bento Bulhosa - Prolog -https://drive.google.com/file/d/1HJOHheCzy5g9qWlTM2fpXW_R-vsPl6pC/view?usp=sharing
+* Gabriel Dos Santos Ribeiro - Lua - https://youtu.be/1T2RL3lEgik
+* Elias Faria Silva - Swift - [Link do Trabalho](https://youtu.be/wrAeoi4-8eM)
+* Bruno Costa dos Passos - Lisp - https://youtu.be/EZgPff-mw6c
+* Marcus Vinicius Bispo Barbosa - Awk - https://drive.google.com/file/d/1MC2-FROUM3DtZMUfbVdLJ7deD2bgi0ME/view?usp=sharing
+* João Victor Dos Santos Huguenin - Clojure - https://drive.google.com/file/d/1mQi8e5zFnLTzhyfNHqhHajt-bPq5V1Iv/view
+* Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
+* Leonardo Peçanha - Ladder Logic - https://drive.google.com/file/d/1PlnFBBywdWjzzSKzISPgAC6LH9mPTsrA/view?usp=sharing
 * Leonardo Peçanha - Golang - https://drive.google.com/file/d/1lRL31U_UdXp6nxkbmjoxSR1OZRvmViZi/view?usp=sharing
-* Leonardo Fernandes - ML - https://youtu.be/zoH5Qfx3RWQ
+* Felipe Ferreira -OPA- https://www.youtube.com/watch?v=P3yEZtL9uPQ
+* Carlos Eduardo De Melo Rocha - objective C - https://www.youtube.com/watch?v=VGgsY571scA&ab_channel=AppleTime
+* Eduarda Michaelle - ABAP - https://youtu.be/kH7hiZcVnQ0
+* Kelly Ohana da Silva Ramos - D - https://youtu.be/nw7yoqahuYo
+* Kamile Novaes - Logo - https://youtu.be/ilrmct2YtFg
+* Otavio de Souza - VHDL - https://youtu.be/zlZh2-I6Wwg
 
 ## Segundo Trabalho
 
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
-* Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
-* Leonardo Peçanha - 3 - https://github.com/LeoHazer/LP_ContReferencia
+- Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+- Leonardo Peçanha - 3 - https://github.com/LeoHazer/LP_ContReferencia
+- João Victor Huguenin e Lucas Parente Gonçalves - Exercício 6 - https://github.com/lucasparente1998/segundo_trabalho_lp
+- Kelly Ohana Ramos, Luiz Eduando Cunha - 3 - https://github.com/KellyOhana/coletor-de-lixo-com-contref-em-c
+- Luiz Gabriel Vieira Leal - 4 - https://github.com/LuizGabrielVieiraLeal/mark_and_sweep
+- Marcus Vinicius Bispo Barbosa - Trabalho 3 - https://github.com/marcusbispo/garbage_collector
+- Felipe Viana Falcão, Orlando Nascimento - 3 - https://github.com/felipex200/Trabalho_LP_ContRef.git
+- Gabriel Ribeiro, Pedro Mendes - Exercicio 6 - [Repositorio](https://github.com/Tetr4k/pre-processador)
+- Cleber Feijó, Arthur Marques - 6 - [Repositorio](https://github.com/CleberFeijo/Trabalho2_LP)
+- Andre Max de Oliveira Barata - 2 - https://github.com/AndreMax7303/Heap-Simulator
+- Douglas Mareli - 6 - https://github.com/DouglasMreli/pre_compilador_linguagem_C
+- Yunguer Dvorak Mendes, Luiz Gustavo da Silva Oliveira - 3 - https://github.com/Yunguer/Trabalho_LP_CtRef
+- Ayla Rodrigues, Sofia Kitaeva - 3 - https://github.com/AylaRodrigues/Trabalho-02-LP
+- Júlia Miranda Rodrigues - Exercício 2 - https://github.com/juliaDmiranda/SimulacaoHeap
+- Bruno Costa dos Passos - Exercicio 3 - https://github.com/brunocosta1/garbage_collector
 
 ## Terceiro Trabalho
 
