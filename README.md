@@ -73,6 +73,9 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Felipe Viana, Orlando Nascimento - Trabalho 1 -
+- Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
+- Douglas Mareli, Ayla Rodrigues - Trabalho 8 
+- Luiz Gustavo da Silva Oliveira - 8 - 
 
 ## Quarto Trabalho
 
