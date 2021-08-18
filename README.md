@@ -13,60 +13,73 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação, devem inserir um link onde esta possa ser vista.
 
-* Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+- Nome do Aluno(a) - Nome da Linguagem - Link do Trabalho
+* Cleber Feijó - TypeScript -  https://www.youtube.com/watch?v=RDnRdIN9YDs
+* Pedro Henrique Mendes Pereira - Kotlin - https://youtu.be/UVeK719hZAM
 * Luiz Gustavo da Silva Oliveira - Julia - https://youtu.be/guiu930j80o
-* Lucas Parente Gonçalves - Pascal - Link do Trabalho
-* Sofia Kitaeva - Brainf*ck
-* Douglas Mareli Lopes - Eiffel
-* Luiz Eduardo Dos Santos Cunha - Elixir
 * Luiz Eduardo Dos Santos Cunha - Elixir - https://www.youtube.com/watch?v=KgcC6A14gQY
 * Yunguer Dvorak - Apex - https://www.youtube.com/watch?v=ET_R32wZSVs
-* Arthur de Oliveira Silva Marques - Ada - 
 * Icaro Andrade Daflon - Linguagem C# - Link do Trabalho
 * Lucas Parente Gonçalves - Pascal - https://drive.google.com/file/d/1wKSpSqXemddnroU0NQPDpS-4QiVyeI20/view?usp=sharing
-* Sofia Kitaeva - Brainf*ck
-* Douglas Mareli Lopes - Eiffel
 * Luiz Gabriel Vieira Leal - Dart - https://youtu.be/OGbuK_eJMB4
-* Cleber Feijó - TypeScript -
 * Sofia Kitaeva - Brainf*ck - https://youtu.be/lXD8e3gFRGg
 * Ayla Rodrigues - Scala - https://youtu.be/vH-xTpuFPeQ
 * Icaro Andrade Daflon - Linguagem Erlang - https://drive.google.com/file/d/1cOgNwneh5gPy5KEDM9J9xUgsw3-x-maN/view?usp=sharing
 * Arthur de Oliveira Silva Marques - Ada - https://youtu.be/Vl8veiGjaBw
 * Felipe Viana Falcão - VBScript - https://youtu.be/OYsaZHCub2Y
 * Douglas Mareli Lopes - Eiffel - https://youtu.be/xoKqIp58Ck4
-* Raphael Kazuhiro Yoshiki - Scratch
+* Raphael Kazuhiro Yoshiki - Scratch - https://www.youtube.com/watch?v=IPq_09I6s3o
 * Orlando Nascimento - COBOL - https://youtu.be/SIgA2o0usuM
-* Ayla Rodrigues - Scala
-* Luiz Gabriel Vieira Leal - Dart - 
 * Andre Max de Oliveira Barata - Rust - https://youtu.be/cKcwWHcF6ng
-* Cleber Feijó - TypeScript - 
+* Marina da Cruz Bento Bulhosa - Prolog -https://drive.google.com/file/d/1HJOHheCzy5g9qWlTM2fpXW_R-vsPl6pC/view?usp=sharing
 * Gabriel Dos Santos Ribeiro - Lua - https://youtu.be/1T2RL3lEgik
-* Pedro Henrique Mendes Pereira - Kotlin
-* Marina da Cruz Bento Bulhosa - Prolog -
-* Elias Faria Silva - Swift - 
+* Elias Faria Silva - Swift - [Link do Trabalho](https://youtu.be/wrAeoi4-8eM)
 * Bruno Costa dos Passos - Lisp - https://youtu.be/EZgPff-mw6c
 * Marcus Vinicius Bispo Barbosa - Awk - https://drive.google.com/file/d/1MC2-FROUM3DtZMUfbVdLJ7deD2bgi0ME/view?usp=sharing
-* João Victor Dos Santos Huguenin - Clojure
+* João Victor Dos Santos Huguenin - Clojure - https://drive.google.com/file/d/1mQi8e5zFnLTzhyfNHqhHajt-bPq5V1Iv/view
 * Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
-* Carlos Eduardo De Melo Rocha - objective C 
-* Kelly Ohana da Silva Ramos - D
+* Leonardo Peçanha - Ladder Logic - https://drive.google.com/file/d/1PlnFBBywdWjzzSKzISPgAC6LH9mPTsrA/view?usp=sharing
+* Leonardo Peçanha - Golang - https://drive.google.com/file/d/1lRL31U_UdXp6nxkbmjoxSR1OZRvmViZi/view?usp=sharing
+* Felipe Ferreira -OPA- https://www.youtube.com/watch?v=P3yEZtL9uPQ
+* Carlos Eduardo De Melo Rocha - objective C - https://www.youtube.com/watch?v=VGgsY571scA&ab_channel=AppleTime
+* Eduarda Michaelle - ABAP - https://youtu.be/kH7hiZcVnQ0
+* Kelly Ohana da Silva Ramos - D - https://youtu.be/nw7yoqahuYo
 * Kamile Novaes - Logo - https://youtu.be/ilrmct2YtFg
-* Eduarda Michaelle - ABAP
-* Leonardo Peçanha - Ladder Logic
+* Otavio de Souza - VHDL - https://youtu.be/zlZh2-I6Wwg
 
 ## Segundo Trabalho
 
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
--
+- Leonardo Peçanha - 3 - https://github.com/LeoHazer/LP_ContReferencia
+- João Victor Huguenin e Lucas Parente Gonçalves - Exercício 6 - https://github.com/lucasparente1998/segundo_trabalho_lp
+- Kelly Ohana Ramos, Luiz Eduando Cunha - 3 - https://github.com/KellyOhana/coletor-de-lixo-com-contref-em-c
+- Luiz Gabriel Vieira Leal - 4 - https://github.com/LuizGabrielVieiraLeal/mark_and_sweep
+- Marcus Vinicius Bispo Barbosa - Trabalho 3 - https://github.com/marcusbispo/garbage_collector
+- Felipe Viana Falcão, Orlando Nascimento - 3 - https://github.com/felipex200/Trabalho_LP_ContRef.git
+- Gabriel Ribeiro, Pedro Mendes - Exercicio 6 - [Repositorio](https://github.com/Tetr4k/pre-processador)
+- Cleber Feijó, Arthur Marques - 6 - [Repositorio](https://github.com/CleberFeijo/Trabalho2_LP)
+- Andre Max de Oliveira Barata - 2 - https://github.com/AndreMax7303/Heap-Simulator
+- Douglas Mareli - 6 - https://github.com/DouglasMreli/pre_compilador_linguagem_C
+- Yunguer Dvorak Mendes, Luiz Gustavo da Silva Oliveira - 3 - https://github.com/Yunguer/Trabalho_LP_CtRef
+- Ayla Rodrigues, Sofia Kitaeva - 3 - https://github.com/AylaRodrigues/Trabalho-02-LP
+- Júlia Miranda Rodrigues - Exercício 2 - https://github.com/juliaDmiranda/SimulacaoHeap
+- Bruno Costa dos Passos - Exercicio 3 - https://github.com/brunocosta1/garbage_collector
 
 ## Terceiro Trabalho
 
-Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior.
+Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior. Cada trabalho só poderá ser escolhido por no máximo 2 grupos e será respeitada a ordem dos pull requests.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Luiz Gustavo da Silva Oliveira,  Luiz Eduardo dos Santos Cunha - Trabalho 8
+- Yunguer Dvorak, Kelly Ohana Ramos - 7 -
+- João Victor Huguenim, Lucas Parente - Exercicio 4 -
+- Gabriel Ribeiro, Julia Miranda - 1 - [Repositorio]()
+- Felipe Viana, Orlando Nascimento - Trabalho 1 -
+- Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
+- Douglas Mareli, Ayla Rodrigues - Trabalho 8 
+- Carlos Eduardo De Melo -5 
 
 ## Quarto Trabalho
 
