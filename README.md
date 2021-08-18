@@ -39,6 +39,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * João Victor Dos Santos Huguenin - Clojure - https://drive.google.com/file/d/1mQi8e5zFnLTzhyfNHqhHajt-bPq5V1Iv/view
 * Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
 * Leonardo Peçanha - Ladder Logic - https://drive.google.com/file/d/1PlnFBBywdWjzzSKzISPgAC6LH9mPTsrA/view?usp=sharing
+* Leonardo Peçanha - Golang - https://drive.google.com/file/d/1lRL31U_UdXp6nxkbmjoxSR1OZRvmViZi/view?usp=sharing
 * Felipe Ferreira -OPA- https://www.youtube.com/watch?v=P3yEZtL9uPQ
 * Carlos Eduardo De Melo Rocha - objective C - https://www.youtube.com/watch?v=VGgsY571scA&ab_channel=AppleTime
 * Eduarda Michaelle - ABAP - https://youtu.be/kH7hiZcVnQ0
@@ -51,21 +52,32 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+- Leonardo Peçanha - 3 - https://github.com/LeoHazer/LP_ContReferencia
 - João Victor Huguenin e Lucas Parente Gonçalves - Exercício 6 - https://github.com/lucasparente1998/segundo_trabalho_lp
 - Kelly Ohana Ramos, Luiz Eduando Cunha - 3 - https://github.com/KellyOhana/coletor-de-lixo-com-contref-em-c
 - Luiz Gabriel Vieira Leal - 4 - https://github.com/LuizGabrielVieiraLeal/mark_and_sweep
 - Marcus Vinicius Bispo Barbosa - Trabalho 3 - https://github.com/marcusbispo/garbage_collector
 - Felipe Viana Falcão, Orlando Nascimento - 3 - https://github.com/felipex200/Trabalho_LP_ContRef.git
 - Gabriel Ribeiro, Pedro Mendes - Exercicio 6 - [Repositorio](https://github.com/Tetr4k/pre-processador)
-- Cleber Feijó, Arthur Marques - 6 - 
+- Cleber Feijó, Arthur Marques - 6 - [Repositorio](https://github.com/CleberFeijo/Trabalho2_LP)
+- Andre Max de Oliveira Barata - 2 - https://github.com/AndreMax7303/Heap-Simulator
+- Douglas Mareli - 6 - https://github.com/DouglasMreli/pre_compilador_linguagem_C
+- Yunguer Dvorak Mendes, Luiz Gustavo da Silva Oliveira - 3 - https://github.com/Yunguer/Trabalho_LP_CtRef
+- Ayla Rodrigues, Sofia Kitaeva - 3 - https://github.com/AylaRodrigues/Trabalho-02-LP
+- Júlia Miranda Rodrigues - Exercício 2 - https://github.com/juliaDmiranda/SimulacaoHeap
 - Bruno Costa dos Passos - Exercicio 3 - https://github.com/brunocosta1/garbage_collector
 
 ## Terceiro Trabalho
 
-Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior.
+Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior. Cada trabalho só poderá ser escolhido por no máximo 2 grupos e será respeitada a ordem dos pull requests.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - João Victor Huguenim, Lucas Parente - Exercicio 4 -
+- Gabriel Ribeiro, Julia Miranda - 1 - [Repositorio]()
+- Felipe Viana, Orlando Nascimento - Trabalho 1 -
+- Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
+- Douglas Mareli, Ayla Rodrigues - Trabalho 8 
+- Luiz Gustavo da Silva Oliveira - 8 - 
 
 ## Quarto Trabalho
 
