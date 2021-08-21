@@ -75,7 +75,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Luiz Gustavo da Silva Oliveira,  Luiz Eduardo dos Santos Cunha - Trabalho 8
 - Yunguer Dvorak, Kelly Ohana Ramos - 7 -
 - João Victor Huguenim, Lucas Parente - Exercicio 4 -
-- Gabriel Ribeiro, Julia Miranda - Trabalho 1 - [Link do Trabalho](https://github.com/Tetr4k/agenda-telfonica-lp)
+- Gabriel Ribeiro, Julia Miranda - Trabalho 1 - [Link do Trabalho](https://github.com/Tetr4k/lp-agenda-telefonica)
 - Felipe Viana, Orlando Nascimento - Trabalho 1 -
 - Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
 - Douglas Mareli, Ayla Rodrigues - Trabalho 8 
