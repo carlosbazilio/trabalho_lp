@@ -76,7 +76,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Yunguer Dvorak, Kelly Ohana Ramos - 7 -
 - João Victor Huguenim, Lucas Parente - Exercicio 4 -
 - Gabriel Ribeiro, Julia Miranda - 1 - [Repositorio]()
-- Felipe Viana, Orlando Nascimento - Trabalho 1 -
+- Felipe Viana, Orlando Nascimento - Trabalho 1 - https://github.com/felipex200/LP-Agenda-Telefonica.git
 - Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
 - Douglas Mareli, Ayla Rodrigues - Trabalho 8 
 - Carlos Eduardo De Melo -5 
