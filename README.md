@@ -82,6 +82,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Gabriel Ribeiro, Julia Miranda - Trabalho 1 - [Link do Trabalho](https://github.com/Tetr4k/lp-agenda-telefonica)
 - Pedro Henrique Mendes, Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
 - Carlos Eduardo De Melo -5 
+- Andre Max de Oliveira Barata - 10 - https://github.com/AndreMax7303/TrabalhoLP
 - Arthur de Oliveira S Marques - Trabalho 7 - https://github.com/marxsushii/Exercicio-7
 
 ## Quarto Trabalho
