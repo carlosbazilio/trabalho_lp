@@ -77,7 +77,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - João Victor Huguenim, Lucas Parente - Exercicio 4 -
 - Gabriel Ribeiro, Julia Miranda - 1 - [Repositorio]()
 - Felipe Viana, Orlando Nascimento - Trabalho 1 -
-- Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
+- Pedro Henrique Mendes, Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
 - Douglas Mareli, Ayla Rodrigues - Trabalho 8 
 - Carlos Eduardo De Melo -5 
 - Arthur de Oliveira S Marques - Trabalho 7 - https://github.com/marxsushii/Exercicio-7
