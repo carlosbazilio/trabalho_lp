@@ -72,6 +72,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior. Cada trabalho só poderá ser escolhido por no máximo 2 grupos e será respeitada a ordem dos pull requests.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+- Cleber Feijo - 4 - [Repositorio](https://github.com/CleberFeijo/Trabalholp_3)
 - Luiz Gustavo da Silva Oliveira,  Luiz Eduardo dos Santos Cunha - Trabalho 8
 - Yunguer Dvorak, Kelly Ohana Ramos - 7 -
 - João Victor Huguenim, Lucas Parente - Exercicio 4 -
