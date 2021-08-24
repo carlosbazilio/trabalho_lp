@@ -78,7 +78,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Gabriel Ribeiro, Julia Miranda - 1 - [Repositorio]()
 - Felipe Viana, Orlando Nascimento - Trabalho 1 -
 - Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
-- Douglas Mareli, Ayla Rodrigues - Trabalho 8 
+- Douglas Mareli, Ayla Rodrigues - Trabalho 8 - https://github.com/DouglasMreli/Pedido-Cliente/blob/main/pedido.kt
 - Carlos Eduardo De Melo -5 
 
 ## Quarto Trabalho
