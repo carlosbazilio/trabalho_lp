@@ -39,6 +39,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * João Victor Dos Santos Huguenin - Clojure - https://drive.google.com/file/d/1mQi8e5zFnLTzhyfNHqhHajt-bPq5V1Iv/view
 * Arthur Cantuaria - Haskell - https://youtu.be/GvyvEV_WQjE
 * Leonardo Peçanha - Ladder Logic - https://drive.google.com/file/d/1PlnFBBywdWjzzSKzISPgAC6LH9mPTsrA/view?usp=sharing
+* Leonardo Peçanha - Golang - https://drive.google.com/file/d/1lRL31U_UdXp6nxkbmjoxSR1OZRvmViZi/view?usp=sharing
 * Felipe Ferreira -OPA- https://www.youtube.com/watch?v=P3yEZtL9uPQ
 * Carlos Eduardo De Melo Rocha - objective C - https://www.youtube.com/watch?v=VGgsY571scA&ab_channel=AppleTime
 * Eduarda Michaelle - ABAP - https://youtu.be/kH7hiZcVnQ0
@@ -51,6 +52,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+- Leonardo Peçanha - 3 - https://github.com/LeoHazer/LP_ContReferencia
 - João Victor Huguenin e Lucas Parente Gonçalves - Exercício 6 - https://github.com/lucasparente1998/segundo_trabalho_lp
 - Kelly Ohana Ramos, Luiz Eduando Cunha - 3 - https://github.com/KellyOhana/coletor-de-lixo-com-contref-em-c
 - Luiz Gabriel Vieira Leal - 4 - https://github.com/LuizGabrielVieiraLeal/mark_and_sweep
@@ -67,10 +69,19 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 
 ## Terceiro Trabalho
 
-Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior.
+Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior. Cada trabalho só poderá ser escolhido por no máximo 2 grupos e será respeitada a ordem dos pull requests.
 
+- Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Cleber Feijo - 4 - [Repositorio](https://github.com/CleberFeijo/Trabalholp_3)
--
+- Luiz Gustavo da Silva Oliveira,  Luiz Eduardo dos Santos Cunha - Trabalho 8
+- Yunguer Dvorak, Kelly Ohana Ramos - 7 -
+- João Victor Huguenim, Lucas Parente - Exercicio 4 -
+- Gabriel Ribeiro, Julia Miranda - Trabalho 1 - [Link do Trabalho](https://github.com/Tetr4k/lp-agenda-telefonica)
+- Felipe Viana, Orlando Nascimento - Trabalho 1 -
+- Pedro Henrique Mendes, Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
+- Douglas Mareli, Ayla Rodrigues - Trabalho 8 
+- Carlos Eduardo De Melo -5 
+- Arthur de Oliveira S Marques - Trabalho 7 - https://github.com/marxsushii/Exercicio-7
 
 ## Quarto Trabalho
 
