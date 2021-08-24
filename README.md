@@ -80,7 +80,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
 - Douglas Mareli, Ayla Rodrigues - Trabalho 8 
 - Carlos Eduardo De Melo -5 
-- Andre Max de Oliveira Barata - 10 
+- Andre Max de Oliveira Barata - 10 - https://github.com/AndreMax7303/TrabalhoLP
 
 ## Quarto Trabalho
 
