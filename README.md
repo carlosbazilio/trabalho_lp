@@ -78,9 +78,9 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - João Victor Huguenim, Lucas Parente - Exercicio 4 -
 - Felipe Viana, Orlando Nascimento - Trabalho 1 - https://github.com/felipex200/LP-Agenda-Telefonica.git
 - Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
+- Douglas Mareli, Ayla Rodrigues - Trabalho 8 - https://github.com/DouglasMreli/Pedido-Cliente/blob/main/pedido.kt
 - Gabriel Ribeiro, Julia Miranda - Trabalho 1 - [Link do Trabalho](https://github.com/Tetr4k/lp-agenda-telefonica)
 - Pedro Henrique Mendes, Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
-- Douglas Mareli, Ayla Rodrigues - Trabalho 8 
 - Carlos Eduardo De Melo -5 
 - Arthur de Oliveira S Marques - Trabalho 7 - https://github.com/marxsushii/Exercicio-7
 
