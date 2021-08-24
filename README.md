@@ -80,6 +80,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
 - Douglas Mareli, Ayla Rodrigues - Trabalho 8 
 - Carlos Eduardo De Melo -5 
+- Arthur de Oliveira S Marques - Trabalho 7 - https://github.com/marxsushii/Exercicio-7
 
 ## Quarto Trabalho
 
