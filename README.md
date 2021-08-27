@@ -86,6 +86,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Arthur de Oliveira S Marques - Trabalho 7 - https://github.com/marxsushii/Exercicio-7
 - Kamile Novaes - 3 -
 - Bruno Costa dos Passos - 7 - https://github.com/brunocosta1/Trabalho7_Java
+
 ## Quarto Trabalho
 
 Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguagem Haskell, ou seja, usando o paradigma funcional. Este trabalho também pode ser feito em dupla, sendo que a dupla não pode ser igual a nenhuma dos trabalhos anteriores.
