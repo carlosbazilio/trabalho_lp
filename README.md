@@ -85,6 +85,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Andre Max de Oliveira Barata - 10 - https://github.com/AndreMax7303/TrabalhoLP
 - Arthur de Oliveira S Marques - Trabalho 7 - https://github.com/marxsushii/Exercicio-7
 - Kamile Novaes - 3 -
+- Bruno Costa dos Passos - 7 - 
 
 ## Quarto Trabalho
 
