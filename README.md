@@ -73,13 +73,19 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Yunguer Dvorak, Kelly Ohana Ramos - 7 - https://github.com/Yunguer/Trabalho-LP/tree/main
-- João Victor Huguenim, Lucas Parente - Exercicio 4 -
-- Gabriel Ribeiro, Julia Miranda - 1 - [Repositorio]()
-- Felipe Viana, Orlando Nascimento - Trabalho 1 -
+- Luiz Gustavo da Silva Oliveira,  Luiz Eduardo dos Santos Cunha - Trabalho 8 - https://github.com/LuizGustavo17/trab8/tree/main
+- João Victor Huguenim, Lucas Parente - Exercicio 4 - https://github.com/jvictorhuguenin/Trabalho3_LP
+- Cleber Feijo - 4 - [Repositorio](https://github.com/CleberFeijo/Trabalholp_3)
+- Felipe Viana, Orlando Nascimento - Trabalho 1 - https://github.com/felipex200/LP-Agenda-Telefonica.git
 - Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
-- Douglas Mareli, Ayla Rodrigues - Trabalho 8 
-- Luiz Gustavo da Silva Oliveira - 8 - 
+- Douglas Mareli, Ayla Rodrigues - Trabalho 8 - https://github.com/DouglasMreli/Pedido-Cliente/blob/main/pedido.kt
+- Gabriel Ribeiro, Julia Miranda - Trabalho 1 - [Link do Trabalho](https://github.com/Tetr4k/lp-agenda-telefonica)
+- Pedro Henrique Mendes, Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho3
 - Carlos Eduardo De Melo -5 
+- Andre Max de Oliveira Barata - 10 - https://github.com/AndreMax7303/TrabalhoLP
+- Arthur de Oliveira S Marques - Trabalho 7 - https://github.com/marxsushii/Exercicio-7
+- Kamile Novaes - 3 - https://github.com/kamilenovaes/pooLP/tree/master/pooLP
+- Bruno Costa dos Passos - 7 - https://github.com/brunocosta1/Trabalho7_Java
 
 ## Quarto Trabalho
 
