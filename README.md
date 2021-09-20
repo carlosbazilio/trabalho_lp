@@ -62,11 +62,11 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
--
+- Marcus Vinicius Bispo Barbosa - 8 - https://github.com/marcusbispo/Trabalho-POO
 
 ## Quarto Trabalho
 
 Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguagem Haskell, ou seja, usando o paradigma funcional. Este trabalho também pode ser feito em dupla, sendo que a dupla não pode ser igual a nenhuma dos trabalhos anteriores.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
--
+- Marcus Vinicius Bispo Barbosa - https://github.com/marcusbispo/Trabalho-Haskell
