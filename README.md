@@ -94,6 +94,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguagem Haskell, ou seja, usando o paradigma funcional. Este trabalho também pode ser feito em dupla, sendo que a dupla não pode ser igual a nenhuma dos trabalhos anteriores.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+- Luiz Eduardo dos Santos Cunha, Luiz Gustavo da Silva Oliveira - 8 - https://github.com/Luiz-Cunha/Haskell-trab/tree/main
 - Douglas Mareli, Ayla Rodrigues - trabalgo 8- https://github.com/DouglasMreli/pedido-clienteHaskell/blob/main/pedido-cliente.hs
 - Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho4
 - Júlia Miranda Rodrigues - Trabalho 1 - [link do trabalho](https://github.com/juliaDmiranda/Trabalho-Agenda-Telefonica---Haskell.git)
