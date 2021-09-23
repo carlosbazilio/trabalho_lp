@@ -103,4 +103,4 @@ Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguage
 - Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho4
 - Júlia Miranda Rodrigues - Trabalho 1 - [link do trabalho](https://github.com/juliaDmiranda/Trabalho-Agenda-Telefonica---Haskell.git)
 - Gabriel Ribeiro, Felipe Viana - Trabalho 1 - [Link do Trabalho](https://github.com/Tetr4k/lp-agenda-telefonica2)
-- 
+- Marina da Cruz Bento Bulhosa - Exercício 1 -  https://github.com/marinabulhosa/Trabalho-4/tree/main
