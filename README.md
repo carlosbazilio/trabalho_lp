@@ -46,7 +46,6 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Kelly Ohana da Silva Ramos - D - https://youtu.be/nw7yoqahuYo
 * Kamile Novaes - Logo - https://youtu.be/ilrmct2YtFg
 * Otavio de Souza - VHDL - https://youtu.be/zlZh2-I6Wwg
-
 ## Segundo Trabalho
 
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
@@ -66,12 +65,15 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 - Ayla Rodrigues, Sofia Kitaeva - 3 - https://github.com/AylaRodrigues/Trabalho-02-LP
 - Júlia Miranda Rodrigues - Exercício 2 - https://github.com/juliaDmiranda/SimulacaoHeap
 - Bruno Costa dos Passos - Exercicio 3 - https://github.com/brunocosta1/garbage_collector
+- Marina da Cruz Bento Bulhosa - Exercicio 3 - https://github.com/marinabulhosa/ColetorAutomaticoDeLixo
 
 ## Terceiro Trabalho
 
 Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior. Cada trabalho só poderá ser escolhido por no máximo 2 grupos e será respeitada a ordem dos pull requests.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+- Marcus Vinicius Bispo Barbosa - 8 - https://github.com/marcusbispo/Trabalho-POO
+- Leonardo Peçanha - 5 - https://github.com/LeoHazer/LingProg_GerEmpr
 - Yunguer Dvorak, Kelly Ohana Ramos - 7 - https://github.com/Yunguer/Trabalho-LP/tree/main
 - Luiz Gustavo da Silva Oliveira,  Luiz Eduardo dos Santos Cunha - Trabalho 8 - https://github.com/LuizGustavo17/trab8/tree/main
 - João Victor Huguenim, Lucas Parente - Exercicio 4 - https://github.com/jvictorhuguenin/Trabalho3_LP
@@ -86,6 +88,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Arthur de Oliveira S Marques - Trabalho 7 - https://github.com/marxsushii/Exercicio-7
 - Kamile Novaes - 3 - https://github.com/kamilenovaes/pooLP/tree/master/pooLP
 - Bruno Costa dos Passos - 7 - https://github.com/brunocosta1/Trabalho7_Java
+- Marina da Cruz Bento Bulhosa - Exercicio 1 -https://github.com/marinabulhosa/Agenda-Telefonica
 
 ## Quarto Trabalho
 
@@ -93,3 +96,12 @@ Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguage
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Yunguer Dvorak, Kelly Ohana Ramos - 7 - https://github.com/Yunguer/Trabalho-LP-Haskell
+- Bruno Costa dos Passos - 7 - https://github.com/brunocosta1/Trabalho4
+- João Victor Huguenim, Lucas Parente - Exercicio 4 - https://github.com/jvictorhuguenin/TrabalhoLPFuncional
+- Marcus Vinicius Bispo Barbosa - https://github.com/marcusbispo/Trabalho-Haskell
+- Luiz Eduardo dos Santos Cunha, Luiz Gustavo da Silva Oliveira - 8 - https://github.com/Luiz-Cunha/Haskell-trab/tree/main
+- Douglas Mareli, Ayla Rodrigues - trabalgo 8- https://github.com/DouglasMreli/pedido-clienteHaskell/blob/main/pedido-cliente.hs
+- Raphael Kazuhiro Yoshiki - Número 3 - https://github.com/RaphaelYoshiki/trabalho4
+- Júlia Miranda Rodrigues - Trabalho 1 - [link do trabalho](https://github.com/juliaDmiranda/Trabalho-Agenda-Telefonica---Haskell.git)
+- Gabriel Ribeiro, Felipe Viana - Trabalho 1 - [Link do Trabalho](https://github.com/Tetr4k/lp-agenda-telefonica2)
+- 
