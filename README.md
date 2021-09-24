@@ -95,6 +95,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguagem Haskell, ou seja, usando o paradigma funcional. Este trabalho também pode ser feito em dupla, sendo que a dupla não pode ser igual a nenhuma dos trabalhos anteriores.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+- Yunguer Dvorak, Kelly Ohana Ramos - 7 - https://github.com/Yunguer/Trabalho-LP-Haskell
 - Bruno Costa dos Passos - 7 - https://github.com/brunocosta1/Trabalho4
 - João Victor Huguenim, Lucas Parente - Exercicio 4 - https://github.com/jvictorhuguenin/TrabalhoLPFuncional
 - Marcus Vinicius Bispo Barbosa - https://github.com/marcusbispo/Trabalho-Haskell
@@ -104,3 +105,5 @@ Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguage
 - Júlia Miranda Rodrigues - Trabalho 1 - [link do trabalho](https://github.com/juliaDmiranda/Trabalho-Agenda-Telefonica---Haskell.git)
 - Gabriel Ribeiro, Felipe Viana - Trabalho 1 - [Link do Trabalho](https://github.com/Tetr4k/lp-agenda-telefonica2)
 - Marina da Cruz Bento Bulhosa - Exercício 1 -  https://github.com/marinabulhosa/Trabalho-4/tree/main
+- Pedro Henrique Mendes Pereira Trabalho 3 - [Repositório do Trabalho](https://github.com/Pedrohenrimp/Carrinho-de-Compras-Haskell)
+- 
