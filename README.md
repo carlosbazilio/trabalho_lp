@@ -106,4 +106,4 @@ Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguage
 - Gabriel Ribeiro, Felipe Viana - Trabalho 1 - [Link do Trabalho](https://github.com/Tetr4k/lp-agenda-telefonica2)
 - Marina da Cruz Bento Bulhosa - Exercício 1 -  https://github.com/marinabulhosa/Trabalho-4/tree/main
 - Pedro Henrique Mendes Pereira Trabalho 3 - [Repositório do Trabalho](https://github.com/Pedrohenrimp/Carrinho-de-Compras-Haskell)
-- 
+- Kamile Novaes - Trabalho 3 - https://github.com/kamilenovaes/pooHaskell/tree/master
