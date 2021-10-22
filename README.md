@@ -14,6 +14,7 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação (vídeo, podcast, música, etc) e um código da linguagem escolhida, devem inserir um link onde esta possa ser vista.
 
 - Fernando, Igor - Lua
+- João Henrique, Kassiano - Julia
 
 
 ## Segundo Trabalho
