@@ -46,6 +46,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 * Kelly Ohana da Silva Ramos - D - https://youtu.be/nw7yoqahuYo
 * Kamile Novaes - Logo - https://youtu.be/ilrmct2YtFg
 * Otavio de Souza - VHDL - https://youtu.be/zlZh2-I6Wwg
+
 ## Segundo Trabalho
 
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
