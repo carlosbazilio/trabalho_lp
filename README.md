@@ -15,6 +15,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 
 - Fernando, Igor - Lua
 - João Henrique, Kassiano - Julia
+- Thayná Marins, Gabriel Silva - Elixir
 
 
 ## Segundo Trabalho
