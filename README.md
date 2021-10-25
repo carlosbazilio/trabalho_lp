@@ -15,7 +15,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 
 - Fernando, Igor - Lua
 - João Henrique, Kassiano - Julia
-
+- Bruno Claude, Raphael Kazuhiro - Scratch
 
 ## Segundo Trabalho
 
