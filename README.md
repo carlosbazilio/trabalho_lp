@@ -13,7 +13,13 @@ No primeiro trabalho, os alunos indicarão que linguagem de programação eles e
 
 Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação (vídeo, podcast, música, etc) e um código da linguagem escolhida, devem inserir um link onde esta possa ser vista.
 
-- Fernando, Igor - Lua
+- Fernando, Igor - Lua - https://drive.google.com/drive/u/2/folders/1Pdims2QFbSW3qPtXMZe00E1akCCp_Pf_
+- João Henrique, Kassiano - Julia
+- Thayná Marins, Gabriel Silva - Elixir
+- Bruno Claude, Raphael Kazuhiro - Scratch
+- Felipe Bastos, Felipe Ferreira - Ada
+- Camila Camilo, Bruno Locha - Typescript
+- Mariana Suarez - Dart
 
 
 ## Segundo Trabalho
