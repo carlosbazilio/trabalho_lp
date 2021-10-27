@@ -21,7 +21,6 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - Camila Camilo, Bruno Locha - Typescript
 - Mariana Suarez - Dart
 
-
 ## Segundo Trabalho
 
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
