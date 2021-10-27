@@ -20,6 +20,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - Felipe Bastos, Felipe Ferreira - Ada
 - Camila Camilo, Bruno Locha - Typescript
 - Mariana Suarez - Dart
+- Eduarda Michaelle - Haskell
 
 ## Segundo Trabalho
 
