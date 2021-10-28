@@ -17,7 +17,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - João Henrique, Kassiano - Julia
 - Thayná Marins, Gabriel Silva - Elixir
 - Bruno Claude, Raphael Kazuhiro - Scratch
-- Felipe Bastos, Felipe Ferreira - Ada
+- Felipe Bastos, Felipe Ferreira - Ada https://youtu.be/6q4G5XngS4I
 - Camila Camilo, Bruno Locha - Typescript
 - Mariana Suarez - Dart
 
