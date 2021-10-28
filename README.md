@@ -19,7 +19,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - Bruno Claude, Raphael Kazuhiro - Scratch - (https://www.youtube.com/watch?v=5jL63JPO6c0)
 - Felipe Bastos, Felipe Ferreira - Ada
 - Camila Camilo, Bruno Locha - Typescript
-- Mariana Suarez - Dart
+- Mariana Suarez - Dart - (https://github.com/marizeraus/dart_examples)
 - Eduarda Michaelle - Haskell
 
 ## Segundo Trabalho
