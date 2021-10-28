@@ -21,6 +21,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - Camila Camilo, Bruno Locha - Typescript
 - Mariana Suarez - Dart - (https://github.com/marizeraus/dart_examples)
 - Eduarda Michaelle - Haskell
+- João Melo - Lisp
 
 ## Segundo Trabalho
 
