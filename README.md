@@ -15,7 +15,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 
 - Fernando, Igor - Lua - (https://drive.google.com/drive/u/2/folders/1Pdims2QFbSW3qPtXMZe00E1akCCp_Pf_/)
 - João Henrique, Kassiano - Julia
-- Thayná Marins, Gabriel Silva - Elixir
+- Thayná Marins, Gabriel Silva - Elixir (https://github.com/G4brielSilva/Elixir-LP)
 - Felipe Bastos, Felipe Ferreira - Ada https://youtu.be/6q4G5XngS4I
 - Bruno Claude, Raphael Kazuhiro - Scratch - (https://www.youtube.com/watch?v=5jL63JPO6c0)
 - Camila Camilo, Bruno Locha - Typescript
