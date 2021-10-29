@@ -20,7 +20,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - Bruno Claude, Raphael Kazuhiro - Scratch - (https://www.youtube.com/watch?v=5jL63JPO6c0)
 - Camila Camilo, Bruno Locha - Typescript
 - Mariana Suarez - Dart - (https://github.com/marizeraus/dart_examples)
-- Eduarda Michaelle - Haskell
+- Eduarda Michaelle - ABAP - (https://youtu.be/kH7hiZcVnQ0)
 
 ## Segundo Trabalho
 
