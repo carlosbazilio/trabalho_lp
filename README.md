@@ -22,6 +22,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - Mariana Suarez - Dart - (https://github.com/marizeraus/dart_examples)
 - Eduarda Michaelle - Haskell
 - João Melo - Lisp - (https://youtu.be/07gezbytLpk) (https://github.com/jotave42/Lisp)
+- Sofia Kitaeva - Prolog - 
 
 ## Segundo Trabalho
 cd
