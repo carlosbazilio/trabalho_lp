@@ -17,7 +17,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - João Henrique, Kassiano - Julia
 - Thayná Marins, Gabriel Silva - Elixir
 - Bruno Claude, Raphael Kazuhiro - Scratch
-- Camila Camilo, Bruno Locha - Typescript - [Link do Trabalho] (https://drive.google.com/file/d/1cjPOduaKnY5wQ4fd4caf7ZLSShkqmThB/view?usp=sharing)
+- Camila Camilo, Bruno Locha - Typescript - [Link Trabalho] (https://drive.google.com/file/d/1cjPOduaKnY5wQ4fd4caf7ZLSShkqmThB/view?usp=sharing)
 - Mariana Suarez - Dart
 
 ## Segundo Trabalho
