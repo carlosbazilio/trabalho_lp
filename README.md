@@ -20,9 +20,9 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - Felipe Bastos, Felipe Ferreira - Ada https://youtu.be/6q4G5XngS4I
 - Bruno Claude, Raphael Kazuhiro - Scratch - (https://www.youtube.com/watch?v=5jL63JPO6c0)
 - Mariana Suarez - Dart - (https://github.com/marizeraus/dart_examples)
+- Sofia Kitaeva - Prolog - https://github.com/SofiaKitaeva/Trabalho1
 - Eduarda Michaelle - ABAP - (https://youtu.be/kH7hiZcVnQ0)
 - João Melo - Lisp - (https://youtu.be/07gezbytLpk) (https://github.com/jotave42/Lisp)
-- Sofia Kitaeva - Prolog - 
 - Carlos Eduardo  objective c - https://youtu.be/naKycwQpMIs
 
 ## Segundo Trabalho
