@@ -24,6 +24,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - Eduarda Michaelle - ABAP - (https://youtu.be/kH7hiZcVnQ0)
 - João Melo - Lisp - (https://youtu.be/07gezbytLpk) (https://github.com/jotave42/Lisp)
 - Carlos Eduardo  objective c - https://youtu.be/naKycwQpMIs
+- Alysson, Mariana Bravo - D - https://drive.google.com/folderview?id=1qi6tZ78R2_GsIYuF3lfnNBRSlAPTNlRv
 
 ## Segundo Trabalho
 
