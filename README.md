@@ -20,9 +20,11 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 - Felipe Bastos, Felipe Ferreira - Ada https://youtu.be/6q4G5XngS4I
 - Bruno Claude, Raphael Kazuhiro - Scratch - (https://www.youtube.com/watch?v=5jL63JPO6c0)
 - Mariana Suarez - Dart - (https://github.com/marizeraus/dart_examples)
+- Sofia Kitaeva - Prolog - https://github.com/SofiaKitaeva/Trabalho1
 - Eduarda Michaelle - ABAP - (https://youtu.be/kH7hiZcVnQ0)
 - João Melo - Lisp - (https://youtu.be/07gezbytLpk) (https://github.com/jotave42/Lisp)
-- Sofia Kitaeva - Prolog - 
+- Carlos Eduardo  objective c - https://youtu.be/naKycwQpMIs
+- Alysson, Mariana Bravo - D - https://drive.google.com/folderview?id=1qi6tZ78R2_GsIYuF3lfnNBRSlAPTNlRv
 
 ## Segundo Trabalho
 
@@ -30,8 +32,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Thayná Marins, Gabriel Silva - Exercício 3 (Coletor de lixo) - https://github.com/thaynamarinss/ColetordeLixo_Trab
-
-
+- Fernando, Igor - 6 - https://github.com/VargasCastlho/Pre-processador
 
 ## Terceiro Trabalho
 
