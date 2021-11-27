@@ -33,6 +33,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Thayná Marins, Gabriel Silva - Exercício 3 (Coletor de lixo) - https://github.com/thaynamarinss/ColetordeLixo_Trab
 - Fernando, Igor - 6 - https://github.com/VargasCastlho/Pre-processador
+- Bruno Locha, Camila Camilo - Exercício 2 (Memória Heap) - https://github.com/BrLocha94/MemoriaHeap
 
 ## Terceiro Trabalho
 
