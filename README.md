@@ -34,6 +34,8 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 - Thayná Marins, Gabriel Silva - Exercício 3 (Coletor de lixo) - https://github.com/thaynamarinss/ColetordeLixo_Trab
 - Fernando, Igor - 6 - https://github.com/VargasCastlho/Pre-processador
 - Rafael Abrahão - 2 - https://github.com/rafiqueee/SimuladorHeap
+- Mariana Suarez - 6 - https://github.com/marizeraus/trab2lp
+- Bruno Locha, Camila Camilo - Exercício 2 (Memória Heap) - https://github.com/BrLocha94/MemoriaHeap
 
 ## Terceiro Trabalho
 
