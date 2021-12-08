@@ -38,6 +38,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 - Mariana Suarez - 6 - https://github.com/marizeraus/trab2lp
 - Bruno Locha, Camila Camilo - Exercício 2 (Memória Heap) - https://github.com/BrLocha94/MemoriaHeap
 - Sofia Kitaeva - 3 - https://github.com/SofiaKitaeva/Trabalho2LP
+- Eduarda Michaelle - Exercício 3 - https://github.com/EduardaMichaelle/ProjetosFaculdade
 
 ## Terceiro Trabalho
 
