@@ -31,11 +31,13 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
+
 - Thayná Marins, Gabriel Silva - Exercício 3 (Coletor de lixo) - https://github.com/thaynamarinss/ColetordeLixo_Trab
 - Fernando, Igor - 6 - https://github.com/VargasCastlho/Pre-processador
 - Rafael Abrahão - 2 - https://github.com/rafiqueee/SimuladorHeap
 - Mariana Suarez - 6 - https://github.com/marizeraus/trab2lp
 - Bruno Locha, Camila Camilo - Exercício 2 (Memória Heap) - https://github.com/BrLocha94/MemoriaHeap
+- Sofia Kitaeva - 3 - https://github.com/SofiaKitaeva/Trabalho2LP
 - Eduarda Michaelle - Exercício 3 - https://github.com/EduardaMichaelle/ProjetosFaculdade
 
 ## Terceiro Trabalho
