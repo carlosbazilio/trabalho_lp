@@ -37,6 +37,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 - Rafael Abrahão - 2 - https://github.com/rafiqueee/SimuladorHeap
 - Mariana Suarez - 6 - https://github.com/marizeraus/trab2lp
 - Bruno Locha, Camila Camilo - Exercício 2 (Memória Heap) - https://github.com/BrLocha94/MemoriaHeap
+- João Henrique, Kassiano Vieira - Exercício 5 (Simulador/Depurador) - https://github.com/jaohenriq/programa-baz
 - Raphael Yoshiki - 4 - https://github.com/RaphaelYoshiki/trabalho-3-LP
 - Sofia Kitaeva - 3 - https://github.com/SofiaKitaeva/Trabalho2LP
 - Eduarda Michaelle - Exercício 3 - https://github.com/EduardaMichaelle/ProjetosFaculdade
