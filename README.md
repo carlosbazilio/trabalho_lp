@@ -52,6 +52,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 
 - Bruno Locha, Camila Camilo, João Melo - Exercício 1 (Agenda Telefônica)
+- Fernando Vargas, Thayná Marins - Exercício 1 (Agenda Telefônica) - (https://github.com/VargasCastlho/agenda-telefonica-oo)
 
 
 ## Quarto Trabalho
