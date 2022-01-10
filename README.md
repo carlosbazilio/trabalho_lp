@@ -53,6 +53,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Bruno Locha, Camila Camilo, João Melo - Exercício 1 (Agenda Telefônica)
 - Fernando Vargas, Thayná Marins - Exercício 1 (Agenda Telefônica) - (https://github.com/VargasCastlho/agenda-telefonica-oo)
+- Mariana Suarez de Oliveira - Exercicio 3 (Carrinho de Compras) - (https://github.com/marizeraus/trab3lp)
 
 
 ## Quarto Trabalho
