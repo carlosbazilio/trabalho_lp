@@ -41,7 +41,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 - Carlos Eduardo -  3 - https://github.com/CarlosPaulista/GC/tree/main
 - João Melo - Exercício 2 (Memória Heap) - https://github.com/jotave42/heapMemoryPy
 - João Henrique, Kassiano Vieira - Exercício 5 (Simulador/Depurador) - https://github.com/jaohenriq/programa-baz
-- Raphael Yoshiki - 4 - https://github.com/RaphaelYoshiki/trabalho-3-LP
+- Raphael Yoshiki - 4 - https://github.com/RaphaelYoshiki/trabalho-2-LP
 - Sofia Kitaeva - 3 - https://github.com/SofiaKitaeva/Trabalho2LP
 - Eduarda Michaelle - Exercício 3 - https://github.com/EduardaMichaelle/ProjetosFaculdade
 
