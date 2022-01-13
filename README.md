@@ -56,6 +56,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Mariana Suarez de Oliveira - Exercicio 3 (Carrinho de Compras) - (https://github.com/marizeraus/trab3lp)
 - Kassiano Vieira, João Henrique - Exercicio 3 (Carrinho de Compras) - https://github.com/KassianoV/LP_CarrinhoCompra
 - Igor Monárdez, Gabriel Silva - Exercício 4 (Data) - (https://github.com/prg-original/Datas_OO)
+- Raphael Kazuhiro Yoshiki - Exercício 2 (Intervalos) - (https://github.com/RaphaelYoshiki/trabalho-3-lp)
 
 ## Quarto Trabalho
 
