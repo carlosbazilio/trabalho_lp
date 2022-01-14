@@ -49,7 +49,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior. Cada trabalho só poderá ser escolhido por no máximo 2 grupos e será respeitada a ordem dos pull requests.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
-- Sofia Kitaeva - Trabalho 4 - 
+- Sofia Kitaeva - Exercício 4 (Data) - (https://github.com/SofiaKitaeva/trabalho3LP)
 - Felipe Bastos - 2 - https://github.com/frbas/trab3OO
 - Bruno Locha, Camila Camilo, João Melo - Exercício 1 (Agenda Telefônica)
 - Fernando Vargas, Thayná Marins - Exercício 1 (Agenda Telefônica) - (https://github.com/VargasCastlho/agenda-telefonica-oo)
