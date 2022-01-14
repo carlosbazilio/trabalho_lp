@@ -31,12 +31,16 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
-
+- Felipe Bastos, Felipe Ferreira - https://github.com/frbas/contador-de-referencias
 - Thayná Marins, Gabriel Silva - Exercício 3 (Coletor de lixo) - https://github.com/thaynamarinss/ColetordeLixo_Trab
 - Fernando, Igor - 6 - https://github.com/VargasCastlho/Pre-processador
 - Rafael Abrahão - 2 - https://github.com/rafiqueee/SimuladorHeap
 - Mariana Suarez - 6 - https://github.com/marizeraus/trab2lp
 - Bruno Locha, Camila Camilo - Exercício 2 (Memória Heap) - https://github.com/BrLocha94/MemoriaHeap
+- Carlos Eduardo -  3 - https://github.com/CarlosPaulista/GC/tree/main
+- João Melo - Exercício 2 (Memória Heap) - https://github.com/jotave42/heapMemoryPy
+- João Henrique, Kassiano Vieira - Exercício 5 (Simulador/Depurador) - https://github.com/jaohenriq/programa-baz
+- Raphael Yoshiki - 4 - https://github.com/RaphaelYoshiki/trabalho-2-LP
 - Sofia Kitaeva - 3 - https://github.com/SofiaKitaeva/Trabalho2LP
 - Eduarda Michaelle - Exercício 3 - https://github.com/EduardaMichaelle/ProjetosFaculdade
 
@@ -46,7 +50,15 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Sofia Kitaeva - Trabalho 4 - 
-
+- Felipe Bastos - 2 - https://github.com/frbas/trab3OO
+- Bruno Locha, Camila Camilo, João Melo - Exercício 1 (Agenda Telefônica)
+- Fernando Vargas, Thayná Marins - Exercício 1 (Agenda Telefônica) - (https://github.com/VargasCastlho/agenda-telefonica-oo)
+- Mariana Suarez de Oliveira - Exercicio 3 (Carrinho de Compras) - (https://github.com/marizeraus/trab3lp)
+- Kassiano Vieira, João Henrique - Exercicio 3 (Carrinho de Compras) - https://github.com/KassianoV/LP_CarrinhoCompra
+- Igor Monárdez, Gabriel Silva - Exercício 4 (Data) - (https://github.com/prg-original/Datas_OO)
+- Carlos Eduardo - Exercício 6
+- Raphael Kazuhiro Yoshiki - Exercício 2 (Intervalos) - (https://github.com/RaphaelYoshiki/trabalho-3-lp)
+- Rafael Abrahão - Exercício 7 (Pilha) - https://github.com/rafiqueee/Pilha_OO
 
 ## Quarto Trabalho
 
