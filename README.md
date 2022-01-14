@@ -32,7 +32,6 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Felipe Bastos, Felipe Ferreira - https://github.com/frbas/contador-de-referencias
-
 - Thayná Marins, Gabriel Silva - Exercício 3 (Coletor de lixo) - https://github.com/thaynamarinss/ColetordeLixo_Trab
 - Fernando, Igor - 6 - https://github.com/VargasCastlho/Pre-processador
 - Rafael Abrahão - 2 - https://github.com/rafiqueee/SimuladorHeap
@@ -41,7 +40,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 - Carlos Eduardo -  3 - https://github.com/CarlosPaulista/GC/tree/main
 - João Melo - Exercício 2 (Memória Heap) - https://github.com/jotave42/heapMemoryPy
 - João Henrique, Kassiano Vieira - Exercício 5 (Simulador/Depurador) - https://github.com/jaohenriq/programa-baz
-- Raphael Yoshiki - 4 - https://github.com/RaphaelYoshiki/trabalho-3-LP
+- Raphael Yoshiki - 4 - https://github.com/RaphaelYoshiki/trabalho-2-LP
 - Sofia Kitaeva - 3 - https://github.com/SofiaKitaeva/Trabalho2LP
 - Eduarda Michaelle - Exercício 3 - https://github.com/EduardaMichaelle/ProjetosFaculdade
 
@@ -50,13 +49,15 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior. Cada trabalho só poderá ser escolhido por no máximo 2 grupos e será respeitada a ordem dos pull requests.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
-
+- Felipe Bastos - 2 - https://github.com/frbas/trab3OO
 - Bruno Locha, Camila Camilo, João Melo - Exercício 1 (Agenda Telefônica)
 - Fernando Vargas, Thayná Marins - Exercício 1 (Agenda Telefônica) - (https://github.com/VargasCastlho/agenda-telefonica-oo)
 - Mariana Suarez de Oliveira - Exercicio 3 (Carrinho de Compras) - (https://github.com/marizeraus/trab3lp)
 - Kassiano Vieira, João Henrique - Exercicio 3 (Carrinho de Compras) - https://github.com/KassianoV/LP_CarrinhoCompra
 - Igor Monárdez, Gabriel Silva - Exercício 4 (Data) - (https://github.com/prg-original/Datas_OO)
 - Carlos Eduardo - Exercício 6
+- Raphael Kazuhiro Yoshiki - Exercício 2 (Intervalos) - (https://github.com/RaphaelYoshiki/trabalho-3-lp)
+- Rafael Abrahão - Exercício 7 (Pilha) - https://github.com/rafiqueee/Pilha_OO
 
 ## Quarto Trabalho
 
