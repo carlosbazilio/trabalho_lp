@@ -41,7 +41,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 - Carlos Eduardo -  3 - https://github.com/CarlosPaulista/GC/tree/main
 - João Melo - Exercício 2 (Memória Heap) - https://github.com/jotave42/heapMemoryPy
 - João Henrique, Kassiano Vieira - Exercício 5 (Simulador/Depurador) - https://github.com/jaohenriq/programa-baz
-- Raphael Yoshiki - 4 - https://github.com/RaphaelYoshiki/trabalho-3-LP
+- Raphael Yoshiki - 4 - https://github.com/RaphaelYoshiki/trabalho-2-LP
 - Sofia Kitaeva - 3 - https://github.com/SofiaKitaeva/Trabalho2LP
 - Eduarda Michaelle - Exercício 3 - https://github.com/EduardaMichaelle/ProjetosFaculdade
 
@@ -56,7 +56,9 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Mariana Suarez de Oliveira - Exercicio 3 (Carrinho de Compras) - (https://github.com/marizeraus/trab3lp)
 - Kassiano Vieira, João Henrique - Exercicio 3 (Carrinho de Compras) - https://github.com/KassianoV/LP_CarrinhoCompra
 - Igor Monárdez, Gabriel Silva - Exercício 4 (Data) - (https://github.com/prg-original/Datas_OO)
+- Raphael Kazuhiro Yoshiki - Exercício 2 (Intervalos) - (https://github.com/RaphaelYoshiki/trabalho-3-lp)
 - Rafael Abrahão - Exercício 7 (Pilha) - https://github.com/rafiqueee/Pilha_OO
+
 ## Quarto Trabalho
 
 Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguagem Haskell, ou seja, usando o paradigma funcional. Este trabalho também pode ser feito em dupla, sendo que a dupla não pode ser igual a nenhuma dos trabalhos anteriores.
