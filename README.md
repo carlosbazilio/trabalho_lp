@@ -56,7 +56,8 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Mariana Suarez de Oliveira - Exercicio 3 (Carrinho de Compras) - (https://github.com/marizeraus/trab3lp)
 - Kassiano Vieira, João Henrique - Exercicio 3 (Carrinho de Compras) - https://github.com/KassianoV/LP_CarrinhoCompra
 - Igor Monárdez, Gabriel Silva - Exercício 4 (Data) - (https://github.com/prg-original/Datas_OO)
-- Carlos Eduardo - Exercício 6
+- Felipe Floret Exercicio 7 (Pilha)
+- Carlos Eduardo - Exercício 6 - https://github.com/CarlosPaulista/EX6_LP
 - Raphael Kazuhiro Yoshiki - Exercício 2 (Intervalos) - (https://github.com/RaphaelYoshiki/trabalho-3-lp)
 - Rafael Abrahão - Exercício 7 (Pilha) - https://github.com/rafiqueee/Pilha_OO
 
@@ -66,3 +67,6 @@ Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguage
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Sofia Kitaeva - Exercício 4 (Data) - (https://github.com/SofiaKitaeva/trabalho4LP)
+- Fernando Vargas, Thayná Marins - Exercício 1 (Agenda Telefônica) - https://github.com/thaynamarinss/AgendaTelefonicaHaskell_TrabLP
+- Kassiano Vieira, Gabriel Silva - Exercício 1 (Agenda Telefônica) - https://github.com/KassianoV/Agenda_Telefonica
+
