@@ -68,6 +68,7 @@ Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguage
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Fernando Vargas, Thayná Marins - Exercício 1 (Agenda Telefônica) - https://github.com/thaynamarinss/AgendaTelefonicaHaskell_TrabLP
 - Kassiano Vieira, Gabriel Silva - Exercício 1 (Agenda Telefônica) - https://github.com/KassianoV/Agenda_Telefonica
+- Rafael Abrahão - Exercício 7 (Pilha) - https://github.com/rafiqueee/Pilha_Funcional
 - Carlos Eduardo - 8 https://github.com/CarlosPaulista/Haskell8
 - Raphael Kazuhiro Yoshiki - Exercício 2 (Intervalos) - (https://github.com/RaphaelYoshiki/trabalho-4-lp)
 - Igor Monardez, João Henrique - Exercicio 4 (Data) - https://github.com/IgorMonardez/Trabalho-4-lp
