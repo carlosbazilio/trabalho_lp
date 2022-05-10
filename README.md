@@ -22,6 +22,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 
+Pedro Sidaco - 3 - https://github.com/ppsidaco123/trabalho_lp
 
 ## Terceiro Trabalho
 
