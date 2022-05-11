@@ -21,8 +21,8 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 6). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
 - Caio Duarte Estrella - Exercicio 2 - https://github.com/CaiooDE/Trabalho-2-LP
-
-Pedro Sidaco - 3 - https://github.com/ppsidaco123/trabalho_lp
+- Pedro Sidaco - 3 - https://github.com/ppsidaco123/trabalho_lp
+- Victor Coutinho de Lima - 2 Trabalho Escolhido - https://github.com/Vicnyk/2Trabalho_LP_Victor
 
 ## Terceiro Trabalho
 
@@ -36,4 +36,4 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguagem Haskell, ou seja, usando o paradigma funcional. Este trabalho também pode ser feito em dupla, sendo que a dupla não pode ser igual a nenhuma dos trabalhos anteriores.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
-- Victor Coutinho de  Lima - 2º Trabalho Escolhido - https://github.com/Vicnyk/2Trabalho_LP_Victor
+
