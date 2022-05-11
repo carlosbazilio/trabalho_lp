@@ -22,6 +22,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 
 - Caio Duarte Estrella - Exercicio 2 - https://github.com/CaiooDE/Trabalho-2-LP
 
+Pedro Sidaco - 3 - https://github.com/ppsidaco123/trabalho_lp
 
 ## Terceiro Trabalho
 
