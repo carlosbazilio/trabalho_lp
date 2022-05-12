@@ -23,6 +23,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 - Caio Duarte Estrella - Exercicio 2 - https://github.com/CaiooDE/Trabalho-2-LP
 - Pedro Sidaco - 3 - https://github.com/ppsidaco123/trabalho_lp
 - Victor Coutinho de Lima - 2 Trabalho Escolhido - https://github.com/Vicnyk/2Trabalho_LP_Victor
+- Rafael Tiribás Rabiega Gomes - 3 - https://github.com/rafaeltiribas/coletordelixo_contref
 
 ## Terceiro Trabalho
 
