@@ -24,6 +24,7 @@ No segundo trabalho, vocês devem implementar algum dos trabalhos listados [nest
 - Pedro Sidaco - 3 - https://github.com/ppsidaco123/trabalho_lp
 - Victor Coutinho de Lima - 2 Trabalho Escolhido - https://github.com/Vicnyk/2Trabalho_LP_Victor
 - Bernardo Ramos - 3 - https://github.com/Bernardo-rar/Coletor-de-lixo
+- Rafael Tiribás Rabiega Gomes - 3 - https://github.com/rafaeltiribas/coletordelixo_contref
 
 ## Terceiro Trabalho
 
