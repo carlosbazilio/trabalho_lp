@@ -20,9 +20,13 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem d
 
 No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 6). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
-- Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 - Matheus Citeli - 6 - [Meu repositório](https://github.com/Citeli-py/Trabalho-de-LP)
-
+- João Henrique - Número 3 - https://github.com/jaohenriq/coletorlp
+- Caio Duarte Estrella - Exercicio 2 - https://github.com/CaiooDE/Trabalho-2-LP
+- Pedro Sidaco - 3 - https://github.com/ppsidaco123/trabalho_lp
+- Victor Coutinho de Lima - 2 Trabalho Escolhido - https://github.com/Vicnyk/2Trabalho_LP_Victor
+- Bernardo Ramos - 3 - https://github.com/Bernardo-rar/Coletor-de-lixo
+- Rafael Tiribás Rabiega Gomes - 3 - https://github.com/rafaeltiribas/coletordelixo_contref
 
 ## Terceiro Trabalho
 
