@@ -2,38 +2,23 @@
 
 Este repositório serve para os alunos e alunas de LP (UFF, Rio das Ostras) iniciarem o uso do Git/Github registrando os links para os repositórios dos trabalhos que forem desenvolver.
 
-[Primeiro Trabalho](#primeiro-trabalho)\
-[Segundo Trabalho](#segundo-trabalho)\
-[Terceiro Trabalho](#terceiro-trabalho)\
-[Quarto Trabalho](#quarto-trabalho)
-
-## Primeiro Trabalho
-
-No primeiro trabalho, os alunos indicarão que linguagem de programação eles escolheram para apresentar no primeiro trabalho. Uma lista bastante abrangente de linguagens pode ser encontrada no [Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages). Entretanto, está excluída das opções as primeiras 20 linguagens listadas no índice [TIOBE](https://www.tiobe.com/tiobe-index/). Este trabalho será em dupla.
-
-Para tal, cada aluno deve fazer um **fork** deste projeto, inserir a linguagem desejada para apresentação abaixo, e fazer um **pull request** para este projeto. Em seguida, após prepararem a apresentação (vídeo, podcast, música, etc) e um código da linguagem escolhida, devem inserir um link onde esta possa ser vista.
-
-- Aluno(a)1 [, Aluno(a)2] - Linguagem - Endereço do Repositório
+[Primeiro Trabalho de Implementação](#primeiro-trabalho)\
+[Segundo Trabalho de Implementação](#segundo-trabalho)
 
 
-## Segundo Trabalho
+## Primeiro Trabalho de Implementação
 
-No segundo trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 6). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
+No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 6). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 
-- Caio Duarte Estrella - Exercicio 2 - https://github.com/CaiooDE/Trabalho-2-LP
-- Pedro Sidaco - 3 - https://github.com/ppsidaco123/trabalho_lp
-- Victor Coutinho de Lima - 2 Trabalho Escolhido - https://github.com/Vicnyk/2Trabalho_LP_Victor
+Para tal, cada aluno deve fazer um **fork** deste projeto, inserir um link com o endereço do repositório público onde o projeto está armazenado, e fazer um **pull request** para este projeto. Caso estejam usando o Git/Github pela primeira vez, sigam o passo a passo apresentado [neste vídeo](https://www.youtube.com/watch?v=RP5L4mAtxto).
 
-## Terceiro Trabalho
+- Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 
-Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior. Cada trabalho só poderá ser escolhido por no máximo 2 grupos e será respeitada a ordem dos pull requests.
+
+## Segundo Trabalho de Implementação
+
+Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf), ou algum outro que apresente previamente para o professor e seja aceito como opção, usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada). Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior. Cada trabalho só poderá ser escolhido por no máximo 2 grupos e será respeitada a ordem dos pull requests.
 
 - Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 
-
-## Quarto Trabalho
-
-Implemente o mesmo problema escolhido no Terceiro Trabalho utilizando a linguagem Haskell, ou seja, usando o paradigma funcional. Este trabalho também pode ser feito em dupla, sendo que a dupla não pode ser igual a nenhuma dos trabalhos anteriores.
-
-- Aluno(a)1 [, Aluno(a)2] - Num Trabalho Escolhido - Endereço do Repositório
 
