@@ -15,7 +15,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir um link com o
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Tiago Ludovico - 3 - https://github.com/tiagoludovico/Coletor_auto_de_lixo_em_C 
 - Claudio Rodrigues Nunes - 2 - https://github.com/webcarioca/memoria_heap
-- João Victor Freitas, Ricardo Menezes Bandeira - https://github.com/joaov-freitas/Coletor-de-Lixo-C
+- João Victor Freitas, Ricardo Menezes Bandeira - 3 - https://github.com/joaov-freitas/Coletor-de-Lixo-C
 
 
 ## Segundo Trabalho de Implementacao
