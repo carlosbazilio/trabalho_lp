@@ -18,6 +18,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir um link com o
 - João Victor Freitas, Ricardo Menezes Bandeira - 4 - https://github.com/joaov-freitas/Mark-and-Sweep
 - Carina Lanchine - 3 - https://github.com/carinalanchine/coletor_lixo
 - Erik Alves de Moura Izidoro - 3 - https://github.com/erikmoura/coletor_de_lixo
+- Myllene Figueiredo Do Couto, Guilherme Custódio - 3 - https://github.com/MylleneCouto/coletor_de_lixo.git
 
 
 ## Segundo Trabalho de Implementacao
