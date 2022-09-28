@@ -153,72 +153,115 @@ heap *addworst(heap *h, heap *novo){
     
 
 }
-heap *addFirst(heap *atual,heap *novo){  
-    int A_ini,A_tam,N_tam;
-    if(atual != NULL)
-    {   
-        A_ini=(atual->item->inicio);
-        A_tam=(atual->item->tamanho);
-        if(atual->prox==NULL){//se não há prox       
-           
-            N_tam=novo->item->tamanho;
-            if(A_ini+A_tam+N_tam<Theap ){           
-                novo->item->inicio= A_ini+A_tam;//o inicio do atual mais o tamanho
-                atual->prox= novo;
-                
-            }
-            else{
-                return NULL;//nao ha espaço
-            }
-
-        }
-        else//se ha prox
-        {
-            if((atual->item->inicio)+(atual->item->tamanho)+(novo->item->tamanho)-1 < (atual->prox->item->inicio)){
-                novo->prox = atual->prox;
-                novo->item->inicio = (atual->item->inicio)+(atual->item->tamanho);
-                atual->prox = novo;             
-                return atual;
-            }else{
-                atual->prox=addFirst(atual->prox,novo);
-                return atual;
-            }
-         
-            
-        }
-    }
-    else
-    {       
-        if(novo->item->tamanho<Theap )
-        {//se item cabe no heap
-        novo->item->inicio=0; 
-        novo->prox=NULL;
-        return novo;
-        }           
-    }
-
-    return atual;
-    
-}
-heap *addFit(heap *a, heap *novo){    
-    heap *p,*aux,*aux2;//a- atual p-proximo
-    if(a==NULL){
+heap *addFirst(heap *h,heap *novo){
+    heap *r,*atual,*p;bool add=false;
+    if(h==NULL){
         novo->item->inicio=0;
         return novo;
-
+    }else if(h->prox==NULL){
+        novo->item->inicio=(h->item->inicio)+(h->item->tamanho);
+        h->prox=novo;
+        return h;
     }else{
-        if(a->prox!=NULL){
-            p=a->prox;
-        }else{
-            novo->item->inicio=(a->item->inicio)+(a->item->tamanho);
+        r=h;
+      
+        while (h->prox!=NULL)
+        {
+          if(((h->prox->item->inicio)-(h->item->inicio+h->item->tamanho))>(novo->item->tamanho)-1){
+            novo->prox=h->prox;
+            novo->item->inicio=(h->item->inicio+h->item->tamanho);
+            h->prox=novo;
+            add=true;
+            break;
+
+          }
+          h=h->prox;
+          
+          
+        }
+        if(!add){
+            novo->item->inicio=(h->item->inicio)+(h->item->tamanho);
+            novo->prox=NULL;
+            h->prox=novo;
+        }
+        
+
+        return r;
+    }
+
+    
+    return h;
+    
+}
+
+heap *addFit(heap *a, heap *novo, int cont){
+    heap *aux,*p,*aux2;
+    bool add = false;
+    aux=a;
+    if(a==NULL){
+        novo->item->inicio = 0;
+        novo->prox=NULL;
+        return novo;
+
+    }else if(a->prox == NULL){
+        novo->item->inicio =a->item->tamanho;
+        novo->prox=NULL;
+        a->prox = novo;
+        return a;
+    }else{
+        /*
+        if((novo->item->tamanho)-(a->item->inicio)==0){
+            novo->item->inicio = 0;
+            novo->prox=a;
+            return novo;
+        }
+        if(a->prox==NULL){
+            novo->item->inicio=a->item->tamanho;
+            novo->prox=NULL;
             a->prox=novo;
             return a;
         }
+        else{
+            p=a->prox;                
+            while (p!=NULL)
+            {
+               if((novo->item->tamanho)-(a->item->inicio)==0){
+                    novo->item->inicio = 0;
+                    novo->prox=a;
+                    return aux;
+                }
+                a = p;
+                if(a->prox != NULL)
+                {
+                    p = a->prox;                
+                }
+                else{
+                    p=NULL;
+                }
+            }
+            return addFirst(aux,novo);
             
-    }    
-    aux = a;   
+        }
+        */
+       while(a->prox!=NULL){
+            p = a->prox;
+            if(novo->item->tamanho==(p->item->inicio)-(a->item->tamanho)+(a->item->inicio)){
+                novo->prox=p;
+                a->prox=novo;
+                novo->item->inicio=(a->item->tamanho)+(a->item->inicio);               
+                add= true;
+                break;
+            }
+            a=p;
+       }
+    }
+    if(!add){        
+        aux = addFirst(aux,novo);
+    }
     return aux;
 }
+
+
 void modo(){
     int a = 0;
     printf("\nEscolha o modo de inserção no HEAP\n");
@@ -284,7 +327,7 @@ heap *add(heap *h,char id,int tam){
                 h = addFirst(h,No);
                 break;
             case 2://fit
-                h = addFit(h,No);
+                h = addFit(h,No,0);
                 break;
             case 3://best
                 h = addbest(h,No);
@@ -315,26 +358,31 @@ void destroi(heap *h){
     
 }
 heap *delete (heap *h, char id){
-
-    if(h!=NULL && Finderid(h,id)){   
+    if(h!=NULL){ 
+          
         if(h->item->id==id){
-            if(h->prox !=NULL){
+
+            if(h->prox !=NULL)
+            {
                 heap *aux = h->prox;
                 free(h->item);
-                h->item=aux->item;
-                h->prox=aux->prox;
-                return h;
-            }else{
+                return aux;
+            }
+            else
+            {
                 free(h->item);
                 h->item=NULL;
                 h->prox=NULL;
                 return h;
             }
         }    
-        else{
-            return delete(h->prox,id);
+        else
+        {
+            h->prox = delete(h->prox,id);
+            return h;
         }
     }
+    return h;
 }
 heap *chamadelete(heap *h, char id){
     if(Finderid(h,id)){
@@ -346,40 +394,49 @@ heap *chamadelete(heap *h, char id){
 void simula(){
  heap *HEAP = NULL;
     
-    printf("\nadd a 10\n");
-    HEAP = add(HEAP,'a',10);
+    printf("\nadd a 10");
+    HEAP = add(HEAP,'a',10); //add  a+{}      
+
+    printf("\nadd b 5");
+    HEAP = add(HEAP,'b',5);//add  b+{a}   
+
+    printf("\nadd c 10");
+    HEAP = add(HEAP,'c',10);//add  c+{a,b}
+    
+    printf("\nadd a 10");
+    HEAP = add(HEAP,'a',10);//add  a+{a,b,c}//não entra
+
+    printf("\nadd f 10");    
+    HEAP = add(HEAP,'f',10);//add  f+{a,b,c}
+
+    printf("\nadd d 10");
+    HEAP = add(HEAP,'d',10);//add  d+{a,b,c,f}    
+
+    printf("\nDelete b");
+    HEAP = delete(HEAP,'b');//delete {a,5,c,f,d}
+
+    printf("\nDelete c");
+    HEAP = delete(HEAP,'c');//delete {a,15,f,d} 
+    
+    printf("\nHEAP:\n");   
     imprimirHeap(HEAP);
-    printf("\nadd b 5\n");
-    HEAP = add(HEAP,'b',5);
-    imprimirHeap(HEAP);  
-    printf("\nadd c 10\n");
-    HEAP = add(HEAP,'c',10);
-    printf("\nadd a 10\n");
-    HEAP = add(HEAP,'a',10);
-    printf("\nadd f 10\n");
-    HEAP = add(HEAP,'f',10);
-    printf("\nadd d 10\n");
-    HEAP = add(HEAP,'d',10);
-    printf("\nHEAP:\n");
-    imprimirHeap(HEAP);
-    printf("\nDelete b\n");
-    delete(HEAP,'b');
-    printf("\nDelete f\n");
-    delete(HEAP,'f');
-    imprimirHeap(HEAP);
-    printf("\nadd j 10\n");
-    HEAP = add(HEAP,'j',10);
-    printf("\nadd k 1\n");
-    HEAP = add(HEAP,'k',1);
+
+    printf("\nadd j 10");
+    HEAP = add(HEAP,'j',10);//add j {a,j,5,f,d}
+
+    printf("\nadd k 5");
+    HEAP = add(HEAP,'k',5);//add{a,j,k,f,d}
+
+    printf("\nHEAP:\n");   
     imprimirHeap(HEAP);
     destroi(HEAP);
    
 }
 
 int main(){
-   //printf("\nfirst:\n");
-  // escolhido =1;
-   //simula();
+   printf("\nfirst:\n");
+   escolhido =1;
+   simula();
    printf("\nfit:\n");
    escolhido =2;
    simula();
