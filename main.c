@@ -5,7 +5,7 @@
 
 int main()
 {
-int *v = malloc2(sizeof(int));
+    int *v = malloc2(sizeof(int));
     *v = 10;
     printf("\n1 - Print\n");
 
