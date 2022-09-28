@@ -19,6 +19,10 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir um link com o
 - João Victor Freitas, Ricardo Menezes Bandeira - 2  -https://github.com/RicardoMenezesBandeira/ricardo_Joaoheap-LP
 - Carina Lanchine - 3 - https://github.com/carinalanchine/coletor_lixo
 - Erik Alves de Moura Izidoro - 3 - https://github.com/erikmoura/coletor_de_lixo
+- Gabriel Moura, Juan Melo - 2 - https://github.com/gabeMsB/Simulador-de-mem-heap
+- Públio Sebastian Paixão Paulino - 3 - https://github.com/SebastianPaulino/Trabalho-LP-2.git
+- Amauri da Silva Junior, Sarah Santos da Silva - 3 - https://github.com/amaurijr123/Garbage_Collector_LP
+- Alysson Lucas, Mariana Bravo - 3 - https://github.com/doppelganguer/Coletor-de-Lixo
 
 
 ## Segundo Trabalho de Implementacao
