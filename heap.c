@@ -18,8 +18,141 @@ typedef struct heap{
     struct heap *prox;
     
 }heap;
+heap *addbest(heap *h, heap *novo){
+    heap *a,*p;// p: proximo
+    char id_m;//id do menor desperdicio
+    int m_dist= 2*Theap; //maior distancia possivel
+    int dist, p_ini,a_ini,a_tam;
+    a=h;
+    if(a!=NULL){//há algo no heap?      
+        p=a->prox;
+        if(p==NULL){//segunda iteração
+            novo->item->inicio= (a->item->inicio)+(a->item->tamanho);
+            a->prox =novo;
 
+            return a;
+        }
+    }
+    else{//primeira itereção
+        p=NULL;   
+        novo->prox = NULL;
+        novo->item->inicio=0;
+        return novo; 
+    }
+    while (p!=NULL)//enquanto existir prox 
+    {
+        p_ini = p->item->inicio;
+        a_ini = a->item->inicio;
+        a_tam = a->item->tamanho;
+        dist = p_ini-(a_ini+a_tam);//espaço entre o atual e o prox
+        if((dist - novo->item->tamanho)==0)//verifica espaço entre os elementos| faz o -1?
+        {
+            //inseri
+            novo->item->inicio = (a->item->inicio)+(a->item->tamanho);            
+            novo->prox = a->prox;
+            a->prox= novo;
+            return h;//'a' inicia como um vetor copia de h entao as alteraçoes de a valem em h
+        }
+        else{
+            if(dist<m_dist && dist > 0){
+                m_dist=dist;
+                id_m = a->item->id;
+            }else{                
+            }
+        }
 
+        a=p;
+        
+        p=a->prox;
+      
+    }
+    if(m_dist>Theap){//se maior n há espaço entre eles
+        novo->item->inicio = (a->item->inicio)+(a->item->tamanho);
+        a->prox=novo;
+        return h;
+    }else{//se menor ha algum espaço com menor desperdicio
+        a=h;
+        while(a!=NULL){
+            if(a->item->id==id_m){
+                p = a->prox;
+                novo->item->inicio = (a->item->inicio)+(a->item->tamanho);
+                a->prox =novo;
+                novo->prox =p;
+                return h;
+            }
+        }
+
+    }
+    
+            
+           
+}
+heap *addworst(heap *h, heap *novo){
+     heap *a,*p;// p: proximo
+    char id_m;//id do menor desperdicio
+    int m_dist= 0; //maior distancia possivel
+    int dist, p_ini,a_ini,a_tam;
+    a=h;
+    if(a!=NULL){//há algo no heap?      
+        p=a->prox;
+        if(p==NULL){//segunda iteração
+            novo->item->inicio= (a->item->inicio)+(a->item->tamanho);
+            a->prox =novo;
+
+            return a;
+        }
+    }
+    else{//primeira itereção
+        p=NULL;   
+        novo->prox = NULL;
+        novo->item->inicio=0;
+        return novo; 
+    }
+    while (p!=NULL)//enquanto existir prox 
+    {
+        p_ini = p->item->inicio;
+        a_ini = a->item->inicio;
+        a_tam = a->item->tamanho;
+        dist = p_ini-(a_ini+a_tam);//espaço entre o atual e o prox
+        if((dist - novo->item->tamanho)==0)//verifica espaço entre os elementos| faz o -1?
+        {
+            //inseri
+            novo->item->inicio = (a->item->inicio)+(a->item->tamanho);            
+            novo->prox = a->prox;
+            a->prox= novo;
+            return h;//'a' inicia como um vetor copia de h entao as alteraçoes de a valem em h
+        }
+        else{
+            if(dist>m_dist && dist > 0){
+                m_dist=dist;
+                id_m = a->item->id;
+            }else{                
+            }
+        }
+        a=p;        
+        p=a->prox;
+      
+    }
+    if(m_dist<Theap){//se esta dentro do heap
+        novo->item->inicio = (a->item->inicio)+(a->item->tamanho);
+        a->prox=novo;
+        return h;
+    }else{//se menor ha algum espaço com menor desperdicio
+        a=h;
+        while(a!=NULL){
+            if(a->item->id==id_m){
+                p = a->prox;
+                novo->item->inicio = (a->item->inicio)+(a->item->tamanho);
+                a->prox =novo;
+                novo->prox =p;
+                return h;
+            }
+        }
+
+    }
+    
+
+}
 heap *addFirst(heap *atual,heap *novo){  
     int A_ini,A_tam,N_tam;
     if(atual != NULL)
@@ -67,45 +200,23 @@ heap *addFirst(heap *atual,heap *novo){
     return atual;
     
 }
-heap *addFit(heap *a, heap *novo){
-    bool inseriu = false;
+heap *addFit(heap *a, heap *novo){    
     heap *p,*aux,*aux2;//a- atual p-proximo
     if(a==NULL){
-        p=NULL;
+        novo->item->inicio=0;
+        return novo;
+
     }else{
-        if(a->prox!=NULL)
+        if(a->prox!=NULL){
             p=a->prox;
-    }
-    
-    aux = a;
-    int n_tam,a_ini,a_tam, p_ini;
-    while(!inseriu){
-        if((a_ini+a_tam)<Theap){
-            if(a==NULL){
-                a=novo;
-                return a;
-            }
-            if(p==NULL){
-                a->prox=novo;
-                return a;
-            }
-            n_tam=(novo->item->tamanho);
-            a_ini=(a->item->inicio);
-            a_tam=(a->item->tamanho);
-            p_ini=(p->item->inicio);
-            if(n_tam-((a_ini+a_tam)-p_ini)==0){
-                //inseri
-                novo->prox=p;
-                a->prox=novo;
-                inseriu =true;
-            }
-            aux2=p->prox;
-            a=p;
-            p=aux2;
-        } else{
-            return addFirst(aux,novo);
+        }else{
+            novo->item->inicio=(a->item->inicio)+(a->item->tamanho);
+            a->prox=novo;
+            return a;
         }
-    }
+            
+    }    
+    aux = a;   
     return aux;
 }
 void modo(){
@@ -141,7 +252,7 @@ void imprimirHeap(heap *h){
         printf("\n!NULL!\n");
     }
     while(h!=NULL){        
-        printf("\nID: %c Tamanho:%d Inicio:%d",h->item->id,h->item->tamanho,h->item->inicio);
+        printf("\nID: %c Tamanho Alocado:%d Inicio:%d",h->item->id,h->item->tamanho,h->item->inicio);
         h=h->prox;
     }
 }
@@ -162,7 +273,7 @@ heap *add(heap *h,char id,int tam){
         novo = malloc(sizeof(elemento));
         novo->id = id;
         novo->tamanho=tam;
-        
+        novo->inicio =-1;
         heap *No;//novo nó da lista
         No = malloc(sizeof(heap));
         No->prox=NULL;
@@ -174,9 +285,12 @@ heap *add(heap *h,char id,int tam){
                 break;
             case 2://fit
                 h = addFit(h,No);
+                break;
             case 3://best
+                h = addbest(h,No);
                 break;
             case 4://worse
+             h = addworst(h,No);
                 break;
             
         }    
@@ -200,27 +314,28 @@ void destroi(heap *h){
     
     
 }
-
 heap *delete (heap *h, char id){
-    if(h->item->id==id){
-        if(h->prox !=NULL){
-            heap *aux = h->prox;
-            free(h->item);
-            h->item=aux->item;
-            h->prox=aux->prox;
-            return h;
-        }else{
-            free(h->item);
-            h->item=NULL;
-            h->prox=NULL;
-            return h;
+
+    if(h!=NULL && Finderid(h,id)){   
+        if(h->item->id==id){
+            if(h->prox !=NULL){
+                heap *aux = h->prox;
+                free(h->item);
+                h->item=aux->item;
+                h->prox=aux->prox;
+                return h;
+            }else{
+                free(h->item);
+                h->item=NULL;
+                h->prox=NULL;
+                return h;
+            }
+        }    
+        else{
+            return delete(h->prox,id);
         }
-    }    
-    else{
-        return delete(h->prox,id);
     }
 }
-
 heap *chamadelete(heap *h, char id){
     if(Finderid(h,id)){
         return delete(h,id);
@@ -228,35 +343,52 @@ heap *chamadelete(heap *h, char id){
     return h;
 }
 
-heap *addbest(heap *h, heap *novo){
-    //menor desperdicio
-    //Dist = P_ini - A_ini+A_tam
-    //if(Dist==0){add}
-    //if(Dist<menorD){menorD=Dist; M_pos=A_ini+A_tam}
-}
-heap *addworst(){
-
-}
-int main(){
-    heap *HEAP = NULL;
-    escolhido = 2;
-    printf("add a 8\n");
-    HEAP = add(HEAP,'a',8);    
-    printf("add b 9\n");
-    HEAP = add(HEAP,'b',7);
-    printf("add c 9\n");
-    HEAP = add(HEAP,'c',9);
-    printf("add a 10\n");
+void simula(){
+ heap *HEAP = NULL;
+    
+    printf("\nadd a 10\n");
     HEAP = add(HEAP,'a',10);
-    printf("add f 11\n");
-    HEAP = add(HEAP,'f',11);
+    imprimirHeap(HEAP);
+    printf("\nadd b 5\n");
+    HEAP = add(HEAP,'b',5);
+    imprimirHeap(HEAP);  
+    printf("\nadd c 10\n");
+    HEAP = add(HEAP,'c',10);
+    printf("\nadd a 10\n");
+    HEAP = add(HEAP,'a',10);
+    printf("\nadd f 10\n");
+    HEAP = add(HEAP,'f',10);
+    printf("\nadd d 10\n");
+    HEAP = add(HEAP,'d',10);
+    printf("\nHEAP:\n");
     imprimirHeap(HEAP);
     printf("\nDelete b\n");
     delete(HEAP,'b');
-    HEAP = add(HEAP,'j',5);
-    HEAP = add(HEAP,'k',2);
+    printf("\nDelete f\n");
+    delete(HEAP,'f');
+    imprimirHeap(HEAP);
+    printf("\nadd j 10\n");
+    HEAP = add(HEAP,'j',10);
+    printf("\nadd k 1\n");
+    HEAP = add(HEAP,'k',1);
     imprimirHeap(HEAP);
     destroi(HEAP);
    
+}
+
+int main(){
+   //printf("\nfirst:\n");
+  // escolhido =1;
+   //simula();
+   printf("\nfit:\n");
+   escolhido =2;
+   simula();
+  /* printf("\n\n\nbest:\n");
+   escolhido =3;
+   simula();
+   printf("\n\n\nworst:\n");
+   escolhido =4;
+   simula();
+*/
     return 0;
 }
