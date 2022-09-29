@@ -24,12 +24,13 @@ heap *addbest(heap *h, heap *novo){
     int m_dist= 2*Theap; //maior distancia possivel
     int dist, p_ini,a_ini,a_tam;
     a=h;
+    
+
     if(a!=NULL){//há algo no heap?      
         p=a->prox;
         if(p==NULL){//segunda iteração
             novo->item->inicio= (a->item->inicio)+(a->item->tamanho);
             a->prox =novo;
-
             return a;
         }
     }
@@ -38,6 +39,17 @@ heap *addbest(heap *h, heap *novo){
         novo->prox = NULL;
         novo->item->inicio=0;
         return novo; 
+    }
+    //verificar se há espaço entre o 0 e a "cabeça" do heap
+    if(a->item->inicio==novo->item->tamanho){
+        novo->item->inicio=0;
+        novo->prox=a;
+        return novo;
+    }else{
+        if(a->item->inicio>novo->item->tamanho){
+            m_dist = a->item->inicio;
+            id_m = 1;
+        }
     }
     while (p!=NULL)//enquanto existir prox 
     {
@@ -57,7 +69,6 @@ heap *addbest(heap *h, heap *novo){
             if(dist<m_dist && dist > 0){
                 m_dist=dist;
                 id_m = a->item->id;
-            }else{                
             }
         }
 
@@ -72,6 +83,11 @@ heap *addbest(heap *h, heap *novo){
         return h;
     }else{//se menor ha algum espaço com menor desperdicio
         a=h;
+        if(id_m == 1){
+                novo->item->inicio=0;
+                novo->prox=a;
+                return novo;
+        }
         while(a!=NULL){
             if(a->item->id==id_m){
                 p = a->prox;
@@ -80,6 +96,7 @@ heap *addbest(heap *h, heap *novo){
                 novo->prox =p;
                 return h;
             }
+            a=a->prox;
         }
 
     }
@@ -108,6 +125,14 @@ heap *addworst(heap *h, heap *novo){
         novo->item->inicio=0;
         return novo; 
     }
+    if(a->item->inicio==novo->item->tamanho){
+        novo->item->inicio=0;
+        novo->prox=a;
+        return novo;
+    }else{
+        m_dist = a->item->inicio;
+        id_m = 1;
+    }
     while (p!=NULL)//enquanto existir prox 
     {
         p_ini = p->item->inicio;
@@ -126,7 +151,6 @@ heap *addworst(heap *h, heap *novo){
             if(dist>m_dist && dist > 0){
                 m_dist=dist;
                 id_m = a->item->id;
-            }else{                
             }
         }
         a=p;        
@@ -139,6 +163,11 @@ heap *addworst(heap *h, heap *novo){
         return h;
     }else{//se menor ha algum espaço com menor desperdicio
         a=h;
+        if(id_m == 1){
+                novo->item->inicio=0;
+                novo->prox=a;
+                return novo;
+            }
         while(a!=NULL){
             if(a->item->id==id_m){
                 p = a->prox;
@@ -146,7 +175,7 @@ heap *addworst(heap *h, heap *novo){
                 a->prox =novo;
                 novo->prox =p;
                 return h;
-            }
+            } 
         }
 
     }
@@ -164,7 +193,11 @@ heap *addFirst(heap *h,heap *novo){
         return h;
     }else{
         r=h;
-      
+        if(h->item->inicio >= novo->item->tamanho){
+            novo->item->inicio=0;
+            novo->prox = h;
+            return novo;
+        }
         while (h->prox!=NULL)
         {
           if(((h->prox->item->inicio)-(h->item->inicio+h->item->tamanho))>(novo->item->tamanho)-1){
@@ -209,7 +242,12 @@ heap *addFit(heap *a, heap *novo, int cont){
         a->prox = novo;
         return a;
     }else{       
-       while(a->prox!=NULL){
+        if(a->item->inicio == novo->item->tamanho){
+            novo->item->inicio = 0;
+            novo->prox=a;
+            return novo;
+        }
+        while(a->prox!=NULL){
             p = a->prox;
             if(novo->item->tamanho==(p->item->inicio)-(a->item->tamanho)+(a->item->inicio)){
                 novo->prox=p;
@@ -388,8 +426,11 @@ void simula(){
     HEAP = delete(HEAP,'c');
     printf("\n\nHEAP:\n");   
     imprimirHeap(HEAP);
-        
-;
+
+    printf("\nDelete a");
+    HEAP =delete(HEAP,'a');
+    printf("\n\nHEAP:\n");   
+    imprimirHeap(HEAP);
 
     printf("\nadd j 10");
     HEAP = add(HEAP,'j',10);
