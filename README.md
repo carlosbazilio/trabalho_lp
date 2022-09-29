@@ -16,6 +16,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir um link com o
 - Tiago Ludovico - 3 - https://github.com/tiagoludovico/Coletor_auto_de_lixo_em_C 
 - Claudio Rodrigues Nunes - 2 - https://github.com/webcarioca/memoria_heap
 - João Victor Freitas, Ricardo Menezes Bandeira - 4 - https://github.com/joaov-freitas/Mark-and-Sweep
+- Ricardo Menezes Bandeira,João Victor Freitas - 2  -https://github.com/RicardoMenezesBandeira/ricardo_Joaoheap-LP
 - Carina Lanchine - 3 - https://github.com/carinalanchine/coletor_lixo
 - Erik Alves de Moura Izidoro - 3 - https://github.com/erikmoura/coletor_de_lixo
 - Gabriel Moura, Juan Melo - 2 - https://github.com/gabeMsB/Simulador-de-mem-heap
