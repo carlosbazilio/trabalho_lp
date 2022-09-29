@@ -208,41 +208,7 @@ heap *addFit(heap *a, heap *novo, int cont){
         novo->prox=NULL;
         a->prox = novo;
         return a;
-    }else{
-        /*
-        if((novo->item->tamanho)-(a->item->inicio)==0){
-            novo->item->inicio = 0;
-            novo->prox=a;
-            return novo;
-        }
-        if(a->prox==NULL){
-            novo->item->inicio=a->item->tamanho;
-            novo->prox=NULL;
-            a->prox=novo;
-            return a;
-        }
-        else{
-            p=a->prox;                
-            while (p!=NULL)
-            {
-               if((novo->item->tamanho)-(a->item->inicio)==0){
-                    novo->item->inicio = 0;
-                    novo->prox=a;
-                    return aux;
-                }
-                a = p;
-                if(a->prox != NULL)
-                {
-                    p = a->prox;                
-                }
-                else{
-                    p=NULL;
-                }
-            }
-            return addFirst(aux,novo);
-            
-        }
-        */
+    }else{       
        while(a->prox!=NULL){
             p = a->prox;
             if(novo->item->tamanho==(p->item->inicio)-(a->item->tamanho)+(a->item->inicio)){
@@ -262,33 +228,6 @@ heap *addFit(heap *a, heap *novo, int cont){
 }
 
 
-void modo(){
-    int a = 0;
-    printf("\nEscolha o modo de inserção no HEAP\n");
-    printf("\n1- First\n");
-    printf("\n2- Fit\n");
-    printf("\n3- Best\n");
-    printf("\n4- Worst\n");
-    scanf("%d",&a);
-    switch(a){
-        case 1://first
-            escolhido = 1;
-            break;
-        case 2://fit
-            escolhido = 2;
-            break;
-        case 3://best
-            escolhido = 3;
-            break;
-        case 4://worst
-            escolhido = 4;
-            break;
-        default:
-            printf("\nmodo inválido\n");
-            modo();
-            break;
-    }
-}
 
 void imprimirHeap(heap *h){
     if(h==NULL){
@@ -340,6 +279,7 @@ heap *add(heap *h,char id,int tam){
         return h;//retorna alterada
     }
     else{
+        printf("\n\nID JÁ EXISTE!\n");
         return h;//retorna sem alteração
     }
 }
@@ -391,61 +331,122 @@ heap *chamadelete(heap *h, char id){
     return h;
 }
 
+
 void simula(){
- heap *HEAP = NULL;
+    heap *HEAP = NULL;
     
     printf("\nadd a 10");
-    HEAP = add(HEAP,'a',10); //add  a+{}      
+    HEAP = add(HEAP,'a',10);    
+    printf("\n\nHEAP:\n");   
+    imprimirHeap(HEAP);
+    
+   
 
     printf("\nadd b 5");
-    HEAP = add(HEAP,'b',5);//add  b+{a}   
+    HEAP = add(HEAP,'b',5);   
+    printf("\n\nHEAP:\n");   
+    imprimirHeap(HEAP);
+    
+   
 
     printf("\nadd c 10");
-    HEAP = add(HEAP,'c',10);//add  c+{a,b}
+    HEAP = add(HEAP,'c',10);
+    printf("\n\nHEAP:\n");   
+    imprimirHeap(HEAP);
     
+
+
     printf("\nadd a 10");
-    HEAP = add(HEAP,'a',10);//add  a+{a,b,c}//não entra
+    HEAP = add(HEAP,'a',10);
+    printf("\n\nHEAP:\n");   
+    imprimirHeap(HEAP);
+    
+   
 
     printf("\nadd f 10");    
-    HEAP = add(HEAP,'f',10);//add  f+{a,b,c}
+    HEAP = add(HEAP,'f',10);
+    printf("\n\nHEAP:\n");   
+    imprimirHeap(HEAP);
+    
+   
 
     printf("\nadd d 10");
-    HEAP = add(HEAP,'d',10);//add  d+{a,b,c,f}    
-
+    HEAP = add(HEAP,'d',10);
+    printf("\n\nHEAP:\n");   
+    imprimirHeap(HEAP);
+    
+   
+    
     printf("\nDelete b");
-    HEAP = delete(HEAP,'b');//delete {a,5,c,f,d}
+    HEAP = delete(HEAP,'b');
+    printf("\n\nHEAP:\n");   
+    imprimirHeap(HEAP);
+    
+  
 
     printf("\nDelete c");
-    HEAP = delete(HEAP,'c');//delete {a,15,f,d} 
-    
-    printf("\nHEAP:\n");   
+    HEAP = delete(HEAP,'c');
+    printf("\n\nHEAP:\n");   
     imprimirHeap(HEAP);
+        
+;
 
     printf("\nadd j 10");
-    HEAP = add(HEAP,'j',10);//add j {a,j,5,f,d}
+    HEAP = add(HEAP,'j',10);
+    printf("\n\nHEAP:\n");   
+    imprimirHeap(HEAP);
+    
+   
 
     printf("\nadd k 5");
-    HEAP = add(HEAP,'k',5);//add{a,j,k,f,d}
-
-    printf("\nHEAP:\n");   
+    HEAP = add(HEAP,'k',5);
+    printf("\n\nHEAP:\n");   
     imprimirHeap(HEAP);
+    
+   printf("\n\n");
+
     destroi(HEAP);
    
 }
+void modo(){
+    int a = 0;
+    bool sair=false;
+    while(!sair){
 
+        printf("\nEscolha o modo de inserção no HEAP\n");
+        printf("\n1- First\n");
+        printf("\n2- Fit\n");
+        printf("\n3- Best\n");
+        printf("\n4- Worst\n");
+        printf("\n5- sair\n");
+        scanf("%d",&a);
+        switch(a){
+            case 1://first
+                escolhido = 1;
+                break;
+            case 2://fit
+                escolhido = 2;
+                break;
+            case 3://best
+                escolhido = 3;
+                break;
+            case 4://worst
+                escolhido = 4;
+                break;
+            case 5://worst
+                sair =true;
+                break;
+            default:
+                printf("\nmodo inválido\n");          
+                break;            
+        }
+        if(a!=5){
+            simula();
+        }
+        
+    }
+}
 int main(){
-   printf("\nfirst:\n");
-   escolhido =1;
-   simula();
-   printf("\nfit:\n");
-   escolhido =2;
-   simula();
-  /* printf("\n\n\nbest:\n");
-   escolhido =3;
-   simula();
-   printf("\n\n\nworst:\n");
-   escolhido =4;
-   simula();
-*/
+    modo();
     return 0;
 }
