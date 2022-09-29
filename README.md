@@ -22,6 +22,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir um link com o
 - Públio Sebastian Paixão Paulino - 3 - https://github.com/SebastianPaulino/Trabalho-LP-2.git
 - Amauri da Silva Junior, Sarah Santos da Silva - 3 - https://github.com/amaurijr123/Garbage_Collector_LP
 - Alysson Lucas, Mariana Bravo - 3 - https://github.com/doppelganguer/Coletor-de-Lixo
+- Myllene Couto, Guilherme Custodio - 3 - https://github.com/MylleneCouto/coletor_de_lixo
 - Fabrício Lourran, Davi Vieira -3 - https://github.com/LourranFabricio/Garbage_Collector.git
 - Murillo Marins Lage - 3 - https://github.com/murilloML/Coletor-de-Lixo
 
