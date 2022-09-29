@@ -35,7 +35,7 @@ int main()
     printf("\n7 - Print\n");
 
     PrintHeap();
-    atrib2(w, NULL);
+    atrib2(&w, NULL);
     printf("\n8 - Print\n");
 
     PrintHeap();
