@@ -26,7 +26,7 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir um link com o
 - Fabrício Lourran, Davi Vieira -3 - https://github.com/LourranFabricio/Garbage_Collector.git
 - Murillo Marins Lage - 3 - https://github.com/murilloML/Coletor-de-Lixo
 - Pedro Sidaco - 3 - https://github.com/ppsidaco123/trabalho_lp.git
-
+- Eduarda Michaelle - 3 - https://github.com/EduardaMichaelle/Coletor-LP
 
 ## Segundo Trabalho de Implementacao
 
