@@ -27,6 +27,8 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir um link com o
 - Murillo Marins Lage - 3 - https://github.com/murilloML/Coletor-de-Lixo
 - Pedro Sidaco - 3 - https://github.com/ppsidaco123/trabalho_lp.git
 - Eduarda Michaelle - 3 - https://github.com/EduardaMichaelle/Coletor-LP
+- Gustavo Freitas - 6 - https://github.com/GustavoHFreitas/Trabalho_lp_arq
+
 
 ## Segundo Trabalho de Implementacao
 
