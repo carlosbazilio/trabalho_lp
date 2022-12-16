@@ -15,7 +15,19 @@ Para tal, cada aluno deve fazer um **fork** deste projeto, inserir um link com o
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Tiago Ludovico - 3 - https://github.com/tiagoludovico/Coletor_auto_de_lixo_em_C 
 - Claudio Rodrigues Nunes - 2 - https://github.com/webcarioca/memoria_heap
+- Ricardo Menezes Bandeira, João Victor Freitas - 2 - https://github.com/RicardoMenezesBandeira/ricardo_Joaoheap-LP
+- Carina Lanchine - 3 - https://github.com/carinalanchine/coletor_lixo
 - Erik Alves de Moura Izidoro - 3 - https://github.com/erikmoura/coletor_de_lixo
+- Gabriel Moura, Juan Melo - 2 - https://github.com/gabeMsB/Simulador-de-mem-heap
+- Públio Sebastian Paixão Paulino - 3 - https://github.com/SebastianPaulino/Trabalho-LP-2.git
+- Amauri da Silva Junior, Sarah Santos da Silva - 3 - https://github.com/amaurijr123/Garbage_Collector_LP
+- Alysson Lucas, Mariana Bravo - 3 - https://github.com/doppelganguer/Coletor-de-Lixo
+- Myllene Couto, Guilherme Custodio - 3 - https://github.com/MylleneCouto/coletor_de_lixo
+- Fabrício Lourran, Davi Vieira -3 - https://github.com/LourranFabricio/Garbage_Collector.git
+- Murillo Marins Lage - 3 - https://github.com/murilloML/Coletor-de-Lixo
+- Pedro Sidaco - 3 - https://github.com/ppsidaco123/trabalho_lp.git
+- Eduarda Michaelle - 3 - https://github.com/EduardaMichaelle/Coletor-LP
+- Gustavo Freitas - 6 - https://github.com/GustavoHFreitas/Trabalho_lp_arq
 
 
 ## Segundo Trabalho de Implementacao
@@ -24,3 +36,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Erik Alves de Moura Izidoro - https://github.com/erikmoura/trabalho-OO
+- Alysson Lucas, Mariana Bravo - https://github.com/mariana-bravo/terceiro-trabalho-lp
+- Fabrício Lourran -1 - https://github.com/LourranFabricio/Lista-de-tarefas
+- Carina Lanchine, Tiago Ludovico - https://github.com/carinalanchine/agenda
+- João Victor Freitas - https://github.com/joaov-freitas/Mercado-POO
