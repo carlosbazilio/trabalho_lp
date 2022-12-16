@@ -36,3 +36,4 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Carina Lanchine, Tiago Ludovico - https://github.com/carinalanchine/agenda
+- João Victor Freitas - https://github.com/joaov-freitas/Mercado-POO
