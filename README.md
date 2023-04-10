@@ -40,3 +40,4 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Fabrício Lourran -1 - https://github.com/LourranFabricio/Lista-de-tarefas
 - Carina Lanchine, Tiago Ludovico - https://github.com/carinalanchine/agenda
 - João Victor Freitas - https://github.com/joaov-freitas/Mercado-POO
+- Gustavo Freitas - "Jogo da Cobrinha" - https://github.com/GustavoHFreitas/Trabalho2_lp_arq
