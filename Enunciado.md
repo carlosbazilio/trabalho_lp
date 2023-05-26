@@ -5,3 +5,5 @@
 ## ● endereço malloc2(tamanho) → esta função realiza a alocação dinâmica e retorna o endereço da área criada
 
 ## ● void atrib2(endereco, endereço2) → esta função realiza a atribuição de ponteiros em C
+
+### Feito por Hugo Melo e Felipe Alves
