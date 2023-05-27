@@ -12,6 +12,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 (Para tal, cada aluno deve fazer um **fork** deste projeto, inserir um link com o endereço do repositório público onde o projeto está armazenado, e fazer um **pull request** para este projeto. Caso estejam usando o Git/Github pela primeira vez, sigam o passo a passo apresentado [neste vídeo](https://www.youtube.com/watch?v=RP5L4mAtxto) e em [sua sequência](https://www.youtube.com/watch?v=GrnAygK1zsA).
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
+- Erick Junqueira, Lucas Melo - https://github.com/LucasMelo131/garbagecollector
 
 
 ## Segundo Trabalho de Implementacao
