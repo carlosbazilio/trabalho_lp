@@ -1,4 +1,5 @@
 #include "stdio.h"
+#include "my_lib.h"
 
 // typedef struct test
 // {
@@ -13,6 +14,7 @@ int func_basica(int x, int y){
 }
 
 int  main(){
+    printf("2^2", pow(2,2));
     printf("This is a test\n");
     int x = 2;
     int y = 3;
