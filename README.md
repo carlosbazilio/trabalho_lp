@@ -11,6 +11,7 @@ Este repositório serve para os alunos e alunas de LP (UFF, Rio das Ostras) inic
 No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/Trabalhos.pdf) (do 2 ao 6, exceto o 4). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual ou em dupla.
 (Para tal, cada aluno deve fazer um **fork** deste projeto, inserir um link com o endereço do repositório público onde o projeto está armazenado, e fazer um **pull request** para este projeto. Caso estejam usando o Git/Github pela primeira vez, sigam o passo a passo apresentado [neste vídeo](https://www.youtube.com/watch?v=RP5L4mAtxto) e em [sua sequência](https://www.youtube.com/watch?v=GrnAygK1zsA).
 
+- Guilherme Rodrigues, JavaScript - https://github.com/guirque/Heap-Simulator
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 
 
