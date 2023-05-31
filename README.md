@@ -23,3 +23,4 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 
+- Pedro Paulo Ribeiro Valente Moreira - https://github.com/pprvm/coletor.git
