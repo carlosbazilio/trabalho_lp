@@ -13,6 +13,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Guilherme Rodrigues, JavaScript - https://github.com/guirque/Heap-Simulator
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
+- Erick Junqueira, Lucas Melo - https://github.com/LucasMelo131/garbagecollector
 
 
 ## Segundo Trabalho de Implementacao
