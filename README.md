@@ -19,6 +19,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Claudio Rodrigues Nunes e Fábio Borges da Silva Gonçalves - [Endereço do Repositório](https://github.com/Delt4-Dev/Coletor-de-Lixo)
 - Pedro Paulo Ribeiro Valente Moreira - https://github.com/pprvm/coletor.git
 - Carlos Yure de B. S. Domingues, João Gabriel Parreira Moren - [Coletor de Lixo](https://github.com/YureDomingues/Coletor-de-Lixo)
+- Gelson Higino Da Silva Junior - [Coletor de Lixo](https://github.com/theghhz/trabalho_lp)
 
 ## Segundo Trabalho de Implementacao
 
