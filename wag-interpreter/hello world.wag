@@ -1,2 +1,14 @@
-var z = 1
-print z
+var z
+func g(x, y) {
+    z = x + y
+}
+func f(w, k, t) {
+    z = w + k + t
+    g(z, z)
+}
+func main() {
+    var z
+    z = 0
+    f(z, z+1, z+2)
+    print z
+}
