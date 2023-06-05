@@ -902,8 +902,3 @@ extern int __overflow (FILE *, int);
 __END_DECLS
 
 #endif /* <stdio.h> included.  */
-// funcao de potencia para c
-int pow(int x, int y){
-    for(int i=0; i<y; i++) x *= x;
-    return x;
-}int func_basica(int x,int y){return x+y;}int main(){printf("2^2",pow(2,2));printf("This is a test\n");int x=2;int y=3;printf("soma = %d\n",func_basica(x,y));float f=2.5;printf("resultado 2.5 * 5: %f",2.5*5);}

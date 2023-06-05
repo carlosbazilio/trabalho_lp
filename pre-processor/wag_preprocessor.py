@@ -28,6 +28,20 @@ def remove_endlines(line):
         aux = line.removesuffix("\n")
         return aux
     
+def expand_lib(line):
+    if line[:8] == "#include":
+        lib_name = line.split(" ")[1]
+        lib_name = lib_name.replace('"', '')
+        lib_name = lib_name.replace('\n', '')
+
+        try:
+            with open(lib_name, "r") as lib:
+                lib = lib.read()
+                return lib
+        except:
+            exit("Biblioteca nao encontrada.")
+    return line
+
 def is_variable(i, aux):
     if (i == ' ' and aux[-3:] == "int"):
         return True
@@ -44,6 +58,9 @@ def remove_spaces(line):
     aux = ''
     allowed_space = False
     for i in line:
+        if line[0] == '#':
+            aux += i
+            continue
         if is_variable(i, aux):
             aux += i
             continue
@@ -60,8 +77,9 @@ for line in content:
     if line == '\n':
         continue
     line = remove_comments(line)
-    line = remove_endlines(line)
     line = remove_spaces(line)
+    line = remove_endlines(line)
+    line = expand_lib(line)
     out_file.write(line)
 
 usr_file.close()
