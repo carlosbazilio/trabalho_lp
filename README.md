@@ -20,6 +20,10 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Pedro Paulo Ribeiro Valente Moreira - https://github.com/pprvm/coletor.git
 - Carlos Yure de B. S. Domingues, João Gabriel Parreira Moren - [Coletor de Lixo](https://github.com/YureDomingues/Coletor-de-Lixo)
 - David Santana - https://github.com/DavidRSan/LP-1
+- João Pedro Rebello - [Heap Simulator] - https://github.com/jprebello/heap_simulator
+- Lucas Ferreira, Pedro Gabriel Nunes - (https://github.com/pedronxaa/pre_processador.git)
+- Leonardo Apicelo Valente, Tiago Acris Borges de Moraes - https://github.com/LeonardoApcl/SimuladorHeap
+- Gelson Higino Da Silva Junior - [Coletor de Lixo](https://github.com/theghhz/trabalho_lp)
 
 ## Segundo Trabalho de Implementacao
 
