@@ -20,6 +20,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Claudio Rodrigues Nunes e Fábio Borges da Silva Gonçalves - [Endereço do Repositório](https://github.com/Delt4-Dev/Coletor-de-Lixo)
 - Pedro Paulo Ribeiro Valente Moreira - https://github.com/pprvm/coletor.git
 - Carlos Yure de B. S. Domingues, João Gabriel Parreira Moren - [Coletor de Lixo](https://github.com/YureDomingues/Coletor-de-Lixo)
+- Wagner Martins de Lima Filho - [Pre-processador](https://github.com/martinswagner021/C-pre-processor)
 - João Vitor Spala e Isabella Torres - https://github.com/JVSNG/LP_Pre-processador_C
 - Luis Claudio M P Junior, Tiago Daniel R da Silva - https://github.com/luisjrrr/coletor-de-lixo.git
 - Luiz Eduardo Pantaleão de Sá Moura - https://github.com/LuizEduPantaleao/Coletor-de-Lixo
