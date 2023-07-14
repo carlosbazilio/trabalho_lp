@@ -39,4 +39,5 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Gabriel Neves Motta Oliveira - https://github.com/Gbmott4/TrabBazilOO
+- Felipe Alves, Lucas Melo - https://github.com/LucasMelo131/PilhaPOO
 
