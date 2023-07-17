@@ -37,8 +37,8 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf), ou algum outro que apresente previamente para o professor e seja aceito como opção, usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada. Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior. Cada trabalho só poderá ser escolhido por no máximo 2 grupos e será respeitada a ordem dos pull requests.)
 
+- Caio Dias, Yohanna Dvorak - https://github.com/Dvoraky/Carrinho_de_Compra
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Hugo Leonardo Melo, Erick Junqueira  - [Agenda Telefônica](https://github.com/DevHgL/Agenda-Telefonica/tree/main/agenda)
 - Gabriel Neves Motta Oliveira - https://github.com/Gbmott4/TrabBazilOO
 - Felipe Alves, Lucas Melo - https://github.com/LucasMelo131/PilhaPOO
-
