@@ -37,4 +37,5 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf), ou algum outro que apresente previamente para o professor e seja aceito como opção, usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada. Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior. Cada trabalho só poderá ser escolhido por no máximo 2 grupos e será respeitada a ordem dos pull requests.)
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
+- Wagner Martins de Lima Filho - [Agenda Telefonica](https://github.com/martinswagner021/agenda-telefonica-trabLP)
 
