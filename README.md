@@ -16,7 +16,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Pietro Prata, Jéssica Tavares - https://github.com/Pietrocastro/TRABALHOLP
 - Pedro Sidaco - https://github.com/ppsidaco123/trabalho_lp
 - Eduarda Michaelle - https://github.com/EduardaMichaelle/ProjetoPreProcessador
-- Guilherme Rodrigues, JavaScript - https://github.com/guirque/Heap-Simulator
+- Guilherme Rodrigues - https://github.com/guirque/Heap-Simulator
 - Erick Junqueira, Lucas Melo - https://github.com/LucasMelo131/garbagecollector
 - Claudio Rodrigues Nunes e Fábio Borges da Silva Gonçalves - [Endereço do Repositório](https://github.com/Delt4-Dev/Coletor-de-Lixo)
 - Pedro Paulo Ribeiro Valente Moreira - https://github.com/pprvm/coletor.git
@@ -39,4 +39,5 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Gabriel Neves Motta Oliveira - https://github.com/Gbmott4/TrabBazilOO
+- Guilherme Rodrigues, Luiz Eduardo Pantaleão - [Gerenciador de Publicações](https://github.com/guirque/GerenciadorDePublicacoes)
 
