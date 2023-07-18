@@ -42,3 +42,4 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Hugo Leonardo Melo, Erick Junqueira  - [Agenda Telefônica](https://github.com/DevHgL/Agenda-Telefonica/tree/main/agenda)
 - Gabriel Neves Motta Oliveira - https://github.com/Gbmott4/TrabBazilOO
 - Felipe Alves, Lucas Melo - https://github.com/LucasMelo131/PilhaPOO
+- David Santana https://github.com/DavidRSan/Lp-2
