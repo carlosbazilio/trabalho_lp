@@ -41,4 +41,5 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Hugo Leonardo Melo, Erick Junqueira  - [Agenda Telefônica](https://github.com/DevHgL/Agenda-Telefonica/tree/main/agenda)
 - Gabriel Neves Motta Oliveira - https://github.com/Gbmott4/TrabBazilOO
+- Eduarda Michaelle - https://github.com/EduardaMichaelle/Trabalho2-OO
 - Felipe Alves, Lucas Melo - https://github.com/LucasMelo131/PilhaPOO
