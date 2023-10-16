@@ -46,3 +46,4 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - Guilherme Rodrigues, Luiz Eduardo Pantaleão - [Gerenciador de Publicações](https://github.com/guirque/GerenciadorDePublicacoes)
 - Eduarda Michaelle - https://github.com/EduardaMichaelle/Trabalho2-OO
 - Felipe Alves, Lucas Melo - https://github.com/LucasMelo131/PilhaPOO
+- David Santana https://github.com/DavidRSan/Lp-2
