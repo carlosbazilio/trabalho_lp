@@ -14,6 +14,9 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Davi Figueiredo - https://github.com/figueiredoUm/ppc
+- Arthur Peixoto, Emanuel Bravo - [Pré Processador de C em Python](https://github.com/bravomanel/programming_language_pragmatics/tree/main/PCC)
+- João Pedro da Silva Santos - https://github.com/Joao-Pedro-S/Trabalho-1-lp
+- Yure Domingues, Luiz Eduardo - [Simulação de uso de Heap](https://github.com/YureDomingues/Heap-Usage-Simulation)
 
 
 ## Segundo Trabalho de Implementacao
@@ -22,6 +25,11 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Davi Figueiredo - https://github.com/figueiredoUm/pilha
+- Arthur Peixoto, Emanuel Bravo - [Simulador de Docker em Java](https://github.com/bravomanel/programming_language_pragmatics/tree/main/docker_simulator_java)
+- João Pedro da Silva Santos - https://github.com/Joao-Pedro-S/Trabalho2-lp
+- Gelson Higino - [Agenda em Java](https://github.com/theghhz/AgendaJava)
+- Yure Domingues, Luiz Eduardo - [Problema intervalos - O.O.](https://github.com/YureDomingues/PP-Trabalho-OO)
+
 
 ## Terceiro Trabalho de Implementacao
 
@@ -29,3 +37,8 @@ Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do se
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Davi Figueiredo - https://github.com/figueiredoUm/pilha
+- Arthur Peixoto, Emanuel Bravo - [Simulador de Docker em Haskell](https://github.com/bravomanel/programming_language_pragmatics/tree/main/docker_simulator_haskell)
+- João Pedro da Silva Santos - https://github.com/Joao-Pedro-S/Trabalho3-lp
+- Gelson Higino - [Agenda em Haskell](https://github.com/theghhz/AgendaHaskell)
+- Yure Domingues, Luiz Eduardo - [Problema intervalos - Haskell](https://github.com/YureDomingues/PP-Trabalho-OO](https://github.com/YureDomingues/PP-Trabalho-Haskell)https://github.com/YureDomingues/PP-Trabalho-Haskell)
+
