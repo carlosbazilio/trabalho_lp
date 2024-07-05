@@ -29,6 +29,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 - João Pedro da Silva Santos - https://github.com/Joao-Pedro-S/Trabalho2-lp
 - Gelson Higino - [Agenda em Java](https://github.com/theghhz/AgendaJava)
 - Yure Domingues, Luiz Eduardo - [Problema intervalos - O.O.](https://github.com/YureDomingues/PP-Trabalho-OO)
+- Ricardo Soares - [Agenda em C++](https://github.com/risoaress/trabalhos_computacao/blob/main/Paradigmas_Programacao/cpp/agenda.cpp)
 
 
 ## Terceiro Trabalho de Implementacao
@@ -41,4 +42,5 @@ Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do se
 - João Pedro da Silva Santos - https://github.com/Joao-Pedro-S/Trabalho3-lp
 - Gelson Higino - [Agenda em Haskell](https://github.com/theghhz/AgendaHaskell)
 - Yure Domingues, Luiz Eduardo - [Problema intervalos - Haskell](https://github.com/YureDomingues/PP-Trabalho-OO](https://github.com/YureDomingues/PP-Trabalho-Haskell)https://github.com/YureDomingues/PP-Trabalho-Haskell)
+- Ricardo Soares - [Agenda em Haskell](https://github.com/risoaress/trabalhos_computacao/blob/main/Paradigmas_Programacao/haskell/agenda.hs)
 
