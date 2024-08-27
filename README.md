@@ -13,7 +13,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - [Leonardo Cassauara Maia](https://github.com/leonardocassauara) - [Endereço do Repositório](https://github.com/leonardocassauara/PP-Implementation-Site)
 
-
+- [Davi Coutinho, Nicolas Pereira](https://github.com/NicolasPMA) - [Endereço do Repositório](https://github.com/NicolasPMA/Trabalho_de_Implementacao)
 
 ## Segundo Trabalho de Implementacao
 
@@ -21,7 +21,7 @@ Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste 
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 
-
+- [Davi Coutinho, Nicolas Pereira](https://github.com/NicolasPMA) - [Endereço do Repositório](https://github.com/NicolasPMA/Trabalho_de_Implementacao_2)
 
 ## Terceiro Trabalho de Implementacao
 
