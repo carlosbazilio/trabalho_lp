@@ -13,15 +13,16 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - [Leonardo Cassauara Maia](https://github.com/leonardocassauara) - [Endereço do Repositório](https://github.com/leonardocassauara/PP-Implementation-Site)
 - [Pedro Lucas Portela](https://github.com/Pedrolucaspf), Felipe Nocko, Rubem Ignácio e Jéssica Carvalho - [Endereço do Repositório](https://github.com/Pedrolucaspf/Contagem-de-Referencias)
-
-
+- [Públio Sebastian, Jessica Tavares](https://github.com/SebastianPaulino) - [Endereço do Repositório](https://github.com/SebastianPaulino/Trabalho-1-de-LP)
+- [Davi Coutinho, Nicolas Pereira](https://github.com/NicolasPMA) - [Endereço do Repositório](https://github.com/NicolasPMA/Trabalho_de_Implementacao)
 
 ## Segundo Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf), ou algum outro que apresente previamente para o professor e seja aceito como opção, usando o paradigma OO (Não é necessário que a linguagem Java seja utilizada. Estes trabalhos podem ser feitos de forma individual ou em dupla. Caso seja em dupla, a dupla escolhida não pode ser a mesma do trabalho anterior. Cada trabalho só poderá ser escolhido por no máximo 2 grupos e será respeitada a ordem dos pull requests.)
 
 - [Pedro Lucas Portela](https://github.com/Pedrolucaspf), Felipe Nocko, Rubem Ignácio e Jéssica Carvalho - [Endereço do Repositório](https://github.com/Pedrolucaspf/Carrinho-de-Compras)
-
+- [Públio Sebastian, Jessica Tavares](https://github.com/SebastianPaulino) - [Endereço do Repositório](https://github.com/SebastianPaulino/Trabalho-2-de-LP)
+- [Davi Coutinho, Nicolas Pereira](https://github.com/NicolasPMA) - [Endereço do Repositório](https://github.com/NicolasPMA/Trabalho_de_Implementacao_2)
 
 ## Terceiro Trabalho de Implementacao
 
