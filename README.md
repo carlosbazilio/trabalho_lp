@@ -13,6 +13,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Nicolas Mendes - https://github.com/oNicorasu/pre-processador-para-C
+- Henrique Couri - https://github.com/hcouri/trabalho_lp.git
 
 
 ## Segundo Trabalho de Implementacao
