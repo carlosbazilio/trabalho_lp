@@ -13,6 +13,8 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Gabriel Rodrigues Marques Valim, Nuno Martins do Couto, Breno Machado de Oliveira - https://github.com/GabrielRdrigues/SimuladorHeap
+- Nicolas Mendes - https://github.com/oNicorasu/pre-processador-para-C
+- Henrique Couri - https://github.com/hcouri/trabalho_lp.git
 
 
 ## Segundo Trabalho de Implementacao
