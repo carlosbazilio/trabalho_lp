@@ -17,6 +17,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Nicolas Mendes - https://github.com/oNicorasu/pre-processador-para-C
 - Henrique Couri - https://github.com/hcouri/trabalho_lp.git
 - Estela Simões, Luc Panet, Emanuelle Meireles - https://github.com/EmanuelleMeireles/Primeiro_Trabalho_de_Implementacao
+- Eduardo Almeida, Samuel Detone, Vitto Baroni - https://github.com/vittobaroni/TrabalhoHeap-PP.git
 
 
 ## Segundo Trabalho de Implementacao
