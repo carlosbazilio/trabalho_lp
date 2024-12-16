@@ -17,6 +17,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Nicolas Mendes - https://github.com/oNicorasu/pre-processador-para-C
 - Henrique Couri - https://github.com/hcouri/trabalho_lp.git
 - Estela Simões, Luc Panet, Emanuelle Meireles - https://github.com/EmanuelleMeireles/Primeiro_Trabalho_de_Implementacao
+- Eduardo Almeida, Samuel Detone, Vitto Baroni - https://github.com/vittobaroni/TrabalhoHeap-PP.git
 
 
 ## Segundo Trabalho de Implementacao
@@ -25,6 +26,8 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - Exercicio 5 - https://github.com/EdBarros0/TrabalhoBiblioteca_PP/blob/main/README.md
+- Nicolas Mendes - Exercício 3 - https://github.com/oNicorasu/carrinho-de-compras
+- Henrique Couri - 7 - https://github.com/hcouri/trabalho_lp.git
 
 
 ## Terceiro Trabalho de Implementacao
