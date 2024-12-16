@@ -25,6 +25,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
 - Nicolas Mendes - Exercício 3 - https://github.com/oNicorasu/carrinho-de-compras
+- Henrique Couri - 7 - https://github.com/hcouri/trabalho_lp.git
 
 
 ## Terceiro Trabalho de Implementacao
