@@ -11,12 +11,14 @@ Este repositório serve para os alunos e alunas de LP (UFF, Rio das Ostras) inic
 
 No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/pp/material/Trabalhos.pdf) (do 2 ao 6). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual, em dupla ou trio. (Para tal, cada aluno deve fazer um **fork** deste projeto, inserir um link com o endereço do repositório público onde o projeto está armazenado, e fazer um **pull request** para este projeto. Caso estejam usando o Git/Github pela primeira vez, sigam o passo a passo apresentado [neste vídeo](https://www.youtube.com/watch?v=RP5L4mAtxto) e em [sua sequência](https://www.youtube.com/watch?v=GrnAygK1zsA).
 
-- Enzo de Oliveira Magaldi da Cunha - [Endereço do Repositório](https://github.com/EnzoMagaldi/Contador_de_Referencias)
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
+- Enzo de Oliveira Magaldi da Cunha - [Endereço do Repositório](https://github.com/EnzoMagaldi/Contador_de_Referencias)
 - Gabriel Rodrigues Marques Valim, Nuno Martins do Couto, Breno Machado de Oliveira - https://github.com/GabrielRdrigues/SimuladorHeap
 - Nicolas Mendes - https://github.com/oNicorasu/pre-processador-para-C
 - Henrique Couri - https://github.com/hcouri/trabalho_lp.git
 - Estela Simões, Luc Panet, Emanuelle Meireles - https://github.com/EmanuelleMeireles/Primeiro_Trabalho_de_Implementacao
+- João Pedro Galvero Corrêa = https://github.com/JoaoGalvero/TrabalhoPP_1
+- Eduardo Almeida, Samuel Detone, Vitto Baroni - https://github.com/vittobaroni/TrabalhoHeap-PP.git
 
 
 ## Segundo Trabalho de Implementacao
@@ -25,6 +27,10 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
 - Bernardo Lannes, Edgar Lutterbach - 08 - [Gerenciador de Pedidos](https://github.com/BernardoLannes/Gerenciador-de-Pedidos)
+- Gabriel Rodrigues Marques Valim, Nuno Martins do Couto, Breno Machado de Oliveira - Trabalho 3 - https://github.com/GabrielRdrigues/CarrinhoDeCompras
+- Eduardo Almeida, Samuel Detone, Vitto Baroni - Exercicio 5 - https://github.com/EdBarros0/TrabalhoBiblioteca_PP/blob/main/README.md
+- Nicolas Mendes - Exercício 3 - https://github.com/oNicorasu/carrinho-de-compras
+- Henrique Couri - 7 - https://github.com/hcouri/trabalho_lp.git
 
 ## Terceiro Trabalho de Implementacao
 
