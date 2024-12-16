@@ -13,19 +13,27 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 - Andrew de Andrade, Lara Fernandes, Victoria Valicelle - https://github.com/andrewwandrade/coletor-automatico-de-lixo
+- Lucas da Silva Lopes, Luiggi Gerevini Schleder - https://github.com/lucas-lpes/Contagem-de-referencias-em-C
+- Enzo de Oliveira Magaldi da Cunha - [Endereço do Repositório](https://github.com/EnzoMagaldi/Contador_de_Referencias)
 - Enzo de Oliveira Magaldi da Cunha - [Endereço do Repositório](https://github.com/EnzoMagaldi/Contador_de_Referencias)
 - Gabriel Rodrigues Marques Valim, Nuno Martins do Couto, Breno Machado de Oliveira - https://github.com/GabrielRdrigues/SimuladorHeap
 - Nicolas Mendes - https://github.com/oNicorasu/pre-processador-para-C
 - Henrique Couri - https://github.com/hcouri/trabalho_lp.git
 - Estela Simões, Luc Panet, Emanuelle Meireles - https://github.com/EmanuelleMeireles/Primeiro_Trabalho_de_Implementacao
-
+- Bernardo Lannes, Edgar Lutterbach - https://github.com/edgarlutterbach/paradigmasDaProgramacao
+- João Pedro Galvero Corrêa = https://github.com/JoaoGalvero/TrabalhoPP_1
+- Eduardo Almeida, Samuel Detone, Vitto Baroni - https://github.com/vittobaroni/TrabalhoHeap-PP.git
 
 ## Segundo Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/pp/material/ListaExerciciosProgOO.pdf), ou algum outro que apresente previamente para o professor e seja aceito como opção, usando o paradigma OO. O uso da linguagem Java não é obrigatório. Estes trabalhos podem ser feitos de forma individual ou em dupla. Cada trabalho só poderá ser escolhido por, no máximo, 2 grupos e será respeitada a ordem dos pull requests.)
 
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
-
+- Bernardo Lannes, Edgar Lutterbach - 08 - [Gerenciador de Pedidos](https://github.com/BernardoLannes/Gerenciador-de-Pedidos)
+- Gabriel Rodrigues Marques Valim, Nuno Martins do Couto, Breno Machado de Oliveira - Trabalho 3 - https://github.com/GabrielRdrigues/CarrinhoDeCompras
+- Eduardo Almeida, Samuel Detone, Vitto Baroni - Exercicio 5 - https://github.com/EdBarros0/TrabalhoBiblioteca_PP/blob/main/README.md
+- Nicolas Mendes - Exercício 3 - https://github.com/oNicorasu/carrinho-de-compras
+- Henrique Couri - 7 - https://github.com/hcouri/trabalho_lp.git
 
 ## Terceiro Trabalho de Implementacao
 
