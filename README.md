@@ -34,6 +34,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - Exercicio 5 - https://github.com/EdBarros0/TrabalhoBiblioteca_PP/blob/main/README.md
 - Nicolas Mendes - Exercício 3 - https://github.com/oNicorasu/carrinho-de-compras
 - Henrique Couri - 7 - https://github.com/hcouri/trabalho_lp.git
+- Enzo de Oliveira Magaldi da Cunha - Trabalho 9
 
 ## Terceiro Trabalho de Implementacao
 
