@@ -29,6 +29,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos disponíveis [neste arquivo](http://www2.ic.uff.br/~bazilio/cursos/pp/material/ListaExerciciosProgOO.pdf), ou algum outro que apresente previamente para o professor e seja aceito como opção, usando o paradigma OO. O uso da linguagem Java não é obrigatório. Estes trabalhos podem ser feitos de forma individual ou em dupla. Cada trabalho só poderá ser escolhido por, no máximo, 2 grupos e será respeitada a ordem dos pull requests.)
 
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
+- Andrew de Andrade (Trabalho 1) - https://github.com/andrewwandrade/agenda-telefonica
 - Bernardo Lannes, Edgar Lutterbach - 08 - [Gerenciador de Pedidos](https://github.com/BernardoLannes/Gerenciador-de-Pedidos)
 - Gabriel Rodrigues Marques Valim, Nuno Martins do Couto, Breno Machado de Oliveira - Trabalho 3 - https://github.com/GabrielRdrigues/CarrinhoDeCompras
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - Exercicio 5 - https://github.com/EdBarros0/TrabalhoBiblioteca_PP/blob/main/README.md
