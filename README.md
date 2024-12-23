@@ -37,6 +37,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Nicolas Mendes - Exercício 3 - https://github.com/oNicorasu/carrinho-de-compras
 - Henrique Couri - 7 - https://github.com/hcouri/trabalho_lp.git
 - Enzo de Oliveira Magaldi da Cunha - Trabalho 9
+- Lara Fernandes, Victoria Valicelle - Trabalho 8 - https://github.com/fernandeslara/Gerenciador_Pedidos.git
 
 ## Terceiro Trabalho de Implementacao
 
