@@ -24,6 +24,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Bernardo Lannes, Edgar Lutterbach - https://github.com/edgarlutterbach/paradigmasDaProgramacao
 - João Pedro Galvero Corrêa = https://github.com/JoaoGalvero/TrabalhoPP_1
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - https://github.com/vittobaroni/TrabalhoHeap-PP.git
+- Mariana Viana Linhares Vasconcelos - https://github.com/mariana2108/Simula-o-heap
 
 ## Segundo Trabalho de Implementacao
 
@@ -37,6 +38,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Nicolas Mendes - Exercício 3 - https://github.com/oNicorasu/carrinho-de-compras
 - Henrique Couri - 7 - https://github.com/hcouri/trabalho_lp.git
 - Enzo de Oliveira Magaldi da Cunha - Trabalho 9
+- Mariana Viana Linhares vasconcelos - Trabalho 3
 
 ## Terceiro Trabalho de Implementacao
 
