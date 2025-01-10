@@ -24,6 +24,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Bernardo Lannes, Edgar Lutterbach - https://github.com/edgarlutterbach/paradigmasDaProgramacao
 - João Pedro Galvero Corrêa = https://github.com/JoaoGalvero/TrabalhoPP_1
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - https://github.com/vittobaroni/TrabalhoHeap-PP.git
+- Jonathan Vieira - https://github.com/JonathanViera/Paradigmas
 
 ## Segundo Trabalho de Implementacao
 
@@ -37,7 +38,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Nicolas Mendes - Exercício 3 - https://github.com/oNicorasu/carrinho-de-compras
 - Henrique Couri - 7 - https://github.com/hcouri/trabalho_lp.git
 - Enzo de Oliveira Magaldi da Cunha - Trabalho 9
-
+- Jonathan Vieira, Luis Felipe Graciolli - Trabalho 01 - https://github.com/JonathanViera/trabalho2-P.P
 ## Terceiro Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do segundo trabalho escolhido. Observe que não é necessário que este execute de forma fiel ao anterior. Basta que funcione de forma similar. Este trabalho também pode ser feito de forma individual ou em dupla.
