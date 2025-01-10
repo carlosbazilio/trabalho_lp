@@ -24,6 +24,14 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Bernardo Lannes, Edgar Lutterbach - https://github.com/edgarlutterbach/paradigmasDaProgramacao
 - João Pedro Galvero Corrêa = https://github.com/JoaoGalvero/TrabalhoPP_1
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - https://github.com/vittobaroni/TrabalhoHeap-PP.git
+- Andrew Almeida, Thiago Marsicano, Rafael Miranda - https://github.com/andrew-almeida/Gerenciar-mem-ria-dinamicamente/tree/master
+- Gabryel Cauã Marques, Guilherme Ferreira, João Guilherme - https://github.com/Gabryel-Bn/Trabalho-de-Paradigmas.git
+- Rafaela Santos Gonçalves Evangelista: https://github.com/laranjinhaaa/1-Trab-Paradigmas.git
+- Kauai Távora - https://github.com/kauaitavora/C-preprocessor
+- Pedro Lippi, Leonardo Amaral, Guilherme Guimarães - [Heap](https://github.com/PedroLippi/ParadigmaHeap.git)
+- William Ramos - https://github.com/Willzhito/trabalhopp
+- João Paulo Oliveira e Catalina Herrero - https://github.com/JoaoPON/Coletor-de-Lixo-em-C
+- Jonathan Vieira - https://github.com/JonathanViera/Paradigmas
 
 ## Segundo Trabalho de Implementacao
 
@@ -38,6 +46,8 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Henrique Couri - 7 - https://github.com/hcouri/trabalho_lp.git
 - Enzo de Oliveira Magaldi da Cunha - Trabalho 9
 - Lara Fernandes, Victoria Valicelle - Trabalho 8 - https://github.com/fernandeslara/Gerenciador_Pedidos.git
+- João Paulo Oliveira e Catalina Herrero - Trabalho 4 - https://github.com/JoaoPON/Classe-para-Datas-em-Java
+- Jonathan Vieira, Luis Felipe Graciolli - Trabalho 01 - https://github.com/JonathanViera/trabalho2-P.P
 
 ## Terceiro Trabalho de Implementacao
 
