@@ -24,6 +24,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Bernardo Lannes, Edgar Lutterbach - https://github.com/edgarlutterbach/paradigmasDaProgramacao
 - João Pedro Galvero Corrêa = https://github.com/JoaoGalvero/TrabalhoPP_1
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - https://github.com/vittobaroni/TrabalhoHeap-PP.git
+- Rafaela Santos Gonçalves Evangelista: https://github.com/laranjinhaaa/1-Trab-Paradigmas.git
 - Kauai Távora - https://github.com/kauaitavora/C-preprocessor
 - Pedro Lippi, Leonardo Amaral, Guilherme Guimarães - [Heap](https://github.com/PedroLippi/ParadigmaHeap.git)
 - William Ramos - https://github.com/Willzhito/trabalhopp
