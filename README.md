@@ -25,6 +25,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - João Pedro Galvero Corrêa = https://github.com/JoaoGalvero/TrabalhoPP_1
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - https://github.com/vittobaroni/TrabalhoHeap-PP.git
 - João Paulo Oliveira e Catalina Herrero - https://github.com/JoaoPON/Coletor-de-Lixo-em-C
+- Jonathan Vieira - https://github.com/JonathanViera/Paradigmas
 
 ## Segundo Trabalho de Implementacao
 
@@ -39,6 +40,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Henrique Couri - 7 - https://github.com/hcouri/trabalho_lp.git
 - Enzo de Oliveira Magaldi da Cunha - Trabalho 9
 - João Paulo Oliveira e Catalina Herrero - Trabalho 4 - https://github.com/JoaoPON/Classe-para-Datas-em-Java
+- Jonathan Vieira, Luis Felipe Graciolli - Trabalho 01 - https://github.com/JonathanViera/trabalho2-P.P
 
 ## Terceiro Trabalho de Implementacao
 
