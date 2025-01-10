@@ -24,6 +24,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Bernardo Lannes, Edgar Lutterbach - https://github.com/edgarlutterbach/paradigmasDaProgramacao
 - João Pedro Galvero Corrêa = https://github.com/JoaoGalvero/TrabalhoPP_1
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - https://github.com/vittobaroni/TrabalhoHeap-PP.git
+- Andrew Almeida, Thiago Marsicano, Rafael Miranda - https://github.com/andrew-almeida/Gerenciar-mem-ria-dinamicamente/tree/master
 - Gabryel Cauã Marques, Guilherme Ferreira, João Guilherme - https://github.com/Gabryel-Bn/Trabalho-de-Paradigmas.git
 - Rafaela Santos Gonçalves Evangelista: https://github.com/laranjinhaaa/1-Trab-Paradigmas.git
 - Kauai Távora - https://github.com/kauaitavora/C-preprocessor
