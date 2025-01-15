@@ -16,7 +16,6 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Andrew de Andrade, Lara Fernandes, Victoria Valicelle - https://github.com/andrewwandrade/coletor-automatico-de-lixo
 - Lucas da Silva Lopes, Luiggi Gerevini Schleder - https://github.com/lucas-lpes/Contagem-de-referencias-em-C
 - Enzo de Oliveira Magaldi da Cunha - [Endereço do Repositório](https://github.com/EnzoMagaldi/Contador_de_Referencias)
-- Enzo de Oliveira Magaldi da Cunha - [Endereço do Repositório](https://github.com/EnzoMagaldi/Contador_de_Referencias)
 - Gabriel Rodrigues Marques Valim, Nuno Martins do Couto, Breno Machado de Oliveira - https://github.com/GabrielRdrigues/SimuladorHeap
 - Nicolas Mendes - https://github.com/oNicorasu/pre-processador-para-C
 - Henrique Couri - https://github.com/hcouri/trabalho_lp.git
@@ -46,11 +45,12 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - Exercicio 5 - https://github.com/EdBarros0/TrabalhoBiblioteca_PP/blob/main/README.md
 - Nicolas Mendes - Exercício 3 - https://github.com/oNicorasu/carrinho-de-compras
 - Henrique Couri - 7 - https://github.com/hcouri/trabalho_lp.git
-- Enzo de Oliveira Magaldi da Cunha - Trabalho 9
+- Enzo de Oliveira Magaldi da Cunha - [Trabalho 9](https://github.com/EnzoMagaldi/Exercicio_9)
 - Lara Fernandes, Victoria Valicelle - Trabalho 8 - https://github.com/fernandeslara/Gerenciador_Pedidos.git
 - João Paulo Oliveira e Catalina Herrero - Trabalho 4 - https://github.com/JoaoPON/Classe-para-Datas-em-Java
 - Jonathan Vieira, Luis Felipe Graciolli - Trabalho 01 - https://github.com/JonathanViera/trabalho2-P.P
 - Kauai Távora - Trabalho 02
+- João Pedro Galvero Corrêa - Trabalho 02 - https://github.com/JoaoGalvero/TrabalhoPP_2
 
 ## Terceiro Trabalho de Implementacao
 
