@@ -51,6 +51,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Jonathan Vieira, Luis Felipe Graciolli - Trabalho 01 - https://github.com/JonathanViera/trabalho2-P.P
 - Kauai Távora - Trabalho 02
 - João Pedro Galvero Corrêa - Trabalho 02 - https://github.com/JoaoGalvero/TrabalhoPP_2
+- Guilherme Knust de Brito - Trabalho 01 - https://github.com/lighmoon/agenda
 
 ## Terceiro Trabalho de Implementacao
 
