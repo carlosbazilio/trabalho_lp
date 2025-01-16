@@ -43,6 +43,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Enzo de Oliveira Magaldi da Cunha - Trabalho 9
 - João Paulo Oliveira e Catalina Herrero - Trabalho 4 - https://github.com/JoaoPON/Classe-para-Datas-em-Java
 - Jonathan Vieira, Luis Felipe Graciolli - Trabalho 01 - https://github.com/JonathanViera/trabalho2-P.P
+- Pedro Lippi, Leonardo Amaral, Guilherme Guimarães - [Exercício 2, Intervalos](https://github.com/PedroLippi/Intervalos)
 
 ## Terceiro Trabalho de Implementacao
 
