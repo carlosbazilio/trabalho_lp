@@ -32,6 +32,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - William Ramos - https://github.com/Willzhito/trabalhopp
 - João Paulo Oliveira e Catalina Herrero - https://github.com/JoaoPON/Coletor-de-Lixo-em-C
 - Jonathan Vieira - https://github.com/JonathanViera/Paradigmas
+- Guilherme Knust de Brito - https://github.com/lighmoon/garbagecollector_contagem
 
 ## Segundo Trabalho de Implementacao
 
