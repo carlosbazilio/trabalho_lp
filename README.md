@@ -49,7 +49,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Lara Fernandes, Victoria Valicelle - Trabalho 8 - https://github.com/fernandeslara/Gerenciador_Pedidos.git
 - João Paulo Oliveira e Catalina Herrero - Trabalho 4 - https://github.com/JoaoPON/Classe-para-Datas-em-Java
 - Jonathan Vieira, Luis Felipe Graciolli - Trabalho 01 - https://github.com/JonathanViera/trabalho2-P.P
-- Kauai Távora - Trabalho 02
+- Kauai Távora - Trabalho 02 - https://github.com/kauaitavora/Intervalos-Matematicos
 - João Pedro Galvero Corrêa - Trabalho 02 - https://github.com/JoaoGalvero/TrabalhoPP_2
 
 ## Terceiro Trabalho de Implementacao
