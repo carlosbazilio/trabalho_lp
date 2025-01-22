@@ -23,6 +23,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Bernardo Lannes, Edgar Lutterbach - https://github.com/edgarlutterbach/paradigmasDaProgramacao
 - João Pedro Galvero Corrêa = https://github.com/JoaoGalvero/TrabalhoPP_1
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - https://github.com/vittobaroni/TrabalhoHeap-PP.git
+- Mariana Viana Linhares Vasconcelos - https://github.com/mariana2108/Simula-o-heap
 - Luis Felipe Graciolli - https://github.com/luisfelipegraciolli/trabalho-1-pp
 - Andrew Almeida, Thiago Marsicano, Rafael Miranda - https://github.com/andrew-almeida/Gerenciar-mem-ria-dinamicamente/tree/master
 - Gabryel Cauã Marques, Guilherme Ferreira, João Guilherme - https://github.com/Gabryel-Bn/Trabalho-de-Paradigmas.git
@@ -46,6 +47,8 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - Exercicio 5 - https://github.com/EdBarros0/TrabalhoBiblioteca_PP/blob/main/README.md
 - Nicolas Mendes - Exercício 3 - https://github.com/oNicorasu/carrinho-de-compras
 - Henrique Couri - 7 - https://github.com/hcouri/trabalho_lp.git
+- Enzo de Oliveira Magaldi da Cunha - Trabalho 9
+- Mariana Viana Linhares vasconcelos - Trabalho 3
 - Enzo de Oliveira Magaldi da Cunha - [Trabalho 9](https://github.com/EnzoMagaldi/Exercicio_9)
 - Lara Fernandes, Victoria Valicelle - Trabalho 8 - https://github.com/fernandeslara/Gerenciador_Pedidos.git
 - João Paulo Oliveira e Catalina Herrero - Trabalho 4 - https://github.com/JoaoPON/Classe-para-Datas-em-Java
