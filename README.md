@@ -23,6 +23,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Bernardo Lannes, Edgar Lutterbach - https://github.com/edgarlutterbach/paradigmasDaProgramacao
 - João Pedro Galvero Corrêa = https://github.com/JoaoGalvero/TrabalhoPP_1
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - https://github.com/vittobaroni/TrabalhoHeap-PP.git
+- Mariana Viana Linhares Vasconcelos - https://github.com/mariana2108/Simula-o-heap
 - Luis Felipe Graciolli - https://github.com/luisfelipegraciolli/trabalho-1-pp
 - Andrew Almeida, Thiago Marsicano, Rafael Miranda - https://github.com/andrew-almeida/Gerenciar-mem-ria-dinamicamente/tree/master
 - Gabryel Cauã Marques, Guilherme Ferreira, João Guilherme - https://github.com/Gabryel-Bn/Trabalho-de-Paradigmas.git
@@ -33,6 +34,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - João Paulo Oliveira e Catalina Herrero - https://github.com/JoaoPON/Coletor-de-Lixo-em-C
 - Jonathan Vieira - https://github.com/JonathanViera/Paradigmas
 - Mariana Viana Linhares Vasconcelos - https://github.com/mariana2108/Simula-o-heap
+- Guilherme Knust de Brito - https://github.com/lighmoon/garbagecollector_contagem
 
 ## Segundo Trabalho de Implementacao
 
@@ -46,6 +48,8 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Eduardo Almeida, Samuel Detone, Vitto Baroni - Exercicio 5 - https://github.com/EdBarros0/TrabalhoBiblioteca_PP/blob/main/README.md
 - Nicolas Mendes - Exercício 3 - https://github.com/oNicorasu/carrinho-de-compras
 - Henrique Couri - 7 - https://github.com/hcouri/trabalho_lp.git
+- Enzo de Oliveira Magaldi da Cunha - Trabalho 9
+- Mariana Viana Linhares vasconcelos - Trabalho 3
 - Enzo de Oliveira Magaldi da Cunha - [Trabalho 9](https://github.com/EnzoMagaldi/Exercicio_9)
 - Lara Fernandes, Victoria Valicelle - Trabalho 8 - https://github.com/fernandeslara/Gerenciador_Pedidos.git
 - João Paulo Oliveira e Catalina Herrero - Trabalho 4 - https://github.com/JoaoPON/Classe-para-Datas-em-Java
@@ -53,6 +57,8 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Kauai Távora - Trabalho 02
 - João Pedro Galvero Corrêa - Trabalho 02 - https://github.com/JoaoGalvero/TrabalhoPP_2
 - Mariana Viana Linhares Vasconcelos - TRabalho 03 - https://github.com/mariana2108/Carrinho-de-compras
+- Guilherme Knust de Brito - Trabalho 01 - https://github.com/lighmoon/agenda
+- Pedro Lippi, Leonardo Amaral, Guilherme Guimarães - [Exercício 2, Intervalos](https://github.com/PedroLippi/Intervalos)
 
 ## Terceiro Trabalho de Implementacao
 
