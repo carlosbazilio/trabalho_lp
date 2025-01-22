@@ -53,6 +53,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Kauai Távora - Trabalho 02
 - João Pedro Galvero Corrêa - Trabalho 02 - https://github.com/JoaoGalvero/TrabalhoPP_2
 - Guilherme Knust de Brito - Trabalho 01 - https://github.com/lighmoon/agenda
+- Pedro Lippi, Leonardo Amaral, Guilherme Guimarães - [Exercício 2, Intervalos](https://github.com/PedroLippi/Intervalos)
 
 ## Terceiro Trabalho de Implementacao
 
