@@ -33,6 +33,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - William Ramos - https://github.com/Willzhito/trabalhopp
 - João Paulo Oliveira e Catalina Herrero - https://github.com/JoaoPON/Coletor-de-Lixo-em-C
 - Jonathan Vieira - https://github.com/JonathanViera/Paradigmas
+- Mariana Viana Linhares Vasconcelos - https://github.com/mariana2108/Simula-o-heap
 - Guilherme Knust de Brito - https://github.com/lighmoon/garbagecollector_contagem
 
 ## Segundo Trabalho de Implementacao
@@ -55,6 +56,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Jonathan Vieira, Luis Felipe Graciolli - Trabalho 01 - https://github.com/JonathanViera/trabalho2-P.P
 - Kauai Távora - Trabalho 02
 - João Pedro Galvero Corrêa - Trabalho 02 - https://github.com/JoaoGalvero/TrabalhoPP_2
+- Mariana Viana Linhares Vasconcelos - TRabalho 03 - https://github.com/mariana2108/Carrinho-de-compras
 - Guilherme Knust de Brito - Trabalho 01 - https://github.com/lighmoon/agenda
 - Pedro Lippi, Leonardo Amaral, Guilherme Guimarães - [Exercício 2, Intervalos](https://github.com/PedroLippi/Intervalos)
 
