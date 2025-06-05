@@ -15,6 +15,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
   
 - Aluno : Vitto Baroni - Trabalho de implementação 4.1 - https://github.com/vittobaroni/Coletor-de-Lixo
 - Breno Pinna - :link: [Contagem de Referências](https://github.com/brenopinna/trabalho_pp_contagem_de_referencias/)
+- Jonathan Vieira - :link: [Mark-and-Sweep]()
 
 ## Segundo Trabalho de Implementacao
 
