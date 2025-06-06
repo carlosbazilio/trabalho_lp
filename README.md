@@ -17,6 +17,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Breno Pinna - :link: [Contagem de Referências](https://github.com/brenopinna/trabalho_pp_contagem_de_referencias/)
 - Jonathan Vieira - :link: [Mark-and-Sweep]()
 - Matheus Oliveira Dias - [Mark Sweep](https://github.com/Kaliberss/Mark_Sweep)
+- Ana Clara, Beatriz e Maria Fernanda - [Simulador Mark Sweep](https://github.com/BiaBicalho/coletorMarkSweepC)
 
 ## Segundo Trabalho de Implementacao
 
