@@ -13,6 +13,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 
+- Hugo Trindade Domingues - COLETOR DE LIXO - https://github.com/hugotd2711/trabalho_lp
 - Vitto Baroni - Trabalho de implementação 4.1 - https://github.com/vittobaroni/Coletor-de-Lixo
 - Breno Pinna - :link: [Contagem de Referências](https://github.com/brenopinna/trabalho_pp_contagem_de_referencias/)
 - Jonathan Vieira - :link: [Mark-and-Sweep]()
@@ -21,6 +22,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Adriano Camilo da Conceição - :link: [Pré-processador de c](https://github.com/Ocamilinho/cfmt)
 - Matheus Oliveira Monteiro,Rodolfo Maia Filho - [Contagem de Referências](https://github.com/MatheusOMonteiro/coletor-de-lixo)
 - Breno Machado - :link: [SimuladorHeap](https://github.com/BMO-O/SimuladorHeap).   
+
 
 ## Segundo Trabalho de Implementacao
 
