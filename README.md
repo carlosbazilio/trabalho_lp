@@ -18,6 +18,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Jonathan Vieira - :link: [Mark-and-Sweep]()
 - Matheus Oliveira Dias - [Mark Sweep](https://github.com/Kaliberss/Mark_Sweep)
 - Adriano Camilo da Conceição - :link: [Pré-processador de c](https://github.com/Ocamilinho/cfmt)
+- Matheus Oliveira Monteiro,Rodolfo Maia Filho - [Contagem de Referências](https://github.com/MatheusOMonteiro/coletor-de-lixo)
 
 ## Segundo Trabalho de Implementacao
 
