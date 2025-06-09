@@ -19,6 +19,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Matheus Oliveira Dias - [Mark Sweep](https://github.com/Kaliberss/Mark_Sweep)
 - Adriano Camilo da Conceição - :link: [Pré-processador de c](https://github.com/Ocamilinho/cfmt)
 - Matheus Oliveira Monteiro,Rodolfo Maia Filho - [Contagem de Referências](https://github.com/MatheusOMonteiro/coletor-de-lixo)
+- Breno Machado - :link: [SimuladorHeap](https://github.com/BMO-O/SimuladorHeap).   
 
 ## Segundo Trabalho de Implementacao
 
