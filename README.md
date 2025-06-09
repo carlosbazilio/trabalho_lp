@@ -13,11 +13,13 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 
-- Breno Machado - :link: [SimuladorHeap](https://github.com/BMO-O/SimuladorHeap).   
 - Vitto Baroni - Trabalho de implementação 4.1 - https://github.com/vittobaroni/Coletor-de-Lixo
 - Breno Pinna - :link: [Contagem de Referências](https://github.com/brenopinna/trabalho_pp_contagem_de_referencias/)
 - Jonathan Vieira - :link: [Mark-and-Sweep]()
 - Matheus Oliveira Dias - [Mark Sweep](https://github.com/Kaliberss/Mark_Sweep)
+- Adriano Camilo da Conceição - :link: [Pré-processador de c](https://github.com/Ocamilinho/cfmt)
+- Matheus Oliveira Monteiro,Rodolfo Maia Filho - [Contagem de Referências](https://github.com/MatheusOMonteiro/coletor-de-lixo)
+- Breno Machado - :link: [SimuladorHeap](https://github.com/BMO-O/SimuladorHeap).   
 
 ## Segundo Trabalho de Implementacao
 
@@ -30,4 +32,3 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do segundo trabalho escolhido. Observe que não é necessário que este execute de forma fiel ao anterior. Basta que funcione de forma similar. Este trabalho também pode ser feito de forma individual ou em dupla.
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
-
