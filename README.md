@@ -17,6 +17,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Vitto Baroni - Trabalho de implementação 4.1 - https://github.com/vittobaroni/Coletor-de-Lixo
 - Breno Pinna - :link: [Contagem de Referências](https://github.com/brenopinna/trabalho_pp_contagem_de_referencias/)
 - Jonathan Vieira - :link: [Mark-and-Sweep]()
+- Davi Macedo, Henry Albuquerque - [Pré-processador de C] (https://github.com/dkm05/trabalho_pp)
 - Matheus Oliveira Dias - [Mark Sweep](https://github.com/Kaliberss/Mark_Sweep)
 - Ana Clara, Beatriz e Maria Fernanda - [Simulador Mark Sweep](https://github.com/BiaBicalho/coletorMarkSweepC)
 - Adriano Camilo da Conceição - :link: [Pré-processador de c](https://github.com/Ocamilinho/cfmt)
