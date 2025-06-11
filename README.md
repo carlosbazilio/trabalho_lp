@@ -28,6 +28,8 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Felipe Rand - :link: [Agenda](https://github.com/liperand/Exercicio10-Agenda.git)
 - Breno Machado - :link: [SimuladorHeap](https://github.com/BMO-O/SimuladorHeap).
 - Estela Simões, Phelipi Machado- 🔗[Simulador de Heap](https://github.com/phelipipereira/Trabalho-PP)
+- Luis Henrique Carvalho, Ana Clara Nascimento- :link: [Simulador Heap](https://github.com/phelipipereira/Trabalho-PP)
+
 
 ## Segundo Trabalho de Implementacao
 
