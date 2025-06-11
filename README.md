@@ -21,7 +21,8 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Ana Clara, Beatriz e Maria Fernanda - [Simulador Mark Sweep](https://github.com/BiaBicalho/coletorMarkSweepC)
 - Adriano Camilo da Conceição - :link: [Pré-processador de c](https://github.com/Ocamilinho/cfmt)
 - Matheus Oliveira Monteiro,Rodolfo Maia Filho - [Contagem de Referências](https://github.com/MatheusOMonteiro/coletor-de-lixo)
-- Breno Machado - :link: [SimuladorHeap](https://github.com/BMO-O/SimuladorHeap).   
+- Breno Machado - :link: [SimuladorHeap](https://github.com/BMO-O/SimuladorHeap).
+- João Vitor Assumpção Proença - :link: https://github.com/JayAsPro/bazL-debugger
 - Felipe Rand - :link: [Agenda](https://github.com/liperand/Exercicio10-Agenda.git)
 - Breno Machado - :link: [SimuladorHeap](https://github.com/BMO-O/SimuladorHeap).
 - Estela Simões, Phelipi Machado- 🔗[Simulador de Heap](https://github.com/phelipipereira/Trabalho-PP)
