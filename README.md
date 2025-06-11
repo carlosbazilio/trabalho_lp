@@ -17,13 +17,17 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Vitto Baroni - Trabalho de implementação 4.1 - https://github.com/vittobaroni/Coletor-de-Lixo
 - Breno Pinna - :link: [Contagem de Referências](https://github.com/brenopinna/trabalho_pp_contagem_de_referencias/)
 - Jonathan Vieira - :link: [Mark-and-Sweep]()
+- Davi Macedo, Henry Albuquerque - [Pré-processador de C] (https://github.com/dkm05/trabalho_pp)
 - Matheus Oliveira Dias - [Mark Sweep](https://github.com/Kaliberss/Mark_Sweep)
 - Ana Clara, Beatriz e Maria Fernanda - [Simulador Mark Sweep](https://github.com/BiaBicalho/coletorMarkSweepC)
 - Adriano Camilo da Conceição - :link: [Pré-processador de c](https://github.com/Ocamilinho/cfmt)
 - Matheus Oliveira Monteiro,Rodolfo Maia Filho - [Contagem de Referências](https://github.com/MatheusOMonteiro/coletor-de-lixo)
 - Breno Machado - :link: [SimuladorHeap](https://github.com/BMO-O/SimuladorHeap).
 - Yasmin do Nascimento Caetano: Pré-Processador de C :[https://github.com/YasminCaetanoCC/Trabalho1_PP]
-
+- João Vitor Assumpção Proença - :link: https://github.com/JayAsPro/bazL-debugger
+- Felipe Rand - :link: [Agenda](https://github.com/liperand/Exercicio10-Agenda.git)
+- Breno Machado - :link: [SimuladorHeap](https://github.com/BMO-O/SimuladorHeap).
+- Estela Simões, Phelipi Machado- 🔗[Simulador de Heap](https://github.com/phelipipereira/Trabalho-PP)
 
 ## Segundo Trabalho de Implementacao
 
