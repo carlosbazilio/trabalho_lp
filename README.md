@@ -35,7 +35,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos disponíveis [neste arquivo](https://carlosbazilio.github.io/cursos/pp/material/ListaExerciciosProgOO.pdf), ou algum outro que apresente previamente para o professor e seja aceito como opção, usando o paradigma OO. O uso da linguagem Java não é obrigatório. Estes trabalhos podem ser feitos de forma individual ou em dupla. Cada trabalho só poderá ser escolhido por, no máximo, 2 grupos e será respeitada a ordem dos pull requests.)
 
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
-
+- Vitto Baroni - Trabalho 4 - https://github.com/vittobaroni/Datas-Java
 ## Terceiro Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do segundo trabalho escolhido. Observe que não é necessário que este execute de forma fiel ao anterior. Basta que funcione de forma similar. Este trabalho também pode ser feito de forma individual ou em dupla.
