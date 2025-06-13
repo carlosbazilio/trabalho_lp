@@ -20,12 +20,7 @@ void adicionaRoot(objeto *obj)
     if (contRoot < 10)
     {
         roots[contRoot++] = obj;
-    }else
-    {
-        printf("Numero maximo de raizes atingida!!!\n");
-        return;
     }
-    
 }
 
 objeto* ObjetoNovo(int valor)
@@ -36,8 +31,8 @@ objeto* ObjetoNovo(int valor)
     novo->ref = NULL;
     novo->dado = valor;
     novo->prox = head;
+
     head = novo;
-    
     return novo;
 }
 
@@ -64,14 +59,11 @@ void marcar(objeto *obj)
 
 void marcacao()
 {
-    for (int i = 0; i < contRoot; i++)
+    for (int i = 0; i != contRoot; i++)
     {
         marcar(roots[i]);
     }
-    
-
 }
-
 void varre()
 {
 
@@ -95,10 +87,9 @@ void varre()
 
 void MarkAndSweep()
 {
-    for (int i = 0; i != contRoot; i++)
-    {
-        marcar(roots[i]);
-    }
+    
+    marcacao();
+    
     varre();
 }
 
@@ -126,8 +117,6 @@ obj1->ref = obj2;
 obj2->ref = obj3;
 obj3->ref = obj4;
 
-root = obj1;
-
 adicionaRoot(obj1);
 
 printf("\n Antes da coleta:\n");
@@ -139,9 +128,7 @@ printf("\n Depois da coleta:\n");
 printObj();
 
 
-
-
-obj3->ref = NULL;  // Quebra a cadeia: obj1->obj2, mas obj2 não aponta mais para obj3
+obj2->ref = NULL;  
 MarkAndSweep();
 printObj();
 
