@@ -38,6 +38,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
 - Vitto Baroni - Trabalho 4 - https://github.com/vittobaroni/Datas-Java
 - Nicolas Mendes - Trabalho 3 - [Link](https://github.com/oNicorasu/Trab-de-PP)
+- Davi Macedo - Trabalho 10 - https://github.com/dkm05/trabalho_pp_2
 ## Terceiro Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do segundo trabalho escolhido. Observe que não é necessário que este execute de forma fiel ao anterior. Basta que funcione de forma similar. Este trabalho também pode ser feito de forma individual ou em dupla.
