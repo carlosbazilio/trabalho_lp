@@ -40,6 +40,8 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Vitto Baroni - Trabalho 4 - https://github.com/vittobaroni/Datas-Java
 - Nicolas Mendes - Trabalho 3 - [Link](https://github.com/oNicorasu/Trab-de-PP)
 - Breno Pinna - :link: [Sistema de Batalha](https://github.com/brenopinna/trabalho_pp_sistema_de_batalha/)
+- Breno Machado - Trabalho 5 - :link: [Biblioteca](https://github.com/BMO-O/Biblioteca)
+
 ## Terceiro Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do segundo trabalho escolhido. Observe que não é necessário que este execute de forma fiel ao anterior. Basta que funcione de forma similar. Este trabalho também pode ser feito de forma individual ou em dupla.
