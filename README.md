@@ -42,8 +42,11 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Breno Pinna - :link: [Sistema de Batalha](https://github.com/brenopinna/trabalho_pp_sistema_de_batalha/)
 - Breno Machado - Trabalho 5 - :link: [Biblioteca](https://github.com/BMO-O/Biblioteca)
 - Jonathan Vieira - Trabalho 3 - :link:[Sistema de Compras](https://github.com/JonathanViera/Trabalho-2.git)
+- Matheus Oliveira Monteiro, Rodolfo Maia Filho - [Trabalho 3 Carrinho de Compras](https://github.com/MatheusOMonteiro/CarrinhoDeCompras)
+- Davi Macedo - Trabalho 8 - [Link](https://github.com/dkm05/trabalho_pp_2)
+- Adriano Camilo da Conceição - :link: [Simulador de Mips em Scala](https://github.com/Ocamilinho/mips_scala)
 
-1## Terceiro Trabalho de Implementacao
+## Terceiro Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do segundo trabalho escolhido. Observe que não é necessário que este execute de forma fiel ao anterior. Basta que funcione de forma similar. Este trabalho também pode ser feito de forma individual ou em dupla.
 
