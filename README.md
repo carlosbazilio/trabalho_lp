@@ -42,6 +42,11 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Breno Pinna - :link: [Sistema de Batalha](https://github.com/brenopinna/trabalho_pp_sistema_de_batalha/)
 - Breno Machado - Trabalho 5 - :link: [Biblioteca](https://github.com/BMO-O/Biblioteca)
 - Henry Alves- Trabalho 3 - 🔗 [Sistema de Compras](https://github.com/henry974/segundo_trabalho)
+- Jonathan Vieira - Trabalho 3 - :link:[Sistema de Compras](https://github.com/JonathanViera/Trabalho-2.git) 
+- Ana Clara Nascimento - Trabalho 3 - [Carrinho de Compras](https://github.com/claransc/CarinhodeCompras)
+- Matheus Oliveira Monteiro, Rodolfo Maia Filho - [Trabalho 3 Carrinho de Compras](https://github.com/MatheusOMonteiro/CarrinhoDeCompras)
+- Davi Macedo - Trabalho 8 - [Link](https://github.com/dkm05/trabalho_pp_2)
+- Adriano Camilo da Conceição - :link: [Simulador de Mips em Scala](https://github.com/Ocamilinho/mips_scala)
 
 ## Terceiro Trabalho de Implementacao
 
