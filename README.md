@@ -48,6 +48,8 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Davi Macedo - Trabalho 8 - [Link](https://github.com/dkm05/trabalho_pp_2)
 - Adriano Camilo da Conceição - :link: [Simulador de Mips em Scala](https://github.com/Ocamilinho/mips_scala)
 
+- Matheus Oliveira Dias - :link: [Trabalho 2](https://github.com/Kaliberss/intervalos)
+
 ## Terceiro Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do segundo trabalho escolhido. Observe que não é necessário que este execute de forma fiel ao anterior. Basta que funcione de forma similar. Este trabalho também pode ser feito de forma individual ou em dupla.
