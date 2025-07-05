@@ -24,6 +24,8 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
 
+- Matheus Oliveira Dias - :link: [Trabalho 2](https://github.com/Kaliberss/intervalos)
+
 ## Terceiro Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do segundo trabalho escolhido. Observe que não é necessário que este execute de forma fiel ao anterior. Basta que funcione de forma similar. Este trabalho também pode ser feito de forma individual ou em dupla.
