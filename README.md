@@ -48,6 +48,8 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Davi Macedo - Trabalho 8 - [Link](https://github.com/dkm05/trabalho_pp_2)
 - Adriano Camilo da Conceição - :link: [Simulador de Mips em Scala](https://github.com/Ocamilinho/mips_scala)
 - João Vitor Assumpção Proença - Trabalho 9 [Registro de Publicações] - :link: https://github.com/JayAsPro/reg_pubs
+- Estela Simões Macedo Carvalho - 🔗[MicroLife:Jogo de tamagotchi virtual](https://github.com/Simoes-Estela/MicroLife)
+- Luís Henrique Carvalho - :link:[Loja Virtual](https://github.com/lh2703/loja-virtual)
 
 ## Terceiro Trabalho de Implementacao
 
