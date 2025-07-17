@@ -31,6 +31,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Luis Henrique, Ana Clara Nascimento - :link: [Simulador Heap](https://github.com/lh2703/Heap)
 - Rafael Miranda França -: [Contagem de Referências](https://github.com/Rafaelmf03/Contagem_ref.git)
 - Edmar Silva Jeremias, Igor Rimijo Pereira - [Pré-processador de C](https://github.com/EdJeremias/preprocessador)
+- Carolina Parreira Teixeira - [Simulador de Heap](https://github.com/carolpteixeira/simulador_heap.git)
 
 ## Segundo Trabalho de Implementacao
 
@@ -52,6 +53,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Estela Simões Macedo Carvalho - 🔗[MicroLife:Jogo de tamagotchi virtual](https://github.com/Simoes-Estela/MicroLife)
 - Luís Henrique Carvalho - :link:[Loja Virtual](https://github.com/lh2703/loja-virtual)
 - Rafael Miranda França -:link: https://github.com/Rafaelmf03/agenda-OO
+- Carolina Teixeira, Yasmin Caetano  [Trabalho 1 - Agenda Telefônica](https://github.com/carolpteixeira/agenda_telefonica.git)
 
 ## Terceiro Trabalho de Implementacao
 
