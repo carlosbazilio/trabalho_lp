@@ -13,47 +13,15 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 
-- Hugo Trindade Domingues - COLETOR DE LIXO - https://github.com/hugotd2711/trabalho_lp
-- Vitto Baroni - Trabalho de implementação 4.1 - https://github.com/vittobaroni/Coletor-de-Lixo
-- Breno Pinna - :link: [Contagem de Referências](https://github.com/brenopinna/trabalho_pp_contagem_de_referencias/)
-- Jonathan Vieira - :link: [Mark-and-Sweep][(https://github.com/JonathanViera/Trabalho1-pp.git)
-- Davi Macedo, Henry Albuquerque - [Pré-processador de C] (https://github.com/dkm05/trabalho_pp)
-- Matheus Oliveira Dias - [Mark Sweep](https://github.com/Kaliberss/Mark_Sweep)
-- Ana Clara, Beatriz e Maria Fernanda - [Simulador Mark Sweep](https://github.com/BiaBicalho/coletorMarkSweepC)
-- Adriano Camilo da Conceição - :link: [Pré-processador de c](https://github.com/Ocamilinho/cfmt)
-- Matheus Oliveira Monteiro,Rodolfo Maia Filho - [Contagem de Referências](https://github.com/MatheusOMonteiro/coletor-de-lixo)
-- Breno Machado - :link: [SimuladorHeap](https://github.com/BMO-O/SimuladorHeap).
-- Yasmin do Nascimento Caetano: Pré-Processador de C :[https://github.com/YasminCaetanoCC/Trabalho1_PP]
-- João Vitor Assumpção Proença - :link: https://github.com/JayAsPro/bazL-debugger
-- Felipe Rand - :link: [Agenda](https://github.com/liperand/Exercicio10-Agenda.git)
-- Breno Machado - :link: [SimuladorHeap](https://github.com/BMO-O/SimuladorHeap).
-- Estela Simões, Phelipi Machado- 🔗[Simulador de Heap](https://github.com/phelipipereira/Trabalho-PP)
-- Luis Henrique, Ana Clara Nascimento - :link: [Simulador Heap](https://github.com/lh2703/Heap)
-- Rafael Miranda França -: [Contagem de Referências](https://github.com/Rafaelmf03/Contagem_ref.git)
-- Edmar Silva Jeremias, Igor Rimijo Pereira - [Pré-processador de C](https://github.com/EdJeremias/preprocessador)
-- Carolina Parreira Teixeira - [Simulador de Heap](https://github.com/carolpteixeira/simulador_heap.git)
+- 
 
 ## Segundo Trabalho de Implementacao
 
-Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos disponíveis [neste arquivo](https://carlosbazilio.github.io/cursos/pp/material/ListaExerciciosProgOO.pdf), ou algum outro que apresente previamente para o professor e seja aceito como opção, usando o paradigma OO. O uso da linguagem Java não é obrigatório. Estes trabalhos podem ser feitos de forma individual ou em dupla. Cada trabalho só poderá ser escolhido por, no máximo, 2 grupos e será respeitada a ordem dos pull requests.)
+Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos disponíveis [neste arquivo](https://carlosbazilio.github.io/cursos/pp/material/ListaExerciciosProgOO.pdf), ou algum outro que apresente previamente para o professor e seja aceito como opção, usando o paradigma OO. O uso da linguagem Java não é obrigatório. Estes trabalhos podem ser feitos de forma individual ou em dupla.
 
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
-- Vitto Baroni - Trabalho 4 - https://github.com/vittobaroni/Datas-Java
-- Nicolas Mendes - Trabalho 3 - [Link](https://github.com/oNicorasu/Trab-de-PP)
-- Breno Pinna - :link: [Sistema de Batalha](https://github.com/brenopinna/trabalho_pp_sistema_de_batalha/)
-- Breno Machado - Trabalho 5 - :link: [Biblioteca](https://github.com/BMO-O/Biblioteca)
-- Henry Alves- Trabalho 3 - 🔗 [Sistema de Compras](https://github.com/henry974/segundo_trabalho)
-- Jonathan Vieira - Trabalho 3 - :link:[Sistema de Compras](https://github.com/JonathanViera/Trabalho-2.git) 
-- Ana Clara Nascimento - Trabalho 3 - [Carrinho de Compras](https://github.com/claransc/CarinhodeCompras)
-- Matheus Oliveira Monteiro, Rodolfo Maia Filho - [Trabalho 3 Carrinho de Compras](https://github.com/MatheusOMonteiro/CarrinhoDeCompras)
-- Davi Macedo - Trabalho 8 - [Link](https://github.com/dkm05/trabalho_pp_2)
-- Adriano Camilo da Conceição - :link: [Simulador de Mips em Scala](https://github.com/Ocamilinho/mips_scala)
-- Phelipi Machado Pereira - 🔗 [Sistema de Fluxo de Veiculos (Estacinomanento)](https://github.com/phelipipereira/Trabalho-POO)
-- João Vitor Assumpção Proença - Trabalho 9 [Registro de Publicações] - :link: https://github.com/JayAsPro/reg_pubs
-- Estela Simões Macedo Carvalho - 🔗[MicroLife:Jogo de tamagotchi virtual](https://github.com/Simoes-Estela/MicroLife)
-- Luís Henrique Carvalho - :link:[Loja Virtual](https://github.com/lh2703/loja-virtual)
-- Rafael Miranda França -:link: https://github.com/Rafaelmf03/agenda-OO
-- Carolina Teixeira, Yasmin Caetano  [Trabalho 1 - Agenda Telefônica](https://github.com/carolpteixeira/agenda_telefonica.git)
+
+- 
 
 ## Terceiro Trabalho de Implementacao
 
