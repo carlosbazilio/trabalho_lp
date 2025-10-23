@@ -3,7 +3,6 @@
 #include <string.h>
 #include <ctype.h>
 
-// NOVO: Estrutura para armazenar definições
 #define MAX_DEFINES 2048
 #define MAX_ARGS 16
 
@@ -14,11 +13,9 @@ typedef struct {
     char* args[MAX_ARGS]; // Nomes dos argumentos (ex: "a", "b")
 } DefineEntry;
 
-// NOVO: Tabela global de definições
 DefineEntry defines_table[MAX_DEFINES];
 int define_count = 0;
 
-// NOVO: Função auxiliar para limpar a tabela de defines
 void free_defines() {
     for (int i = 0; i < define_count; i++) {
         free(defines_table[i].name);
@@ -30,14 +27,11 @@ void free_defines() {
     define_count = 0;
 }
 
-// NOVO: Função auxiliar para trim (reutilizada da sua)
 void trim_linha(char* str);
 
-// NOVO: Função auxiliar para adicionar uma definição à tabela
 void add_define(char* line) {
     if (define_count >= MAX_DEFINES) return;
 
-    // Remove o "#define "
     char* p = line + strlen("#define");
     while (*p && isspace((unsigned char)*p)) p++; // Pula espaços
 
@@ -50,7 +44,6 @@ void add_define(char* line) {
     DefineEntry* def = &defines_table[define_count];
     def->arg_count = 0;
     
-    // Verifica se é uma macro com argumentos (ex: ADD(a,b))
     if (*p == '(') {
         *name_end = '\0'; // Termina a string do nome
         def->name = strdup(name_start);
@@ -90,7 +83,6 @@ void add_define(char* line) {
 
     while (*p && isspace((unsigned char)*p)) p++; // Pula espaços antes do valor
 
-    // O resto da linha é o valor
     char value_copy[4096];
     strcpy(value_copy, p);
     trim_linha(value_copy); // Remove espaços do início/fim do valor
@@ -99,12 +91,8 @@ void add_define(char* line) {
     define_count++;
 }
 
-// NOVO: Função auxiliar para substituir "palavra inteira" em uma string
-// Retorna uma nova string alocada (precisa de free)
 char* str_replace_whole_word(const char* str, const char* find, const char* replace) {
-    // Buffer de saída. Pode precisar ser maior se 'replace' for maior que 'find'
-    // Vamos alocar dinamicamente para segurança, mas um buffer grande funciona
-    // para este exemplo.
+
     char buffer[8192]; 
     char* p_out = buffer;
     const char* p_in = str;
@@ -112,7 +100,6 @@ char* str_replace_whole_word(const char* str, const char* find, const char* repl
     size_t replace_len = strlen(replace);
 
     while (*p_in) {
-        // Verifica se é uma "palavra inteira"
         char char_before = (p_in == str) ? ' ' : *(p_in - 1);
         char char_after = *(p_in + find_len);
 
@@ -133,23 +120,17 @@ char* str_replace_whole_word(const char* str, const char* find, const char* repl
     return strdup(buffer);
 }
 
-
-// NOVO: Função principal de substituição de macros
-// Retorna uma nova string alocada (precisa de free)
 char* apply_substitutions(char* line) {
     char* current_line = strdup(line);
     int substitution_made;
 
-    // Loop de substituição: continua substituindo até que
-    // nenhuma macro possa ser expandida (para macros aninhadas)
     do {
         substitution_made = 0;
-        char* next_line = strdup(current_line); // Começa com uma cópia
+        char* next_line = strdup(current_line);
 
         for (int i = 0; i < define_count; i++) {
             DefineEntry* def = &defines_table[i];
 
-            // Tenta substituição de constante (arg_count == 0)
             if (def->arg_count == 0) {
                 char* temp = str_replace_whole_word(next_line, def->name, def->value);
                 if (strcmp(next_line, temp) != 0) {
@@ -158,9 +139,9 @@ char* apply_substitutions(char* line) {
                 free(next_line);
                 next_line = temp;
             } 
-            // Tenta substituição de macro (arg_count > 0)
+
             else {
-                // Buffer temporário para construir a linha pós-macro
+
                 char buffer[8192];
                 char* p_out = buffer;
                 char* p_in = next_line;
@@ -169,13 +150,12 @@ char* apply_substitutions(char* line) {
                 while (*p_in) {
                     char char_before = (p_in == next_line) ? ' ' : *(p_in - 1);
                     
-                    // Procura pela macro (ex: "ADD") seguida de "("
                     if (strncmp(p_in, def->name, name_len) == 0 &&
                         !isalnum((unsigned char)char_before) && char_before != '_' &&
                         isspace((unsigned char)*(p_in + name_len)) == 0 && // Permite ADD(..), não ADD (..)
                         *(p_in + name_len) == '(') 
                     {
-                        // --- Macro encontrada ---
+
                         p_in += name_len; // Pula o nome
                         while (*p_in && isspace((unsigned char)*p_in)) p_in++; // Pula espaço
                         p_in++; // Pula '('
@@ -185,14 +165,13 @@ char* apply_substitutions(char* line) {
                         char* arg_start = p_in;
                         int paren_level = 0;
 
-                        // Analisa os argumentos passados
                         while (*p_in) {
                             if (*p_in == '(') paren_level++;
                             else if (*p_in == ')') {
                                 if (paren_level == 0) break;
                                 else paren_level--;
                             } else if (*p_in == ',' && paren_level == 0) {
-                                // Argumento encontrado
+
                                 if (arg_idx < MAX_ARGS) {
                                     strncpy(passed_args[arg_idx], arg_start, p_in - arg_start);
                                     passed_args[arg_idx][p_in - arg_start] = '\0';
@@ -205,21 +184,19 @@ char* apply_substitutions(char* line) {
                         }
                         
                         if (*p_in == ')') {
-                            // Pega o último argumento
+
                             if (arg_idx < MAX_ARGS) {
                                 strncpy(passed_args[arg_idx], arg_start, p_in - arg_start);
                                 passed_args[arg_idx][p_in - arg_start] = '\0';
                                 trim_linha(passed_args[arg_idx]);
                                 arg_idx++;
                             }
-                            p_in++; // Pula ')'
+                            p_in++;
 
-                            // Se o número de argumentos bate, faz a substituição
                             if (arg_idx == def->arg_count) {
                                 substitution_made = 1;
                                 char* substituted_value = strdup(def->value);
-                                
-                                // Substitui os nomes dos args (ex: "a") pelos valores passados (ex: "5")
+
                                 for (int j = 0; j < def->arg_count; j++) {
                                     char* temp = str_replace_whole_word(substituted_value, def->args[j], passed_args[j]);
                                     free(substituted_value);
@@ -230,25 +207,25 @@ char* apply_substitutions(char* line) {
                                 p_out += strlen(substituted_value);
                                 free(substituted_value);
                             } else {
-                                // Número errado de args, não substitui. Copia o nome original.
+
                                 strncpy(p_out, def->name, name_len);
                                 p_out += name_len;
                                 *p_out++ = '('; // Copia o '(' que pulamos
                             }
                         } else {
-                            // ')' não encontrado, malformado. Copia o nome original.
+
                             strncpy(p_out, def->name, name_len);
                             p_out += name_len;
                         }
                     } else {
                         *p_out++ = *p_in++;
                     }
-                } // fim while(*p_in)
+                }
                 *p_out = '\0';
                 free(next_line);
                 next_line = strdup(buffer);
             }
-        } // fim for(defines)
+        }
         
         free(current_line);
         current_line = next_line;
@@ -258,12 +235,9 @@ char* apply_substitutions(char* line) {
     return current_line;
 }
 
-
-// NOVO: Função de pré-processamento para #define
 void expdefine(FILE *input, FILE *output) {
     char line[4096];
-    
-    // 1. Primeiro Passo: Coletar todas as definições
+
     while (fgets(line, sizeof(line), input) != NULL) {
         char* start = line;
         while (*start == ' ' || *start == '\t') start++;
@@ -273,35 +247,26 @@ void expdefine(FILE *input, FILE *output) {
         }
     }
 
-    // 2. Segundo Passo: Substituir
-    fseek(input, 0, SEEK_SET); // Volta ao início do arquivo
+    fseek(input, 0, SEEK_SET);
     
     while (fgets(line, sizeof(line), input) != NULL) {
         char* start = line;
         while (*start == ' ' || *start == '\t') start++;
 
-        // Pula as linhas #define
         if (strncmp(start, "#define", 7) == 0) {
             continue;
         }
 
-        // Mantém outras diretivas (ex: #pragma)
         if (*start == '#') {
             fputs(line, output);
             continue;
         }
 
-        // Aplica substituições na linha
         char* processed_line = apply_substitutions(line);
         fputs(processed_line, output);
         free(processed_line);
     }
 }
-
-
-// -------------------------------------------------------------------
-// SUAS FUNÇÕES ORIGINAIS (com trim_linha movida para cima)
-// -------------------------------------------------------------------
 
 void expinclude(FILE *input, FILE *output) {
     char line[4096];
@@ -370,20 +335,16 @@ void removecomentario(FILE *input, FILE *output) {
          }
 }
 
-// MOVIDA: Esta função agora está antes de add_define()
 void trim_linha(char* str) {
          char* start = str;
-         // Remove espaços do início
+
          while (isspace((unsigned char)*start)) start++;
-    
-         // Remove espaços do fim
+
          char* end = start + strlen(start) - 1;
          while (end > start && isspace((unsigned char)*end)) end--;
-    
-         // Escreve o terminador nulo
+
          *(end + 1) = '\0';
-    
-         // Move a string para o início (se houver espaços no início)
+
          if (str != start) memmove(str, start, strlen(start) + 1);
 }
 
@@ -430,8 +391,6 @@ void removeespacos(FILE *input, FILE *output) {
                        continue;
               }
 
-              // MODIFICADO: A função expdefine já tratou os defines,
-        // então só precisamos preservar outras diretivas (ex: #pragma)
               if (linha_trabalho[0] == '#') {
                        fputs(line, output);
               } else {
@@ -441,7 +400,6 @@ void removeespacos(FILE *input, FILE *output) {
          }
 }
 
-// MODIFICADO: main() atualizada para incluir o novo passo
 int main(int argc, char *argv[]) {
          if (argc < 3) {
               fprintf(stderr, "Uso: %s <arquivo_entrada.txt> <arquivo_saida.txt>\n", argv[0]);
@@ -451,15 +409,14 @@ int main(int argc, char *argv[]) {
          char* input_filename = argv[1];
          char* output_filename = argv[2];
 
-    // MODIFICADO: Adicionado temp3
          char temp1_name[] = "temp_passo1.tmp";
          char temp2_name[] = "temp_passo2.tmp";
-    char temp3_name[] = "temp_passo3.tmp"; // NOVO
+        char temp3_name[] = "temp_passo3.tmp"; // NOVO
 
          FILE *f_in, *f_out;
          FILE *f_temp1_in, *f_temp1_out;
          FILE *f_temp2_in, *f_temp2_out;
-    FILE *f_temp3_in, *f_temp3_out; // NOVO
+        FILE *f_temp3_in, *f_temp3_out; // NOVO
 
          printf("Passo 1: Expandindo includes (#include)...\n");
          f_in = fopen(input_filename, "r");
@@ -477,7 +434,6 @@ int main(int argc, char *argv[]) {
          fclose(f_in);
          fclose(f_temp1_out);
 
-    // NOVO: Passo 2 para #define
     printf("Passo 2: Expandindo defines (#define)...\n");
     f_temp1_in = fopen(temp1_name, "r");
     f_temp2_out = fopen(temp2_name, "w");
@@ -486,12 +442,10 @@ int main(int argc, char *argv[]) {
         return 1;
     }
     expdefine(f_temp1_in, f_temp2_out);
-    free_defines(); // Limpa a memória alocada para a tabela
+    free_defines();
     fclose(f_temp1_in);
     fclose(f_temp2_out);
 
-
-    // MODIFICADO: Passo 3 (era 2)
          printf("Passo 3: Removendo comentarios (//)...\n");
          f_temp2_in = fopen(temp2_name, "r");
          f_temp3_out = fopen(temp3_name, "w");
@@ -503,7 +457,6 @@ int main(int argc, char *argv[]) {
          fclose(f_temp2_in);
          fclose(f_temp3_out);
 
-    // MODIFICADO: Passo 4 (era 3)
          printf("Passo 4: Removendo espacos e minificando...\n");
          f_temp3_in = fopen(temp3_name, "r"); 
          f_out = fopen(output_filename, "w"); 
