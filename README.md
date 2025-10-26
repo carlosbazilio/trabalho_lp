@@ -13,7 +13,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 
-- 
+- Rafaela S. G. Evangelista - https://github.com/The-Orange-Side/1-Trabalho-PP
 
 ## Segundo Trabalho de Implementacao
 
