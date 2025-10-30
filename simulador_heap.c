@@ -185,12 +185,11 @@ void juntarEspacosLivres() {
 void mostrarHeap() {
     printf("\n--- Estado Atual da Memoria (Total de blocos: %d) ---\n", total_blocos);
     for (int i = 0; i < total_blocos; i++) {
-        printf("  - Bloco [%d]: %s\n", i, memoria[i].ocupado ? memoria[i].nome : "(livre)");
+        printf(" - Bloco [%d]: %s\n", i, memoria[i].nome);
         printf("    Status:  %s\n", memoria[i].ocupado ? "OCUPADO" : "LIVRE");
         printf("    Inicio:  %d\n", memoria[i].inicio);
         printf("    Tamanho: %d bytes\n", memoria[i].tamanho);
     }
-    printf("------------------------------------------------------\n");
 }
 
 void deletarBloco() {
@@ -202,7 +201,7 @@ void deletarBloco() {
     for (int i = 0; i < total_blocos; i++) {
         if (memoria[i].ocupado && strcmp(memoria[i].nome, nome) == 0) {
             memoria[i].ocupado = 0;
-            strcpy(memoria[i].nome, "(livre)");
+            // strcpy(memoria[i].nome, "(livre)");
             printf("Bloco %s liberado (%d bytes).\n", nome, memoria[i].tamanho);
             juntarEspacosLivres();
             return;
@@ -244,6 +243,3 @@ void atribuir() {
 
     printf("ERRO: variavel de destino %s nao existe. (crie com 'new' primeiro).\n", var1);
 }
-
-
-
