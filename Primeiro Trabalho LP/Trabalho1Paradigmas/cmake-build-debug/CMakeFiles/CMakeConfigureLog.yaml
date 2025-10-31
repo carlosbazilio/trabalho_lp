@@ -1,0 +1,330 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.26100 - AMD64
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.26100 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/gcc.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+      
+      The C compiler identification is GNU, found in:
+        C:/Users/0rafa/CLionProjects/Trabalho1Paradigmas/cmake-build-debug/CMakeFiles/3.31.6/CompilerIdC/a.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/Users/0rafa/CLionProjects/Trabalho1Paradigmas/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4xmsvv"
+      binary: "C:/Users/0rafa/CLionProjects/Trabalho1Paradigmas/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4xmsvv"
+    cmakeVariables:
+      CMAKE_C_FLAGS: ""
+      CMAKE_C_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/0rafa/CLionProjects/Trabalho1Paradigmas/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4xmsvv'
+        
+        Run Build Command(s): "C:/CLion 2025.1.1/bin/ninja/win/x64/ninja.exe" -v cmTC_f0b58
+        [1/2] C:\\winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1\\mingw32\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj -c "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c"
+        Using built-in specs.
+        COLLECT_GCC=C:\\winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1\\mingw32\\bin\\gcc.exe
+        OFFLOAD_TARGET_NAMES=nvptx-none
+        Target: i686-w64-mingw32
+        Configured with: ../configure --prefix=/R/winlibs_staging_ucrt32/inst_gcc-15.1.0/share/gcc --build=i686-w64-mingw32 --host=i686-w64-mingw32 --enable-offload-targets=nvptx-none --with-pkgversion='MinGW-W64 i686-ucrt-posix-dwarf, built by Brecht Sanders, r1' --with-tune=generic --enable-checking=release --enable-threads=posix --with-dwarf2 --disable-sjlj-exceptions --disable-libunwind-exceptions --disable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --disable-default-ssp --disable-rpath --disable-libstdcxx-debug --disable-version-specific-runtime-libs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++ --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --enable-libstdcxx-time --enable-libstdcxx-pch --with-mpc=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-mpfr=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-gmp=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-isl=/c/Prog/winlibs_staging_ucrt/custombuilt32 --enable-large-address-aware --disable-libstdcxx-backtrace --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --enable-clocale=generic --enable-libgdiagnostics --with-libiconv --with-system-zlib --with-build-sysroot=/R/winlibs_staging_ucrt32/gcc-15.1.0/build_mingw/mingw-w64 CFLAGS='-I/c/Prog/winlibs_staging_ucrt/custombuilt32/include/libdl-win32  -march=pentium4 -mtune=generic -O2  -Wno-error=format' CXXFLAGS='-Wno-int-conversion -march=pentium4 -mtune=generic -O2 ' LDFLAGS='-pthread -Wl,--no-insert-timestamp -Wl,--dynamicbase  -Wl,--nxcompat -Wl,--tsaware' LD=/c/Prog/winlibs_staging_ucrt/custombuilt32/share/binutils/bin/ld.exe
+        Thread model: posix
+        Supported LTO compression algorithms: zlib zstd
+        gcc version 15.1.0 (MinGW-W64 i686-ucrt-posix-dwarf, built by Brecht Sanders, r1) 
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro' '-dumpdir' 'CMakeFiles/cmTC_f0b58.dir/'
+         C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/cc1.exe -quiet -v -iprefix C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/ -D_REENTRANT C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_f0b58.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=pentiumpro -version -fdiagnostics-color=always -o C:\\Users\\0rafa\\AppData\\Local\\Temp\\cc9hnzn6.s
+        GNU C23 (MinGW-W64 i686-ucrt-posix-dwarf, built by Brecht Sanders, r1) version 15.1.0 (i686-w64-mingw32)
+        	compiled by GNU C version 15.1.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring duplicate directory "C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/../../lib/gcc/i686-w64-mingw32/15.1.0/include"
+        ignoring nonexistent directory "R:/winlibs_staging_ucrt32/inst_gcc-15.1.0/share/gcc/include"
+        ignoring nonexistent directory "/R/winlibs_staging_ucrt32/inst_gcc-15.1.0/share/gcc/include"
+        ignoring duplicate directory "C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/../../lib/gcc/i686-w64-mingw32/15.1.0/include-fixed"
+        ignoring duplicate directory "C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/../../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/include"
+        ignoring nonexistent directory "/mingw/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/include
+         C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../include
+         C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/include-fixed
+         C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/include
+        End of search list.
+        Compiler executable checksum: d84574bc816f59e3cae871a3cfd22f3e
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro' '-dumpdir' 'CMakeFiles/cmTC_f0b58.dir/'
+         C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj C:\\Users\\0rafa\\AppData\\Local\\Temp\\cc9hnzn6.s
+        GNU assembler version 2.44 (i686-w64-mingw32) using BFD version (Binutils for MinGW-W64 i686, built by Brecht Sanders, r1) 2.44
+        COMPILER_PATH=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/bin/
+        LIBRARY_PATH=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../lib/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../\x0d
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro' '-dumpdir' 'CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.'\x0d
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1\\mingw32\\bin\\gcc.exe  -v -Wl,-v CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj -o cmTC_f0b58.exe -Wl,--out-implib,libcmTC_f0b58.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        Using built-in specs.
+        COLLECT_GCC=C:\\winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1\\mingw32\\bin\\gcc.exe
+        COLLECT_LTO_WRAPPER=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/lto-wrapper.exe
+        OFFLOAD_TARGET_NAMES=nvptx-none
+        Target: i686-w64-mingw32
+        Configured with: ../configure --prefix=/R/winlibs_staging_ucrt32/inst_gcc-15.1.0/share/gcc --build=i686-w64-mingw32 --host=i686-w64-mingw32 --enable-offload-targets=nvptx-none --with-pkgversion='MinGW-W64 i686-ucrt-posix-dwarf, built by Brecht Sanders, r1' --with-tune=generic --enable-checking=release --enable-threads=posix --with-dwarf2 --disable-sjlj-exceptions --disable-libunwind-exceptions --disable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --disable-default-ssp --disable-rpath --disable-libstdcxx-debug --disable-version-specific-runtime-libs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++ --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --enable-libstdcxx-time --enable-libstdcxx-pch --with-mpc=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-mpfr=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-gmp=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-isl=/c/Prog/winlibs_staging_ucrt/custombuilt32 --enable-large-address-aware --disable-libstdcxx-backtrace --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --enable-clocale=generic --enable-libgdiagnostics --with-libiconv --with-system-zlib --with-build-sysroot=/R/winlibs_staging_ucrt32/gcc-15.1.0/build_mingw/mingw-w64 CFLAGS='-I/c/Prog/winlibs_staging_ucrt/custombuilt32/include/libdl-win32  -march=pentium4 -mtune=generic -O2  -Wno-error=format' CXXFLAGS='-Wno-int-conversion -march=pentium4 -mtune=generic -O2 ' LDFLAGS='-pthread -Wl,--no-insert-timestamp -Wl,--dynamicbase  -Wl,--nxcompat -Wl,--tsaware' LD=/c/Prog/winlibs_staging_ucrt/custombuilt32/share/binutils/bin/ld.exe
+        Thread model: posix
+        Supported LTO compression algorithms: zlib zstd
+        gcc version 15.1.0 (MinGW-W64 i686-ucrt-posix-dwarf, built by Brecht Sanders, r1) 
+        COMPILER_PATH=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/bin/
+        LIBRARY_PATH=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../lib/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f0b58.exe' '-mtune=generic' '-march=pentiumpro' '-dumpdir' 'cmTC_f0b58.'
+         C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/collect2.exe -plugin C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\0rafa\\AppData\\Local\\Temp\\ccO4uSGd.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pe -Bdynamic --large-address-aware -o cmTC_f0b58.exe C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib/crt2.o C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/crtbegin.o -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0 -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../lib -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_f0b58.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/crtend.o
+        collect2 version 15.1.0
+        C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/bin/ld.exe -plugin C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\0rafa\\AppData\\Local\\Temp\\ccO4uSGd.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pe -Bdynamic --large-address-aware -o cmTC_f0b58.exe C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib/crt2.o C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/crtbegin.o -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0 -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../lib -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_f0b58.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/crtend.o\x0d
+        GNU ld (Binutils for MinGW-W64 i686, built by Brecht Sanders, r1) 2.44\x0d
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f0b58.exe' '-mtune=generic' '-march=pentiumpro' '-dumpdir' 'cmTC_f0b58.'\x0d
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:182 (message)"
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed C implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/include]
+          add: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../include]
+          add: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/include-fixed]
+          add: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/include]
+        end of search list found
+        collapse include dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/include] ==> [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/i686-w64-mingw32/15.1.0/include]
+        collapse include dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../include] ==> [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/include]
+        collapse include dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/include-fixed] ==> [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/i686-w64-mingw32/15.1.0/include-fixed]
+        collapse include dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/include] ==> [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/i686-w64-mingw32/include]
+        implicit include dirs: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/i686-w64-mingw32/15.1.0/include;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/include;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/i686-w64-mingw32/15.1.0/include-fixed;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/i686-w64-mingw32/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:218 (message)"
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?))("|,| |$)]
+        ignore line: [Change Dir: 'C:/Users/0rafa/CLionProjects/Trabalho1Paradigmas/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-4xmsvv']
+        ignore line: []
+        ignore line: [Run Build Command(s): "C:/CLion 2025.1.1/bin/ninja/win/x64/ninja.exe" -v cmTC_f0b58]
+        ignore line: [[1/2] C:\\winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1\\mingw32\\bin\\gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj -c "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c"]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1\\mingw32\\bin\\gcc.exe]
+        ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
+        ignore line: [Target: i686-w64-mingw32]
+        ignore line: [Configured with: ../configure --prefix=/R/winlibs_staging_ucrt32/inst_gcc-15.1.0/share/gcc --build=i686-w64-mingw32 --host=i686-w64-mingw32 --enable-offload-targets=nvptx-none --with-pkgversion='MinGW-W64 i686-ucrt-posix-dwarf, built by Brecht Sanders, r1' --with-tune=generic --enable-checking=release --enable-threads=posix --with-dwarf2 --disable-sjlj-exceptions --disable-libunwind-exceptions --disable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --disable-default-ssp --disable-rpath --disable-libstdcxx-debug --disable-version-specific-runtime-libs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++ --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --enable-libstdcxx-time --enable-libstdcxx-pch --with-mpc=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-mpfr=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-gmp=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-isl=/c/Prog/winlibs_staging_ucrt/custombuilt32 --enable-large-address-aware --disable-libstdcxx-backtrace --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --enable-clocale=generic --enable-libgdiagnostics --with-libiconv --with-system-zlib --with-build-sysroot=/R/winlibs_staging_ucrt32/gcc-15.1.0/build_mingw/mingw-w64 CFLAGS='-I/c/Prog/winlibs_staging_ucrt/custombuilt32/include/libdl-win32  -march=pentium4 -mtune=generic -O2  -Wno-error=format' CXXFLAGS='-Wno-int-conversion -march=pentium4 -mtune=generic -O2 ' LDFLAGS='-pthread -Wl,--no-insert-timestamp -Wl,--dynamicbase  -Wl,--nxcompat -Wl,--tsaware' LD=/c/Prog/winlibs_staging_ucrt/custombuilt32/share/binutils/bin/ld.exe]
+        ignore line: [Thread model: posix]
+        ignore line: [Supported LTO compression algorithms: zlib zstd]
+        ignore line: [gcc version 15.1.0 (MinGW-W64 i686-ucrt-posix-dwarf  built by Brecht Sanders  r1) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro' '-dumpdir' 'CMakeFiles/cmTC_f0b58.dir/']
+        ignore line: [ C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/cc1.exe -quiet -v -iprefix C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/ -D_REENTRANT C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_f0b58.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=pentiumpro -version -fdiagnostics-color=always -o C:\\Users\\0rafa\\AppData\\Local\\Temp\\cc9hnzn6.s]
+        ignore line: [GNU C23 (MinGW-W64 i686-ucrt-posix-dwarf  built by Brecht Sanders  r1) version 15.1.0 (i686-w64-mingw32)]
+        ignore line: [	compiled by GNU C version 15.1.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring duplicate directory "C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/../../lib/gcc/i686-w64-mingw32/15.1.0/include"]
+        ignore line: [ignoring nonexistent directory "R:/winlibs_staging_ucrt32/inst_gcc-15.1.0/share/gcc/include"]
+        ignore line: [ignoring nonexistent directory "/R/winlibs_staging_ucrt32/inst_gcc-15.1.0/share/gcc/include"]
+        ignore line: [ignoring duplicate directory "C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/../../lib/gcc/i686-w64-mingw32/15.1.0/include-fixed"]
+        ignore line: [ignoring duplicate directory "C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/../../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/include"]
+        ignore line: [ignoring nonexistent directory "/mingw/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/include]
+        ignore line: [ C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../include]
+        ignore line: [ C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/include-fixed]
+        ignore line: [ C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/include]
+        ignore line: [End of search list.]
+        ignore line: [Compiler executable checksum: d84574bc816f59e3cae871a3cfd22f3e]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro' '-dumpdir' 'CMakeFiles/cmTC_f0b58.dir/']
+        ignore line: [ C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj C:\\Users\\0rafa\\AppData\\Local\\Temp\\cc9hnzn6.s]
+        ignore line: [GNU assembler version 2.44 (i686-w64-mingw32) using BFD version (Binutils for MinGW-W64 i686  built by Brecht Sanders  r1) 2.44]
+        ignore line: [COMPILER_PATH=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/bin/]
+        ignore line: [LIBRARY_PATH=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../lib/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../\x0d]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=pentiumpro' '-dumpdir' 'CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.'\x0d]
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1\\mingw32\\bin\\gcc.exe  -v -Wl -v CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj -o cmTC_f0b58.exe -Wl --out-implib libcmTC_f0b58.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1\\mingw32\\bin\\gcc.exe]
+        ignore line: [COLLECT_LTO_WRAPPER=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/lto-wrapper.exe]
+        ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
+        ignore line: [Target: i686-w64-mingw32]
+        ignore line: [Configured with: ../configure --prefix=/R/winlibs_staging_ucrt32/inst_gcc-15.1.0/share/gcc --build=i686-w64-mingw32 --host=i686-w64-mingw32 --enable-offload-targets=nvptx-none --with-pkgversion='MinGW-W64 i686-ucrt-posix-dwarf, built by Brecht Sanders, r1' --with-tune=generic --enable-checking=release --enable-threads=posix --with-dwarf2 --disable-sjlj-exceptions --disable-libunwind-exceptions --disable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --disable-default-ssp --disable-rpath --disable-libstdcxx-debug --disable-version-specific-runtime-libs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++ --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --enable-libstdcxx-time --enable-libstdcxx-pch --with-mpc=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-mpfr=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-gmp=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-isl=/c/Prog/winlibs_staging_ucrt/custombuilt32 --enable-large-address-aware --disable-libstdcxx-backtrace --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --enable-clocale=generic --enable-libgdiagnostics --with-libiconv --with-system-zlib --with-build-sysroot=/R/winlibs_staging_ucrt32/gcc-15.1.0/build_mingw/mingw-w64 CFLAGS='-I/c/Prog/winlibs_staging_ucrt/custombuilt32/include/libdl-win32  -march=pentium4 -mtune=generic -O2  -Wno-error=format' CXXFLAGS='-Wno-int-conversion -march=pentium4 -mtune=generic -O2 ' LDFLAGS='-pthread -Wl,--no-insert-timestamp -Wl,--dynamicbase  -Wl,--nxcompat -Wl,--tsaware' LD=/c/Prog/winlibs_staging_ucrt/custombuilt32/share/binutils/bin/ld.exe]
+        ignore line: [Thread model: posix]
+        ignore line: [Supported LTO compression algorithms: zlib zstd]
+        ignore line: [gcc version 15.1.0 (MinGW-W64 i686-ucrt-posix-dwarf  built by Brecht Sanders  r1) ]
+        ignore line: [COMPILER_PATH=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/bin/]
+        ignore line: [LIBRARY_PATH=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../lib/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/]
+        ignore line: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f0b58.exe' '-mtune=generic' '-march=pentiumpro' '-dumpdir' 'cmTC_f0b58.']
+        link line: [ C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/collect2.exe -plugin C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/liblto_plugin.dll -plugin-opt=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\0rafa\\AppData\\Local\\Temp\\ccO4uSGd.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pe -Bdynamic --large-address-aware -o cmTC_f0b58.exe C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib/crt2.o C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/crtbegin.o -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0 -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../lib -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib -LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../.. -v CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj --out-implib libcmTC_f0b58.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/crtend.o]
+          arg [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/collect2.exe] ==> ignore
+          arg [-plugin] ==> ignore
+          arg [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/liblto_plugin.dll] ==> ignore
+          arg [-plugin-opt=C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../libexec/gcc/i686-w64-mingw32/15.1.0/lto-wrapper.exe] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\0rafa\\AppData\\Local\\Temp\\ccO4uSGd.res] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
+          arg [-plugin-opt=-pass-through=-ladvapi32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lshell32] ==> ignore
+          arg [-plugin-opt=-pass-through=-luser32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-m] ==> ignore
+          arg [i386pe] ==> ignore
+          arg [-Bdynamic] ==> search dynamic
+          arg [--large-address-aware] ==> ignore
+          arg [-o] ==> ignore
+          arg [cmTC_f0b58.exe] ==> ignore
+          arg [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib/crt2.o] ==> obj [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib/crt2.o]
+          arg [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/crtbegin.o] ==> obj [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/crtbegin.o]
+          arg [-LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0] ==> dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0]
+          arg [-LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc] ==> dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc]
+          arg [-LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib] ==> dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib]
+          arg [-LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../lib] ==> dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../lib]
+          arg [-LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib] ==> dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib]
+          arg [-LC:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../..] ==> dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../..]
+          arg [-v] ==> ignore
+          arg [CMakeFiles/cmTC_f0b58.dir/CMakeCCompilerABI.c.obj] ==> ignore
+          arg [--out-implib] ==> ignore
+          arg [libcmTC_f0b58.dll.a] ==> ignore
+          arg [--major-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [--minor-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lgcc_eh] ==> lib [gcc_eh]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lpthread] ==> lib [pthread]
+          arg [-ladvapi32] ==> lib [advapi32]
+          arg [-lshell32] ==> lib [shell32]
+          arg [-luser32] ==> lib [user32]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lgcc_eh] ==> lib [gcc_eh]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/crtend.o] ==> obj [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/crtend.o]
+        linker tool for 'C': Configured with: ../configure --prefix=/R/winlibs_staging_ucrt32/inst_gcc-15.1.0/share/gcc --build=i686-w64-mingw32 --host=i686-w64-mingw32 --enable-offload-targets=nvptx-none --with-pkgversion='MinGW-W64 i686-ucrt-posix-dwarf, built by Brecht Sanders, r1' --with-tune=generic --enable-checking=release --enable-threads=posix --with-dwarf2 --disable-sjlj-exceptions --disable-libunwind-exceptions --disable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --disable-default-ssp --disable-rpath --disable-libstdcxx-debug --disable-version-specific-runtime-libs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++ --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --enable-libstdcxx-time --enable-libstdcxx-pch --with-mpc=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-mpfr=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-gmp=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-isl=/c/Prog/winlibs_staging_ucrt/custombuilt32 --enable-large-address-aware --disable-libstdcxx-backtrace --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --enable-clocale=generic --enable-libgdiagnostics --with-libiconv --with-system-zlib --with-build-sysroot=/R/winlibs_staging_ucrt32/gcc-15.1.0/build_mingw/mingw-w64 CFLAGS='-I/c/Prog/winlibs_staging_ucrt/custombuilt32/include/libdl-win32  -march=pentium4 -mtune=generic -O2  -Wno-error=format' CXXFLAGS='-Wno-int-conversion -march=pentium4 -mtune=generic -O2 ' LDFLAGS='-pthread -Wl,--no-insert-timestamp -Wl,--dynamicbase  -Wl,--nxcompat -Wl,--tsaware' LD=/c/Prog/winlibs_staging_ucrt/custombuilt32/share/binutils/bin/ld.exe
+        remove lib [gcc_eh]
+        remove lib [msvcrt]
+        remove lib [gcc_eh]
+        remove lib [msvcrt]
+        collapse obj [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib/crt2.o] ==> [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/i686-w64-mingw32/lib/crt2.o]
+        collapse obj [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/crtbegin.o] ==> [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/i686-w64-mingw32/15.1.0/crtbegin.o]
+        collapse obj [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/crtend.o] ==> [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/i686-w64-mingw32/15.1.0/crtend.o]
+        collapse library dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0] ==> [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/i686-w64-mingw32/15.1.0]
+        collapse library dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc] ==> [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc]
+        collapse library dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib/../lib] ==> [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/i686-w64-mingw32/lib]
+        collapse library dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../lib] ==> [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib]
+        collapse library dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../../../i686-w64-mingw32/lib] ==> [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/i686-w64-mingw32/lib]
+        collapse library dir [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/bin/../lib/gcc/i686-w64-mingw32/15.1.0/../../..] ==> [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib]
+        implicit libs: [mingw32;gcc;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc;mingwex;kernel32]
+        implicit objs: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/i686-w64-mingw32/lib/crt2.o;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/i686-w64-mingw32/15.1.0/crtbegin.o;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/i686-w64-mingw32/15.1.0/crtend.o]
+        implicit dirs: [C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc/i686-w64-mingw32/15.1.0;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib/gcc;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/i686-w64-mingw32/lib;C:/winlibs-i686-posix-dwarf-gcc-15.1.0-mingw-w64ucrt-12.0.0-r1/mingw32/lib]
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:255 (cmake_determine_linker_id)"
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the C compiler's linker: "Configured with: ../configure --prefix=/R/winlibs_staging_ucrt32/inst_gcc-15.1.0/share/gcc --build=i686-w64-mingw32 --host=i686-w64-mingw32 --enable-offload-targets=nvptx-none --with-pkgversion='MinGW-W64 i686-ucrt-posix-dwarf, built by Brecht Sanders, r1' --with-tune=generic --enable-checking=release --enable-threads=posix --with-dwarf2 --disable-sjlj-exceptions --disable-libunwind-exceptions --disable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --disable-default-ssp --disable-rpath --disable-libstdcxx-debug --disable-version-specific-runtime-libs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++ --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --enable-libstdcxx-time --enable-libstdcxx-pch --with-mpc=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-mpfr=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-gmp=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-isl=/c/Prog/winlibs_staging_ucrt/custombuilt32 --enable-large-address-aware --disable-libstdcxx-backtrace --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --enable-clocale=generic --enable-libgdiagnostics --with-libiconv --with-system-zlib --with-build-sysroot=/R/winlibs_staging_ucrt32/gcc-15.1.0/build_mingw/mingw-w64 CFLAGS='-I/c/Prog/winlibs_staging_ucrt/custombuilt32/include/libdl-win32  -march=pentium4 -mtune=generic -O2  -Wno-error=format' CXXFLAGS='-Wno-int-conversion -march=pentium4 -mtune=generic -O2 ' LDFLAGS='-pthread -Wl,--no-insert-timestamp -Wl,--dynamicbase  -Wl,--nxcompat -Wl,--tsaware' LD=/c/Prog/winlibs_staging_ucrt/custombuilt32/share/binutils/bin/ld.exe" "-v"
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:255 (cmake_determine_linker_id)"
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the C compiler's linker: "Configured with: ../configure --prefix=/R/winlibs_staging_ucrt32/inst_gcc-15.1.0/share/gcc --build=i686-w64-mingw32 --host=i686-w64-mingw32 --enable-offload-targets=nvptx-none --with-pkgversion='MinGW-W64 i686-ucrt-posix-dwarf, built by Brecht Sanders, r1' --with-tune=generic --enable-checking=release --enable-threads=posix --with-dwarf2 --disable-sjlj-exceptions --disable-libunwind-exceptions --disable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --disable-default-ssp --disable-rpath --disable-libstdcxx-debug --disable-version-specific-runtime-libs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++ --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --enable-libstdcxx-time --enable-libstdcxx-pch --with-mpc=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-mpfr=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-gmp=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-isl=/c/Prog/winlibs_staging_ucrt/custombuilt32 --enable-large-address-aware --disable-libstdcxx-backtrace --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --enable-clocale=generic --enable-libgdiagnostics --with-libiconv --with-system-zlib --with-build-sysroot=/R/winlibs_staging_ucrt32/gcc-15.1.0/build_mingw/mingw-w64 CFLAGS='-I/c/Prog/winlibs_staging_ucrt/custombuilt32/include/libdl-win32  -march=pentium4 -mtune=generic -O2  -Wno-error=format' CXXFLAGS='-Wno-int-conversion -march=pentium4 -mtune=generic -O2 ' LDFLAGS='-pthread -Wl,--no-insert-timestamp -Wl,--dynamicbase  -Wl,--nxcompat -Wl,--tsaware' LD=/c/Prog/winlibs_staging_ucrt/custombuilt32/share/binutils/bin/ld.exe" "-V"
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake:255 (cmake_determine_linker_id)"
+      - "C:/CLion 2025.1.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the C compiler's linker: "Configured with: ../configure --prefix=/R/winlibs_staging_ucrt32/inst_gcc-15.1.0/share/gcc --build=i686-w64-mingw32 --host=i686-w64-mingw32 --enable-offload-targets=nvptx-none --with-pkgversion='MinGW-W64 i686-ucrt-posix-dwarf, built by Brecht Sanders, r1' --with-tune=generic --enable-checking=release --enable-threads=posix --with-dwarf2 --disable-sjlj-exceptions --disable-libunwind-exceptions --disable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --disable-default-ssp --disable-rpath --disable-libstdcxx-debug --disable-version-specific-runtime-libs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++ --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --enable-libstdcxx-time --enable-libstdcxx-pch --with-mpc=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-mpfr=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-gmp=/c/Prog/winlibs_staging_ucrt/custombuilt32 --with-isl=/c/Prog/winlibs_staging_ucrt/custombuilt32 --enable-large-address-aware --disable-libstdcxx-backtrace --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --enable-clocale=generic --enable-libgdiagnostics --with-libiconv --with-system-zlib --with-build-sysroot=/R/winlibs_staging_ucrt32/gcc-15.1.0/build_mingw/mingw-w64 CFLAGS='-I/c/Prog/winlibs_staging_ucrt/custombuilt32/include/libdl-win32  -march=pentium4 -mtune=generic -O2  -Wno-error=format' CXXFLAGS='-Wno-int-conversion -march=pentium4 -mtune=generic -O2 ' LDFLAGS='-pthread -Wl,--no-insert-timestamp -Wl,--dynamicbase  -Wl,--nxcompat -Wl,--tsaware' LD=/c/Prog/winlibs_staging_ucrt/custombuilt32/share/binutils/bin/ld.exe" "--version"
+      
+...

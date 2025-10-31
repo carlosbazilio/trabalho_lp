@@ -1,0 +1,3 @@
+C:/Users/0rafa/CLionProjects/Trabalho1Paradigmas/cmake-build-debug/CMakeFiles/Trabalho1Paradigmas.dir
+C:/Users/0rafa/CLionProjects/Trabalho1Paradigmas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/0rafa/CLionProjects/Trabalho1Paradigmas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
