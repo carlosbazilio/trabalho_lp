@@ -3,6 +3,7 @@
 #include <string.h>
 #include <ctype.h>
 
+//definições maximas utilizadas nos defines
 #define MAX_DEFINES 2048
 #define MAX_ARGS 16
 
@@ -16,6 +17,7 @@ typedef struct {
 DefineEntry defines_table[MAX_DEFINES];
 int define_count = 0;
 
+//liberar memória utilizada nas funções de defines
 void free_defines() {
     for (int i = 0; i < define_count; i++) {
         free(defines_table[i].name);
@@ -27,6 +29,7 @@ void free_defines() {
     define_count = 0;
 }
 
+//retira os espaços do final e inicio das linhas
 void trim_linha(char* str) {
     char* start = str;
 
@@ -40,6 +43,7 @@ void trim_linha(char* str) {
     if (str != start) memmove(str, start, strlen(start) + 1);
 }
 
+//adiciona os dados dos defines na struct
 void add_define(char* line) {
     if (define_count >= MAX_DEFINES) return;
 
@@ -132,6 +136,7 @@ char* str_replace_whole_word(const char* str, const char* find, const char* repl
     return strdup(buffer);
 }
 
+//com as informações dos defines altera no caso da constante e do caso do macro
 char* apply_substitutions(char* line) {
     char* current_line = strdup(line);
     int substitution_made;
@@ -243,6 +248,8 @@ char* apply_substitutions(char* line) {
     return current_line;
 }
 
+
+//analisa o arquivo procurando por "#define", ao encontrar chama as funções necessarias
 void expdefine(FILE *input, FILE *output) {
     char line[4096];
 
@@ -276,6 +283,12 @@ void expdefine(FILE *input, FILE *output) {
     }
 }
 
+/*
+analisa o arquivo e ao encontrar "#include" analisa o nome
+da biblioteca que está sendo chamada e procura o arquivo .h
+na pasta, ao encontrar copia os dados e inclui no local do
+include, ao não encontrar informa mensagem de erro
+*/
 void expinclude(FILE *input, FILE *output) {
     char line[4096];
 
@@ -318,6 +331,7 @@ void expinclude(FILE *input, FILE *output) {
     }
 }
 
+//procura linha por linha por "//", caso esteja fora de aspas, ele apaga o comentário
 void removecomentario(FILE *input, FILE *output) {
     char line[4096];
 
