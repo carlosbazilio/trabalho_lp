@@ -14,8 +14,6 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Aluno(a): Pedro Henrique de Jesus - https://github.com/pot8todev/trabalhoParadigmas.github.io 
 - link para visualização no github Pages: https://pot8todev.github.io/trabalhoParadigmas.github.io/
 
-- Rafaela S. G. Evangelista - https://github.com/The-Orange-Side/1-Trabalho-PP
-- Nathan Nogueira de Araujo [Contagem de Referência](https://github.com/NathanNogueira-dev/trabalho_contref)
 
 ## Segundo Trabalho de Implementacao
 
