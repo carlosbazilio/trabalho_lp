@@ -1,0 +1,38 @@
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include <string.h>
+
+
+ int main(){
+   char nomes [10][10] = {"galinha", "golfinho", "carpa","tartaruga", "cavalo", "chita", "mosquito", "elefante", "panda", "bode"};
+   char palavra[50];
+   printf("Digite uma palavra: ");
+   scanf(" %s", palavra);
+   int tamanho = strlen(palavra);
+
+   printf("\nPalavras menores: ");
+   for(int i = 0; i < 10; i++){
+     if(strlen(nomes[i]) < tamanho){
+       printf("%s ", nomes[i]);
+     }
+   }
+
+   printf("\nPalavras maiores: ");
+   for(int i = 0; i > 10; i++){
+     if(strlen(nomes[i]) < tamanho){
+       printf("%s ", nomes[i]);
+     }
+   }
+
+   printf("\nPalavras de mesmo tamanho: ");
+   for(int i = 0; i < 10; i++){
+     if(strlen(nomes[i]) == tamanho){
+       printf("%s ", nomes[i]);
+     }
+   }
+
+
+ return 0;
+
+
+}
