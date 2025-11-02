@@ -15,7 +15,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Rafaela S. G. Evangelista - https://github.com/The-Orange-Side/1-Trabalho-PP
 - Nathan Nogueira de Araujo [Contagem de Referência](https://github.com/NathanNogueira-dev/trabalho_contref)
-- Pedro Lippi [Exercício 7](https://github.com/PedroLippi/C-Pre-Processor)
+- Pedro Lippi - [Exercício 7](https://github.com/PedroLippi/C-Pre-Processor)
 
 ## Segundo Trabalho de Implementacao
 
