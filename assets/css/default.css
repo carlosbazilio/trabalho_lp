@@ -1,0 +1,107 @@
+/* Base styles for desktop and mobile */
+body {
+    min-width: 100vw;
+    min-height: 100vh;
+
+    padding: 1rem;
+    /* small padding for mobile-friendly layout */
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* vertical centering */
+    align-items: center;
+    /* horizontal centering */
+
+    overflow-x: hidden;
+    /* prevent horizontal scroll */
+    background-color: darkseagreen;
+}
+
+.wrapper {
+    width: 100vh;
+    height: 100vh;
+    /* take full width on mobile */
+    max-width: 800px;
+    max-height: 90vh;
+    /* limit width on larger screens */
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    /* stack content vertically */
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    border: 2px solid black;
+    border-radius: 15px;
+    box-sizing: border-box;
+    /* Zoom out */
+
+    overflow: auto;
+    transform: scale(0.9);
+    /* 90% of original size */
+    transform-origin: center;
+    /* scale from center */
+}
+
+/* Optional: responsive text and spacing */
+h1,
+p {
+    text-align: center;
+    margin: 0.5rem 0;
+    transition: 0.5s;
+
+}
+
+h1:hover {
+    text-decoration: underline;
+}
+
+/* Media queries for small devices */
+@media (max-width: 480px) {
+    body {
+        padding: 0.5rem;
+        /* reduce padding */
+    }
+
+    .wrapper {
+        padding: 1rem;
+        border-radius: 10px;
+    }
+
+    h1:hover {
+        text-decoration: underline;
+        cursor: pointer;
+        /* show it’s interactive */
+    }
+}
+
+/* ===== Box container ===== */
+.container {
+    text-align: center;
+    margin: 0 auto;
+
+    /* horizontal alignment of boxes */
+    padding: 1rem;
+    /* right: 50%; */
+}
+
+/* ===== Box ===== */
+.box {
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    cursor: pointer;
+
+}
+
+/* Hover effect for boxes */
+.box:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+    cursor: pointer;
+}

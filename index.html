@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>index</title>
+
+        <!-- Default style -->
+        <link rel="stylesheet" href="assets/css/default.css"> 
+
+        <!-- CSS manually given -->
+        <link rel="stylesheet" href="assets/css/style-index.css"> 
+
+        <!-- JS manually given -->
+        <script src="assets/js/script-index.js"></script>
+        <script src="assets/js/test.js"></script>
+    </head>
+    <body> 
+        <div class = "wrapper">
+            <form class= "container" >
+                <h1>Heap Allocation</h1><br>
+
+                <section  class="radio-form">
+                    <label><input type="radio" name="checked" value="first" checked> First Fit</label><br>
+                    <label><input type="radio" name="checked" value="best"> Best Fit</label><br>
+                    <label><input type="radio" name="checked" value="worst"> Worst Fit</label><br>
+                    <label><input type="radio" name="checked" value="next"> Next Fit</label>
+                </section>
+
+
+                <main class = "register-container"> </main><!-- main part of the code-->
+
+                <input type= "text" placeholder ="new <>/del <>/ exibe" class="submiText">
+                <input type= "submit" value= "submit" class="submit" id="mainButton">
+
+
+                <div class="guide">
+                    <section class = "example ">
+                        <p style = "font-size:1.3em">Examples</p>
+                        <span style = "opacity: 70%">
+                        <p>new a 3</p>
+                        <p>new b 2</p>
+                        <p>new c 4</p>
+                        <p>d = b  </p>
+                        <p>del d  </p>
+                        <p>new e 1</p>
+                        </span>
+                    </section>
+
+                        <div class="historyContainer">
+                            <div class = "history "> </div>
+                        </div>
+                </div>
+            </form>
+            <!-- <button type="submit" value= "refresh">Refresh</button> -->
+            <!-- <div class = "randomRegister-Container" > your input</div> -->
+
+
+        </div>
+        <div id="warning" class="warning"></div>
+    </body>
+</html>

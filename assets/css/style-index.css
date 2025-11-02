@@ -1,0 +1,147 @@
+.radio-form {
+
+    right: 0;
+    display: flex;
+    flex-direction: flex-end;
+    justify-content: center;
+    justify-items: center;
+
+
+}
+
+
+.submit {
+    box-sizing: content-box;
+    margin: 1.5rem auto 2rem;
+}
+
+.submiText {
+    height: 1.5rem;
+    border-radius: 15px;
+    display: inline;
+    text-align: center;
+    /* center text horizontally */
+    line-height: 1.5rem;
+    /* vertically center text if single-line */
+    padding: 0 0.5rem;
+    /* optional horizontal padding */
+    box-sizing: border-box;
+    /* ensure padding doesn’t increase height */
+
+}
+
+.example {
+    margin: 0;
+    box-sizing: content-box;
+    width: fit-content;
+    background-color: rgb(18, 55, 34, 0.4);
+    padding: 1rem;
+    border-radius: 15px;
+}
+
+.example p {
+    margin: 0;
+    padding: 0 0.4rem 0;
+    ;
+}
+
+.randomRegister-Container,
+.register-container {
+
+    display: flex;
+    gap: 0.2rem;
+    justify-content: center;
+    align-items: center;
+
+    overflow-x: auto;
+    margin: 4%;
+    padding: 1%;
+    flex-wrap: nowrap;
+    height: auto;
+}
+
+.randomRegister-Container {
+    opacity: 40%;
+    border: 2px dotted black;
+    height: 1rem;
+    padding: 15px;
+
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+    /* Center horizontally */
+    margin: 0 auto;
+}
+
+.register-container {
+    align-items: center;
+    justify-content: flex-start;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+
+.randomRegister,
+.register {
+    border: 2px solid black;
+    border-radius: 4px;
+
+    /* mais compacto */
+    flex: 0 0 10px;
+
+
+    /* size */
+    height: 1rem;
+    width: 4rem;
+    /* altura fixa */
+    display: flex;
+    /* para centralizar conteúdo */
+    align-items: center;
+
+    /* interaction */
+    transition: all 0.3s ease;
+    /* cursor: pointer; */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.register:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+    cursor: pointer;
+}
+
+.guide {
+    display: flex;
+}
+
+.historyContainer {
+    display: flex;
+    width: 50%;
+
+
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.history {
+    margin: 1rem;
+    width: 30%;
+    border: 1px;
+    border-radius: 15px;
+    display: inline-block;
+    position: relative;
+}
+
+.history .box {
+    flex: 0 auto auto;
+}
+
+.warning {
+    color: red;
+    display: none;
+    margin-top: 10px;
+}
