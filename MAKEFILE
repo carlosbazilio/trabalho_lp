@@ -1,0 +1,40 @@
+TARGET = main
+
+LIB_NAME = libcontagem.a
+LIB_OBJ = contagem.o
+
+SRC_LIB = contagem.c
+SRC_TEST = main.c
+
+CC = gcc
+
+CFLAGS = -Wall -Wextra -g
+
+LDFLAGS = -L. -lgc
+
+all: $(TARGET)
+
+$(TARGET): $(LIB_NAME) $(SRC_TEST)
+	@echo "🔗 Linking o executável $(TARGET)..."
+	$(CC) $(CFLAGS) $(SRC_TEST) -o $(TARGET) $(LDFLAGS)
+	@echo "✅ Compilação do $(TARGET) concluída."
+
+$(LIB_NAME): $(LIB_OBJ)
+	@echo "📦 Criando a biblioteca estática $(LIB_NAME)..."
+	ar rcs $(LIB_NAME) $(LIB_OBJ)
+	@echo "✅ Biblioteca estática criada."
+
+$(LIB_OBJ): $(SRC_LIB) gc_refcount.h
+	@echo "⚙️ Compilando o arquivo objeto $(LIB_OBJ)..."
+	$(CC) $(CFLAGS) -c $(SRC_LIB) -o $(LIB_OBJ)
+
+.PHONY: clean run
+
+clean:
+	@echo "🗑️ Limpando arquivos gerados..."
+	rm -f $(LIB_OBJ) $(LIB_NAME) $(TARGET)
+	@echo "Limpeza concluída."
+
+run: $(TARGET)
+	@echo "▶️ Executando $(TARGET)..."
+	./$(TARGET)
