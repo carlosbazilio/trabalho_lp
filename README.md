@@ -15,7 +15,8 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Rafaela S. G. Evangelista - https://github.com/The-Orange-Side/1-Trabalho-PP
 - Nathan Nogueira de Araujo [Contagem de Referência](https://github.com/NathanNogueira-dev/trabalho_contref)
-
+- Beatriz Bicalho [ Simulador Heap - First e Worst](https://github.com/BiaBicalho/TrabalhosParadigmas)
+- 
 ## Segundo Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos disponíveis [neste arquivo](https://carlosbazilio.github.io/cursos/pp/material/ListaExerciciosProgOO.pdf), ou algum outro que apresente previamente para o professor e seja aceito como opção, usando o paradigma OO. O uso da linguagem Java não é obrigatório. Estes trabalhos podem ser feitos de forma individual ou em dupla.
