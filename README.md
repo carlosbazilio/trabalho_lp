@@ -15,6 +15,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Rafaela S. G. Evangelista - https://github.com/The-Orange-Side/1-Trabalho-PP
 - Nathan Nogueira de Araujo [Contagem de Referência](https://github.com/NathanNogueira-dev/trabalho_contref)
+- Miguel Arcuri Carapeto Faria - https://github.com/Arcuri14/trabalho_pp
 
 ## Segundo Trabalho de Implementacao
 
