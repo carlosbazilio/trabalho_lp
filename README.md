@@ -15,6 +15,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Rafaela S. G. Evangelista - https://github.com/The-Orange-Side/1-Trabalho-PP
 - Nathan Nogueira de Araujo [Contagem de Referência](https://github.com/NathanNogueira-dev/trabalho_contref)
+- Beatriz Bicalho [ Simulador Heap - First e Worst](https://github.com/BiaBicalho/TrabalhosParadigmas)
 - Pedro Lippi - [Exercício 7](https://github.com/PedroLippi/C-Pre-Processor)
 - Luidgi Matos e Thiago Furriel - https://github.com/ThiagoFurriel/coletordelixo
 - Felipe Rand - [Manipulação de Heap](https://github.com/liperand/Manipulacao-Heap.git)
