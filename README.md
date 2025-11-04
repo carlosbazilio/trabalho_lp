@@ -15,6 +15,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Rafaela S. G. Evangelista - https://github.com/The-Orange-Side/1-Trabalho-PP
 - Nathan Nogueira de Araujo [Contagem de Referência](https://github.com/NathanNogueira-dev/trabalho_contref)
+- Felipe Rand - [Manipulação de Heap](https://github.com/liperand/Manipulacao-Heap.git)
 - Yasmin Caetano, Carolina Teixeira e Letícia Urbano [Pré-Processador de C](https://github.com/YasminCaetanoCC/Trabalho_01_Pre_processador_de_C.git)
 - Luc Panet de Oliveira, Pedro Henrick Albuquerque Macedo - [Simulador Heap](https://github.com/LucPanet/SimulaHeap)
 - Beatriz dos Santos Cunha [Simulador para bazl25](https://github.com/beeatrizsc/Escopo-Estatico-e-Dinamico-para-bazl25)
