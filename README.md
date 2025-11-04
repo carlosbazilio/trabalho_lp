@@ -15,6 +15,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 - Rafaela S. G. Evangelista - https://github.com/The-Orange-Side/1-Trabalho-PP
 - Nathan Nogueira de Araujo [Contagem de Referência](https://github.com/NathanNogueira-dev/trabalho_contref)
+- Beatriz dos Santos Cunha [Simulador para bazl25](https://github.com/beeatrizsc/Escopo-Estatico-e-Dinamico-para-bazl25)
 - Kaio Pimentel dos Santos, Kwame Nkrumah Mawusi Gil Leal [Demonstração de Coletor de Lixo](https://github.com/Ghoztk/Demo-Coletor-Lixo-C)
 
 ## Segundo Trabalho de Implementacao
