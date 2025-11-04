@@ -11,8 +11,9 @@ Este repositório serve para os alunos e alunas de LP (UFF, Rio das Ostras) inic
 
 No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](https://carlosbazilio.github.io/cursos/pp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual, em dupla ou trio. (Para tal, ao menos 1 integrante de cada grupo deve fazer um **fork** deste projeto, inserir um link com o endereço do repositório público onde o projeto está armazenado, e fazer um **pull request** para este projeto. Caso estejam usando o Git/Github pela primeira vez, sigam o passo a passo apresentado [neste vídeo](https://www.youtube.com/watch?v=RP5L4mAtxto) e em [sua sequência](https://www.youtube.com/watch?v=GrnAygK1zsA).
 
-- João Paulo Firmiano da Costa, Enzo Tatagiba, Leonardo Brandão Maia Filho, Samuel Da Costa Galasso - Endereço do Repositório
+- João Paulo Firmiano da Costa, Enzo Tatagiba
 
+- Endereço do Repositório
 - [Repositório](https://github.com/jpcostz/trabalho_lp.git)
 
 ## Segundo Trabalho de Implementacao
