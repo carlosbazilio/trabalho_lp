@@ -24,6 +24,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Luc Panet de Oliveira, Pedro Henrick Albuquerque Macedo - [Simulador Heap](https://github.com/LucPanet/SimulaHeap)
 - Beatriz dos Santos Cunha [Simulador para bazl25](https://github.com/beeatrizsc/Escopo-Estatico-e-Dinamico-para-bazl25)
 - Kaio Pimentel dos Santos, Kwame Nkrumah Mawusi Gil Leal [Demonstração de Coletor de Lixo](https://github.com/Ghoztk/Demo-Coletor-Lixo-C)
+- Vítor Vargas dos Santos, João Vitor Mamede - https://github.com/vitorvargas-777/Coleta-Autom-tica-de-Lixo
 
 ## Segundo Trabalho de Implementacao
 
