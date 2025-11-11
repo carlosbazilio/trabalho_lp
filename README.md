@@ -25,6 +25,8 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Beatriz dos Santos Cunha [Simulador para bazl25](https://github.com/beeatrizsc/Escopo-Estatico-e-Dinamico-para-bazl25)
 - Kaio Pimentel dos Santos, Kwame Nkrumah Mawusi Gil Leal [Demonstração de Coletor de Lixo](https://github.com/Ghoztk/Demo-Coletor-Lixo-C)
 - Vítor Vargas dos Santos, João Vitor Mamede - https://github.com/vitorvargas-777/Coleta-Autom-tica-de-Lixo
+- Pedro Henrique de Jesus, [demonstraçao heap Alocation](https://pot8todev.github.io/trabalhoParadigmas.github.io/) [link para o repositorio](https://github.com/pot8todev/trabalhoParadigmas.github.io)
+- Rafael Miranda França [Coleta de Lixo](https://github.com/Rafaelmf03/Contagem_ref)
 
 ## Segundo Trabalho de Implementacao
 
