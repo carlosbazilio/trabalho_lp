@@ -28,6 +28,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Vítor Vargas dos Santos, João Vitor Mamede - https://github.com/vitorvargas-777/Coleta-Autom-tica-de-Lixo
 - Pedro Henrique de Jesus, [demonstraçao heap Alocation](https://pot8todev.github.io/trabalhoParadigmas.github.io/) [link para o repositorio](https://github.com/pot8todev/trabalhoParadigmas.github.io)
 - Rafael Miranda França [Coleta de Lixo](https://github.com/Rafaelmf03/Contagem_ref)
+- Letícia Lopes, Ana Clara Nicolau - [Simulador de heap](https://github.com/leticia-a-lopes/trabalho_lp)
 
 ## Segundo Trabalho de Implementacao
 
