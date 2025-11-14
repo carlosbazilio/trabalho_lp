@@ -9,7 +9,7 @@ Este repositório serve para os alunos e alunas de LP (UFF, Rio das Ostras) inic
 
 ## Primeiro Trabalho de Implementacao
 
-No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](https://carlosbazilio.github.io/cursos/pp/material/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual, em dupla ou trio. (Para tal, ao menos 1 integrante de cada grupo deve fazer um **fork** deste projeto, inserir um link com o endereço do repositório público onde o projeto está armazenado, e fazer um **pull request** para este projeto. Caso estejam usando o Git/Github pela primeira vez, sigam o passo a passo apresentado [neste vídeo](https://www.youtube.com/watch?v=RP5L4mAtxto) e em [sua sequência](https://www.youtube.com/watch?v=GrnAygK1zsA).
+No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [neste arquivo](https://carlosbazilio.github.io/cursos/paradigmas/Trabalhos.pdf) (do 2 ao 7). Insiram o link do repositório para que o desenvolvimento possa ser acompanhado. Os trabalhos podem ser feitos de forma individual, em dupla ou trio. (Para tal, ao menos 1 integrante de cada grupo deve fazer um **fork** deste projeto, inserir um link com o endereço do repositório público onde o projeto está armazenado, e fazer um **pull request** para este projeto. Caso estejam usando o Git/Github pela primeira vez, sigam o passo a passo apresentado [neste vídeo](https://www.youtube.com/watch?v=RP5L4mAtxto) e em [sua sequência](https://www.youtube.com/watch?v=GrnAygK1zsA).
 
 - Aluno(a)1 [, Aluno(a)2] - Endereço do Repositório
 
@@ -33,7 +33,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 
 ## Segundo Trabalho de Implementacao
 
-Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos disponíveis [neste arquivo](https://carlosbazilio.github.io/cursos/pp/material/ListaExerciciosProgOO.pdf), ou algum outro que apresente previamente para o professor e seja aceito como opção, usando o paradigma OO. O uso da linguagem Java não é obrigatório. Estes trabalhos podem ser feitos de forma individual ou em dupla.
+Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos disponíveis [neste arquivo](https://carlosbazilio.github.io/cursos/paradigmas/ListaExerciciosProgOO.pdf), ou algum outro que apresente previamente para o professor e seja aceito como opção, usando o paradigma OO. O uso da linguagem Java não é obrigatório. Estes trabalhos podem ser feitos de forma individual ou em dupla.
 
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
 
