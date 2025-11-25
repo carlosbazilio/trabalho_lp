@@ -29,7 +29,8 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 - Pedro Henrique de Jesus, [demonstraçao heap Alocation](https://pot8todev.github.io/trabalhoParadigmas.github.io/) [link para o repositorio](https://github.com/pot8todev/trabalhoParadigmas.github.io)
 - Rafael Miranda França [Coleta de Lixo](https://github.com/Rafaelmf03/Contagem_ref)
 - Letícia Lopes, Ana Clara Nicolau - [Simulador de heap](https://github.com/leticia-a-lopes/trabalho_lp)
-- Leonardo Brandão Maia Filho, Samuel Galasso - [Pré-processamento](https://github.com/LeonardoBrandaoM/trabalho_lp-agora-vai-) 
+- Leonardo Brandão Maia Filho, Samuel Galasso - [Pré-processamento](https://github.com/LeonardoBrandaoM/trabalho_lp-agora-vai-)
+- João Paulo Firmiano da Costa, Enzo Tatagiba Cariello Rodrigues - [Pré-Processamento](https://github.com/jpcostz/trabalho_lp)
 
 ## Segundo Trabalho de Implementacao
 
@@ -38,6 +39,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
 
 - Rafael Miranda, [Projeto_Logistica_O.O](https://github.com/Rafaelmf03/trabalho2_25-2)
+- João Paulo Firmiano da Costa, Enzo Tatagiba Cariello Rodrigues - [Atividade 3 - Manipulação de Objetos](https://github.com/jpcostz/lp2.java)
 
 ## Terceiro Trabalho de Implementacao
 
