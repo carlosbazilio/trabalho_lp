@@ -39,6 +39,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 
 - Rafael Miranda, [Projeto_Logistica_O.O](https://github.com/Rafaelmf03/trabalho2_25-2)
 
+- Pedro Henrique de Jesus, [blackjack usando conceitos do O.O.](https://github.com/pot8todev/Blackjack/tree/main) 
 ## Terceiro Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do segundo trabalho escolhido. Observe que não é necessário que este execute de forma fiel ao anterior. Basta que funcione de forma similar. Este trabalho também pode ser feito de forma individual ou em dupla.
