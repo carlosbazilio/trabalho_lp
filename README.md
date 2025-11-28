@@ -38,6 +38,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
 
 - Rafael Miranda, [Projeto_Logistica_O.O](https://github.com/Rafaelmf03/trabalho2_25-2)
+- Beatriz dos Santos Cunha [Jogo RPG com POO](https://github.com/beeatrizsc/Jogo-RPG-com-POO.git)
 
 ## Terceiro Trabalho de Implementacao
 
