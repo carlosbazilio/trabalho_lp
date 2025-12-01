@@ -38,6 +38,8 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
 
 - Rafael Miranda, [Projeto_Logistica_O.O](https://github.com/Rafaelmf03/trabalho2_25-2)
+- João Vitor Mamede, Vítor Vargas - [Pilha em Java](https://github.com/vitorvargas-777/Paradigmas-Pilha-Java.git)
+
 
 ## Terceiro Trabalho de Implementacao
 
