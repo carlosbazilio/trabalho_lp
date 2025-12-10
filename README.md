@@ -39,6 +39,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
 
 - Rafael Miranda, [Projeto_Logistica_O.O](https://github.com/Rafaelmf03/trabalho2_25-2)
+- Kaio Pimentel dos Santos, Kwame Nkrumah Mawusi Gil Leal [Pilha em O.O.](https://github.com/Ghoztk/Pilha-em-OO)
 - João Paulo Firmiano da Costa, Enzo Tatagiba Cariello Rodrigues - [Atividade 3 - Manipulação de Objetos](https://github.com/jpcostz/lp2.java)
 
 ## Terceiro Trabalho de Implementacao
