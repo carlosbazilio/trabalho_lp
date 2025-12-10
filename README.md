@@ -43,6 +43,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Kaio Pimentel dos Santos, Kwame Nkrumah Mawusi Gil Leal [Pilha em O.O.](https://github.com/Ghoztk/Pilha-em-OO)
 - João Paulo Firmiano da Costa, Enzo Tatagiba Cariello Rodrigues - [Atividade 3 - Manipulação de Objetos](https://github.com/jpcostz/lp2.java)
 
+- Pedro Henrique de Jesus, [blackjack usando conceitos do O.O.](https://github.com/pot8todev/Blackjack/tree/main) 
 ## Terceiro Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do segundo trabalho escolhido. Observe que não é necessário que este execute de forma fiel ao anterior. Basta que funcione de forma similar. Este trabalho também pode ser feito de forma individual ou em dupla.
