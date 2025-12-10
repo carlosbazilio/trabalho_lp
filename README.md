@@ -39,6 +39,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
 
 - Rafael Miranda, [Projeto_Logistica_O.O](https://github.com/Rafaelmf03/trabalho2_25-2)
+- Nathan Nogueira, [Agenda Telefônica O.O](https://github.com/NathanNogueira-dev/trabalho_pp2)
 - Beatriz dos Santos Cunha [Jogo RPG com POO](https://github.com/beeatrizsc/Jogo-RPG-com-POO.git)
 - Rafaela S. G. Evangelista - Agênda Telefônica - https://github.com/The-Orange-Side/2-Trabalho-PP-
 - Kaio Pimentel dos Santos, Kwame Nkrumah Mawusi Gil Leal [Pilha em O.O.](https://github.com/Ghoztk/Pilha-em-OO)
