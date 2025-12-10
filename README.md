@@ -49,6 +49,8 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 
 - Carolina Teixeira, Letícia Urbano, Yasmin Caetano [Agenda_Telefonica] (https://github.com/carolpteixeira/nova-agenda-telefonica.git)
 
+- Felipe Rand - [Agenda](https://github.com/liperand/Agenda-JS.git)
+
 ## Terceiro Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do segundo trabalho escolhido. Observe que não é necessário que este execute de forma fiel ao anterior. Basta que funcione de forma similar. Este trabalho também pode ser feito de forma individual ou em dupla.
