@@ -37,6 +37,7 @@ No primeiro trabalho, vocês devem implementar algum dos trabalhos listados [nes
 Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos disponíveis [neste arquivo](https://carlosbazilio.github.io/cursos/paradigmas/ListaExerciciosProgOO.pdf), ou algum outro que apresente previamente para o professor e seja aceito como opção, usando o paradigma OO. O uso da linguagem Java não é obrigatório. Estes trabalhos podem ser feitos de forma individual ou em dupla.
 
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
+- Ana Beatriz Cosenza - https://github.com/biacszz/personalLibrary
 
 - Rafael Miranda, [Projeto_Logistica_O.O](https://github.com/Rafaelmf03/trabalho2_25-2)
 - Luidgi Matos e Thiago Furriel - https://github.com/ThiagoFurriel/AgendaTelefonicaOO
