@@ -39,6 +39,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Aluno(a)1 [, Aluno(a)2] - No. do Trabalho - Endereço do Repositório
 
 - Rafael Miranda, [Projeto_Logistica_O.O](https://github.com/Rafaelmf03/trabalho2_25-2)
+- Luidgi Matos e Thiago Furriel - https://github.com/ThiagoFurriel/AgendaTelefonicaOO
 - Leonardo Brandão, Samuel Galasso , [trabalho de implementação OO de pilha utilizando vetor, exercício 7 da lista, feito em python](https://github.com/LeonardoBrandaoM/2o-tb-paradigmas-ex7.ipynb)
 - Nathan Nogueira, [Agenda Telefônica O.O](https://github.com/NathanNogueira-dev/trabalho_pp2)
 - Beatriz dos Santos Cunha [Jogo RPG com POO](https://github.com/beeatrizsc/Jogo-RPG-com-POO.git)
@@ -46,9 +47,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Kaio Pimentel dos Santos, Kwame Nkrumah Mawusi Gil Leal [Pilha em O.O.](https://github.com/Ghoztk/Pilha-em-OO)
 - João Paulo Firmiano da Costa, Enzo Tatagiba Cariello Rodrigues - [Atividade 3 - Manipulação de Objetos](https://github.com/jpcostz/lp2.java)
 - Pedro Henrique de Jesus, [blackjack usando conceitos do O.O.](https://github.com/pot8todev/Blackjack/tree/main) 
-
 - Carolina Teixeira, Letícia Urbano, Yasmin Caetano [Agenda_Telefonica] (https://github.com/carolpteixeira/nova-agenda-telefonica.git)
-
 - Felipe Rand - [Agenda](https://github.com/liperand/Agenda-JS.git)
 
 ## Terceiro Trabalho de Implementacao
