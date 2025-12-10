@@ -40,6 +40,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 
 - Ana Beatriz Cosenza - https://github.com/biacszz/personalLibrary
 - Rafael Miranda, [Projeto_Logistica_O.O](https://github.com/Rafaelmf03/trabalho2_25-2)
+- João Vitor Mamede, Vítor Vargas - [Pilha em Java](https://github.com/vitorvargas-777/Paradigmas-Pilha-Java.git)
 - Pedro Henrick Albuquerque Macedo, Luc Panet de Oliveira [3 - Carrinho de compras] https://github.com/deltaPetros/PP2
 - Luidgi Matos e Thiago Furriel - https://github.com/ThiagoFurriel/AgendaTelefonicaOO
 - Leonardo Brandão, Samuel Galasso , [trabalho de implementação OO de pilha utilizando vetor, exercício 7 da lista, feito em python](https://github.com/LeonardoBrandaoM/2o-tb-paradigmas-ex7.ipynb)
