@@ -52,7 +52,7 @@ Neste trabalho vocês devem implementar **e incrementar** algum dos trabalhos di
 - Pedro Henrique de Jesus, [blackjack usando conceitos do O.O.](https://github.com/pot8todev/Blackjack/tree/main) 
 - Carolina Teixeira, Letícia Urbano, Yasmin Caetano [Agenda_Telefonica] (https://github.com/carolpteixeira/nova-agenda-telefonica.git)
 - Felipe Rand - [Agenda](https://github.com/liperand/Agenda-JS.git)
-
+- Ana Clara Nicolau, Beatriz Bicalho e Letícia Lopes - [Carrinho de Compras - Java](https://github.com/anaclaranicolau/CarrinhoDeCompras-JAVA)
 ## Terceiro Trabalho de Implementacao
 
 Neste trabalho vocês devem implementar uma versão funcional, em Haskell, do segundo trabalho escolhido. Observe que não é necessário que este execute de forma fiel ao anterior. Basta que funcione de forma similar. Este trabalho também pode ser feito de forma individual ou em dupla.
